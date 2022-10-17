@@ -25,7 +25,6 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 94.242.17.243:50006:eefa8f19c904d36a8bd25225db2b1f8e397777772e676f6f676c652e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
-66.45.227.94:443:ee000000000000000000000000000000006e616d6176612e6972
 victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 188.209.153.61:9090:ee00000000000000000000000000000000736c61636b2e636f6d
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
