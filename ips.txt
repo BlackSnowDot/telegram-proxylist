@@ -66,7 +66,6 @@ cloudflare--aws.cloudflare-aws.mylftv.com.:443:eeda411655b684fe87abf58ec2235e281
 dark.kmc-plus.skin:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
-cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_withme.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.api-botcloud.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 38.54.2.106:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives:442:7gAAAAAAAAAAAAAAAAAAAAB3d3cuYXJ2YW5jbG91ZC5naXZlcw
