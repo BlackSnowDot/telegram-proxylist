@@ -6,7 +6,6 @@ https://t.me/proxy?server=38.54.2.244&port=8076&secret=eec80ff604fa45408f1d15262
 https://t.me/proxy?server=165.22.68.33&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 https://t.me/proxy?server=66.23.232.98&port=443&secret=eeaac5af0abeec4fceb45c1fc147ba77076e616d6176612e6972
 https://t.me/proxy?server=94.237.111.229&port=443&secret=ee0000000000000000000000000000000073616b68612e65706f
-https://t.me/proxy?server=5.252.118.142&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=38.54.2.248&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63
 https://t.me/proxy?server=64.20.62.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=157.90.28.95&port=443&secret=ee000000000000000000000000000000006d632e79616e646578
@@ -36,6 +35,5 @@ https://t.me/proxy?server=162.246.20.182&port=443&secret=eecac5af0abeec4fceb45c1
 https://t.me/proxy?server=173.225.110.66&port=443&secret=eeaac5af0abeec4fceb45c1fc147ba77076e616d6176612e6972
 https://t.me/proxy?server=78.157.36.123&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63
 https://t.me/proxy?server=89.38.145.199&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf27765622e727562696b
-https://t.me/proxy?server=68.168.209.122&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=38.54.2.133&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63
