@@ -1,7 +1,6 @@
 https://t.me/proxy?server=77.73.131.27&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 https://t.me/proxy?server=Rubika.com.rubika.kim&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_withme.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.api-botcloud.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 https://t.me/proxy?server=Google.com.cloudways.live&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 https://t.me/proxy?server=94.242.17.243&port=50006&secret=eefa8f19c904d36a8bd25225db2b1f8e397777772e676f6f676c652e636f6d
 https://t.me/proxy?server=31.192.237.84&port=4334&secret=7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
