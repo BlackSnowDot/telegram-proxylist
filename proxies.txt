@@ -96,6 +96,7 @@ https://t.me/proxy?server=49.12.241.237&port=8080&secret=ee00112233445566778899a
 https://t.me/proxy?server=185.226.119.149&port=444&secret=7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
 https://t.me/proxy?server=167.235.139.231&port=443&secret=ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 https://t.me/proxy?server=halal.www.bing.com.hostiran.rest&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
+https://t.me/proxy?server=64.31.55.207&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 https://t.me/proxy?server=188.209.153.61&port=9090&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=13.80.46.48&port=443&secret=b0cbcef5a486d9636472ac27f8e11a9d
 https://t.me/proxy?server=152.89.44.8&port=8080&secret=8b2394ad2ecef7e607d5f52b31a45768
