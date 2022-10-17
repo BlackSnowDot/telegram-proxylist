@@ -25,7 +25,6 @@ https://t.me/proxy?server=80.82.67.104&port=1090&secret=dd530c74446979e2733705e7
 https://t.me/proxy?server=31.14.116.169&port=443&secret=eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e636f6d
 https://t.me/proxy?server=data-01-date.cli-bottest.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 https://t.me/proxy?server=Caop.Galaxy-store.tech&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-https://t.me/proxy?server=149.5.173.210&port=8080&secret=7tpqp8KsYZwGDzVfPxcyVzdhcC53d3cubmFtZWNoZWFwLmNvbQ%3D%3D
 https://t.me/proxy?server=136.243.69.179&port=443&secret=7tpqp8KsYZwGDzVfPxcyVzdzbGFjay5jb20
 https://t.me/proxy?server=victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=134.122.80.122&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -116,4 +115,4 @@ https://t.me/proxy?server=dante.cloudbox.plumbing&port=443&secret=7jK5IN_7UWQwKO
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=fll2.fulilaidb.vip&port=443&secret=ee0ef68c7609b736a5fea67ee02aac3b2d617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
-https://t.me/proxy?server=31.192.104.204&port=449&secret=7jYVz9pwrIOhliWjonTrFfR3d3cuY2xvdWRmbGFyZS5jb20
+https://t.me/proxy?server=149.5.173.210&port=8080&secret=7tpqp8KsYZwGDzVfPxcyVzdhcC53d3cubmFtZWNoZWFwLmNvbQ%3D%3D
