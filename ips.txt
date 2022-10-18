@@ -8,7 +8,6 @@ ramsar.rambod.ramak-msi.icu:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3Vk
 www.autoonly.us.:443:7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20%3D
 ventrall21.itsme3ans.org.uk:443:EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoks.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-79.137.197.160:5000:7rar7F9OHRWA4oFXZQFyrKFzMS55YWhvby5jb20=
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 13.80.46.48:443:b0cbcef5a486d9636472ac27f8e11a9d
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
@@ -24,10 +23,8 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 149.5.173.210:8080:7tpqp8KsYZwGDzVfPxcyVzdhcC53d3cubmFtZWNoZWFwLmNvbQ%3D%3D
 38.54.9.221:88:7tvikxn_uBPIq7OAYerm81NzZWdtZW50LnByb2QuYmlkci5pbw==
 38.54.2.133:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
-185.229.66.149:5000:7rar7F9OHRWA4oFXZQFyrKFzMS55YWhvby5jb20=
 135.181.27.105:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
-185.229.66.151:5000:eeb6abec5f4e1d1580e28157650172aca173312e7961686f6f2e636f6d
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 38.54.2.248:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
@@ -46,7 +43,6 @@ Ara.uruag-flat-lre.lol:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA=
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-185.229.66.150:5000:eeb6abec5f4e1d1580e28157650172aca173312e7961686f6f2e636f6d
 wsa.jastin-karen.ventures:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 31.192.104.204:449:7jYVz9pwrIOhliWjonTrFfR3d3cuY2xvdWRmbGFyZS5jb20
 38.54.2.199:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
@@ -75,7 +71,6 @@ Caop.Galaxy-store.tech:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvb
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayob.blackmile.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 94.242.17.243:50006:eefa8f19c904d36a8bd25225db2b1f8e397777772e676f6f676c652e636f6d
-89.208.104.214:5000:7rar7F9OHRWA4oFXZQFyrKFzMS55YWhvby5jb20=
 victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
@@ -102,8 +97,6 @@ cable.shape-sensor.baby:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJv
 dante.cloudbox.plumbing:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 152.89.45.167:8080:ee00000000000000000000000000000000736c61636b2e636f6d
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-45.142.122.102:5000:eeb6abec5f4e1d1580e28157650172aca173312e7961686f6f2e636f6d
-79.137.198.193:5000:eeb6abec5f4e1d1580e28157650172aca173312e7961686f6f2e636f6d
 cloudflare--aws.cloudflare-aws.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.112.151.145:8906:7skNwfRiq5qWYi_wXnayq8l3d3cuY2xvdWRmbGFyZS5jb20
 38.54.2.106:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
