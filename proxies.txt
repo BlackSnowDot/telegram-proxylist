@@ -6,7 +6,6 @@ https://t.me/proxy?server=67.43.239.160&port=2000&secret=7qUDwvZkcOu0GJmTvwJHdr5
 https://t.me/proxy?server=31.192.237.84&port=4334&secret=7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 https://t.me/proxy?server=94.242.17.243&port=50006&secret=eefa8f19c904d36a8bd25225db2b1f8e397777772e676f6f676c652e636f6d
 https://t.me/proxy?server=165.22.68.33&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
-https://t.me/proxy?server=66.23.232.98&port=443&secret=eeaac5af0abeec4fceb45c1fc147ba77076e616d6176612e6972
 https://t.me/proxy?server=Namava.namava.ir.namava--ir.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=Dante.cloudbox.plumbing&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=146.190.28.144&port=8087&secret=7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI&@ProxyVpn11
@@ -55,7 +54,6 @@ https://t.me/proxy?server=79.175.129.214&port=443&secret=ee5b3fa9760c0d801adc060
 https://t.me/proxy?server=cable.shape-sensor.baby&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=oxygen.radical-n.site&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=Rose.thanks-a-lot.yachts&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
-https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA=
 https://t.me/proxy?server=com.on.bsr.to.delete.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.sparr.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
@@ -115,14 +113,13 @@ https://t.me/proxy?server=chilmichil.web-hunter.college&port=443&secret=7jK5IN_7
 https://t.me/proxy?server=5.161.77.249&port=443&secret=7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 https://t.me/proxy?server=78.140.245.77&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=45.76.36.150&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-https://t.me/proxy?server=namava.namava.ir.namava--ir.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=winterhouse-wood.abrarvancloud.foundation&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=185.101.96.31&port=443&secret=ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=Microsoft.com.google---com.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=78.157.36.99&port=2096&secret=7s46nPjmSqcRDE7PCfPlQyFzbXRwLmdvb2dsZS5jb20
-https://t.me/proxy?server=152.89.45.167&port=8080&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=89.208.106.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=77.73.131.56&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+https://t.me/proxy?server=165.227.232.90&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
