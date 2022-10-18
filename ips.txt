@@ -14,6 +14,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 38.54.2.197:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 Full.Forall-VP.Asia.:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 185.226.119.149:444:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
+193.29.104.185:2390:ee5e0fc16ab61431b123e22dba26abc7dc7777772e636c6f7564666c6172652e636f6d
 94.101.176.118:8080:ee00000000000000000000000000000000736c61636b2e636f6d
 78.157.36.99:2096:7s46nPjmSqcRDE7PCfPlQyFzbXRwLmdvb2dsZS5jb20
 64.31.55.201:443:7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
@@ -58,6 +59,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 Eager.dynu.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 fll2.fulilaidb.vip:443:ee0ef68c7609b736a5fea67ee02aac3b2d617a7572652e6d6963726f736f66742e636f6d
 104.149.155.26:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg
+149.5.173.212:543:7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI%3D
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_waiopya.parspack.tk.:443:7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -66,7 +68,6 @@ winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaX
 31.14.116.169:443:eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e636f6d
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
-Caop.Galaxy-store.tech:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 165.227.232.90:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 149.5.173.212:543:7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI=
 38.54.2.74:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
@@ -77,6 +78,7 @@ victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.q
 89.208.104.214:5000:7rar7F9OHRWA4oFXZQFyrKFzMS55YWhvby5jb20=
 38.54.2.27:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
+38.54.2.60:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 104.149.158.170:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 77.73.131.27:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -89,8 +91,8 @@ Dante.cloudbox.plumbing:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 46.102.130.61:443:ee7780a1c77896368e268eb8a809a400757777772e617276616e636c6f75642e636f6d
 38.54.2.233:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 mci.reserve.dandan.clinic:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
-95.217.131.111:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
+95.217.131.111:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 khabis.arvancloud.cam:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 79.175.129.214:443:ee5b3fa9760c0d801adc0607e469a8d2f27777772e617276616e636c6f75642e636f6d
 oxygen.radical-n.site:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
