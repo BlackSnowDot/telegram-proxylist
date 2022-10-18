@@ -3,6 +3,7 @@ https://t.me/proxy?server=mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--c
 https://t.me/proxy?server=38.54.2.14&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 https://t.me/proxy?server=65.109.13.20&port=443&secret=EE1603010200010001fc030386e24c3add7777772e727562696b612e616272696b612e616d726963612e66756e
 https://t.me/proxy?server=Rubika.com.rubika.kim&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_withme.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.api-botcloud.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 https://t.me/proxy?server=Google.com.cloudways.live&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 https://t.me/proxy?server=67.43.239.160&port=2000&secret=7qUDwvZkcOu0GJmTvwJHdr5kcy5pcmFuY2VsbC5pcg%3D%3D
 https://t.me/proxy?server=31.192.237.84&port=4334&secret=7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
@@ -100,6 +101,7 @@ https://t.me/proxy?server=38.54.2.119&port=8076&secret=eec80ff604fa45408f1d15262
 https://t.me/proxy?server=89.38.145.199&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
 https://t.me/proxy?server=49.12.241.237&port=8080&secret=ee00112233445566778899aabbccddeeff6e616d6176612e6972
 https://t.me/proxy?server=185.226.119.149&port=444&secret=7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
+https://t.me/proxy?server=89.208.104.214&port=5000&secret=7rar7F9OHRWA4oFXZQFyrKFzMS55YWhvby5jb20=
 https://t.me/proxy?server=167.235.139.231&port=443&secret=ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 https://t.me/proxy?server=some.json.healthcare.&port=443&secret=7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
 https://t.me/proxy?server=1401-1402.herta-berlin-01.info&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
