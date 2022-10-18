@@ -7,6 +7,7 @@ ramsar.rambod.ramak-msi.icu:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3Vk
 www.autoonly.us.:443:7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20%3D
 104.149.155.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 ventrall21.itsme3ans.org.uk:443:EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
+38.54.2.127:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 188.209.153.61:9090:ee00000000000000000000000000000000736c61636b2e636f6d
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
@@ -38,6 +39,7 @@ iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives:44
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 wsa.jastin-karen.ventures:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+38.54.2.196:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 65.109.13.20:443:EE1603010200010001fc030386e24c3add7777772e727562696b612e616272696b612e616d726963612e66756e
 31.192.104.204:449:7jYVz9pwrIOhliWjonTrFfR3d3cuY2xvdWRmbGFyZS5jb20
 38.54.2.199:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
@@ -115,7 +117,6 @@ Rubika.com.rubika.kim:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.139.222.118:7001:eecb4354d680ab51ecaf98300b1b0807c17777772e636c6f7564666c6172652e636f6d
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
-some.json.healthcare.:443:7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.22:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
 halal.www.bing.com.hostiran.rest:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
