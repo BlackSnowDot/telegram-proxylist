@@ -55,7 +55,6 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 Eager.dynu.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 fll2.fulilaidb.vip:443:ee0ef68c7609b736a5fea67ee02aac3b2d617a7572652e6d6963726f736f66742e636f6d
 38.54.2.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-chilmichil.web-hunter.college:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_waiopya.parspack.tk.:443:7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
 104.149.158.178:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
@@ -103,6 +102,7 @@ Full.Forall-VP.Asia.:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6
 38.54.2.14:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 38.54.2.106:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
+139.162.128.62:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 HD.filimo-freenom.co.in:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 188.34.159.250:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
