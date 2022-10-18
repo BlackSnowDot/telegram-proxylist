@@ -10,7 +10,6 @@ www.autoonly.us.:443:7gAAAAAAAAAAAAAAAAAAAABzbGFjay5jb20%3D
 104.149.155.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 ventrall21.itsme3ans.org.uk:443:EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
-13.80.46.48:443:b0cbcef5a486d9636472ac27f8e11a9d
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
 38.54.2.197:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 Full.Forall-VP.Asia.:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
@@ -23,7 +22,6 @@ Full.Forall-VP.Asia.:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 149.5.173.210:8080:7tpqp8KsYZwGDzVfPxcyVzdhcC53d3cubmFtZWNoZWFwLmNvbQ%3D%3D
 38.54.9.221:88:7tvikxn_uBPIq7OAYerm81NzZWdtZW50LnByb2QuYmlkci5pbw==
-38.54.2.133:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 135.181.27.105:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -32,6 +30,7 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 79.137.196.42:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 136.243.69.179:443:7tpqp8KsYZwGDzVfPxcyVzdzbGFjay5jb20
+159.223.49.8:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 dark.kmc-plus.skin:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
@@ -63,6 +62,7 @@ web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_waiopya.parspack.tk.:443:7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
 104.149.158.178:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+104.149.155.58:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 31.14.116.169:443:eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e636f6d
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
@@ -101,6 +101,7 @@ cable.shape-sensor.baby:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJv
 64.20.62.62:443:eecac5af0abeec4fceb45c1fc147ba77076e616d6176612e6972
 dante.cloudbox.plumbing:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+104.149.155.58:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 Full.Forall-VP.Asia.:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 185.112.151.145:8906:7skNwfRiq5qWYi_wXnayq8l3d3cuY2xvdWRmbGFyZS5jb20
 38.54.2.106:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
@@ -121,7 +122,6 @@ some.json.healthcare.:443:7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
 152.89.45.139:9090:ee00000000000000000000000000000000736c61636b2e636f6d
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.22:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
-78.140.245.77:8076:eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
 halal.www.bing.com.hostiran.rest:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 com.on.bsr.to.delete.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.sparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
