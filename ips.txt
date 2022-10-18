@@ -28,7 +28,6 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.138.74.247:2020:eeb6abec5f4e1d1580e28157650172aca173312e7961686f6f2e636f6d
 79.137.196.42:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
-136.243.69.179:443:7tpqp8KsYZwGDzVfPxcyVzdzbGFjay5jb20
 159.223.49.8:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 dark.kmc-plus.skin:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
@@ -110,7 +109,6 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 HD.filimo-freenom.co.in:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
-188.34.159.250:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 64.31.55.204:443:7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 149.5.173.205:543:7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI=
