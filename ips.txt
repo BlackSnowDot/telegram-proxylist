@@ -108,6 +108,7 @@ HD.filimo-freenom.co.in:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJv
 188.34.159.250:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 64.31.55.204:443:7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
+149.5.173.205:543:7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI=
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Rubika.com.rubika.kim:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.139.222.118:7001:eecb4354d680ab51ecaf98300b1b0807c17777772e636c6f7564666c6172652e636f6d
@@ -123,7 +124,6 @@ halal.www.bing.com.hostiran.rest:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 com.on.bsr.to.delete.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.sparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-152.89.44.237:9090:ee00000000000000000000000000000000736c61636b2e636f6d
 38.54.2.203:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 64.20.62.58:443:ee000000000000000000000000000000006e616d6176612e6972
 38.54.2.119:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
