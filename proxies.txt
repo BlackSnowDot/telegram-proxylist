@@ -40,7 +40,6 @@ https://t.me/proxy?server=95.217.131.111&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF
 https://t.me/proxy?server=snow.lord-stark.faith&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 https://t.me/proxy?server=www.digitalresistance.us.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=157.230.122.7&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
-https://t.me/proxy?server=38.54.2.133&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 https://t.me/proxy?server=94.101.176.118&port=8080&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=188.34.159.250&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -70,7 +69,6 @@ https://t.me/proxy?server=152.89.45.139&port=9090&secret=ee000000000000000000000
 https://t.me/proxy?server=38.54.2.106&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=38.54.2.199&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
-https://t.me/proxy?server=38.54.2.203&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 https://t.me/proxy?server=mci.reserve.dandan.clinic&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=softwar.google---com.ga&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=halal.www.google.com.chishi.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -105,6 +103,7 @@ https://t.me/proxy?server=89.208.104.214&port=5000&secret=7rar7F9OHRWA4oFXZQFyrK
 https://t.me/proxy?server=167.235.139.231&port=443&secret=ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 https://t.me/proxy?server=some.json.healthcare.&port=443&secret=7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
 https://t.me/proxy?server=1401-1402.herta-berlin-01.info&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+https://t.me/proxy?server=87.107.172.19&port=9090&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=halal.www.bing.com.hostiran.rest&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=188.209.153.61&port=9090&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=46.102.130.61&port=443&secret=ee7780a1c77896368e268eb8a809a400757777772e617276616e636c6f75642e636f6d
