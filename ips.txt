@@ -70,7 +70,6 @@ darkoob.fendi-berox.monster:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 79.137.196.42:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 38.54.2.14:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
-159.223.49.8:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_withme.cyou.com.now_sudo.rm_rf.ddns.net.here.again_to_fight.with_everyone.i_am.the_internet.special_way.api-botcloud.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
