@@ -1,9 +1,8 @@
 www.linc.creditcard:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 104.149.155.26:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg
-49.12.111.140:443:ee00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
-89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 149.5.173.212:543:7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI%3D
+89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 193.151.133.88:1234:ee00000000000000000000000000000000736c61636b2e636f6d
 halal.www.google.com.chishi.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
@@ -14,14 +13,12 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 ventrall21.itsme3ans.org.uk:443:EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.155.58:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
-31.14.116.169:443:eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e636f6d
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 165.227.232.90:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 38.54.2.74:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayob.blackmile.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
-94.242.17.243:50006:eefa8f19c904d36a8bd25225db2b1f8e397777772e676f6f676c652e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 95.216.165.187:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
@@ -51,9 +48,9 @@ Dante.cloudbox.plumbing:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 46.102.130.61:443:ee7780a1c77896368e268eb8a809a400757777772e617276616e636c6f75642e636f6d
 38.54.2.233:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-mci.reserve.dandan.clinic:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 Darkoob.fendi-berox.monster:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
+mci.reserve.dandan.clinic:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 khabis.arvancloud.cam:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 79.175.129.214:443:ee5b3fa9760c0d801adc0607e469a8d2f27777772e617276616e636c6f75642e636f6d
 oxygen.radical-n.site:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -90,7 +87,6 @@ status.cloudspace.pics.:443:7s8J5YYVhvOdr-WqHy_58gV1ay5oZWxwLnlhaG9vLmNvbQ==
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Rubika.com.rubika.kim:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-45.139.222.118:7001:eecb4354d680ab51ecaf98300b1b0807c17777772e636c6f7564666c6172652e636f6d
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 some.json.healthcare.:443:7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
@@ -117,7 +113,6 @@ adab.in.asr.ke.mashghol.tamasha.nashavim.eshgh-mara-peye-kari-be-jahan-avarde-as
 Ara.uruag-flat-lre.lol:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 65.21.150.105:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 89.208.106.173:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-49.12.185.47:443:ee00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 mci.ir.cloudflare.com.eeope-185.pics:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
