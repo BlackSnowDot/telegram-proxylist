@@ -7,7 +7,6 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 halal.www.google.com.chishi.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_waiopya.parspack.tk.:443:7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
-194.5.207.189:443:ee9e30b8b8610d80a4280639ff128c7b356a7573746963652e7669632e676f762e6175
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 5.252.177.218:443:dd87c7163c4fd23facac13fdc1551d8b64
 104.149.155.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
@@ -78,12 +77,10 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives:442:7gAAAAAAAAAAAAAAAAAAAAB3d3cuYXJ2YW5jbG91ZC5naXZlcw
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
-188.34.159.250:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 64.31.55.204:443:7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 149.5.173.205:543:7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI=
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-status.cloudspace.pics.:443:7s8J5YYVhvOdr-WqHy_58gV1ay5oZWxwLnlhaG9vLmNvbQ==
 167.235.135.148:8080:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -91,7 +88,6 @@ Rubika.com.rubika.kim:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 some.json.healthcare.:443:7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
-68.168.209.122:443:ee000000000000000000000000000000006e616d6176612e6972
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 halal.www.bing.com.hostiran.rest:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
