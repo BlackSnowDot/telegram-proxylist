@@ -106,7 +106,6 @@ https://t.me/proxy?server=Microsoft.com.google---com.tk&port=443&secret=7jK5IN_7
 https://t.me/proxy?server=78.157.36.99&port=2096&secret=7s46nPjmSqcRDE7PCfPlQyFzbXRwLmdvb2dsZS5jb20
 https://t.me/proxy?server=89.208.106.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=77.73.131.56&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-https://t.me/proxy?server=165.227.232.90&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
