@@ -44,7 +44,6 @@ https://t.me/proxy?server=157.230.122.7&port=443&secret=eef4359a9b325ff1d1e5084d
 https://t.me/proxy?server=94.101.176.118&port=8080&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=38.54.2.104&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
-https://t.me/proxy?server=185.112.151.145&port=8906&secret=7skNwfRiq5qWYi_wXnayq8l3d3cuY2xvdWRmbGFyZS5jb20
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayob.blackmile.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=149.5.173.205&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI=
 https://t.me/proxy?server=79.175.129.214&port=443&secret=ee5b3fa9760c0d801adc0607e469a8d2f27777772e617276616e636c6f75642e636f6d
@@ -93,7 +92,6 @@ https://t.me/proxy?server=38.54.2.217&port=8076&secret=eec80ff604fa45408f1d15262
 https://t.me/proxy?server=khabis.arvancloud.cam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=64.20.62.62&port=443&secret=eecac5af0abeec4fceb45c1fc147ba77076e616d6176612e6972
 https://t.me/proxy?server=23.88.115.160&port=443&secret=ee1603010200010001fc030386e24c3add6e616d6176612e6972
-https://t.me/proxy?server=178.128.165.195&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 https://t.me/proxy?server=www.google.com.best-phonix.gives&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0&
 https://t.me/proxy?server=38.54.2.119&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
