@@ -27,6 +27,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
+185.213.164.114:1177:eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d
 199.16.53.250:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 38.54.2.60:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
@@ -66,6 +67,7 @@ dante.cloudbox.plumbing:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 79.137.196.42:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 38.54.2.14:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
+49.12.102.236:443:7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
 95.217.208.140:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
