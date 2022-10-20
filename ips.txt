@@ -75,6 +75,7 @@ musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
+some.json.healthcare.:443:7tvikxn_uKfIq7OAYerm81NtYWlsLnlhaG9vLmNvbQ==
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 webhostingtalk.ir.webhostingtalk.estate:440:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
