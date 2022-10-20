@@ -8,10 +8,9 @@ Some Proxies
 - [Proxy 6](https://t.me/proxy?server=194.5.207.189&port=443&secret=ee9e30b8b8610d80a4280639ff128c7b356a7573746963652e7669632e676f762e6175)
 - [Proxy 7](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 8](https://t.me/proxy?server=94.130.136.168&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20)
-- [Proxy 9](https://t.me/proxy?server=ir.ibtw3.dynu.rubika.z4.microsoft.whatsapp.co.ik.dynu-shatel.ninja&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
-- [Proxy 10](https://t.me/proxy?server=mci.ir.cloudflare.com.eeope-185.pics&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
-- [Proxy 11](https://t.me/proxy?server=185.213.164.114&port=1177&secret=eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d)
-- [Proxy 12](https://t.me/proxy?server=victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
+- [Proxy 9](https://t.me/proxy?server=mci.ir.cloudflare.com.eeope-185.pics&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
+- [Proxy 10](https://t.me/proxy?server=185.213.164.114&port=1177&secret=eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d)
+- [Proxy 11](https://t.me/proxy?server=victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
 ---
 Copy Paste For Telegram
 ---
@@ -24,7 +23,6 @@ https://t.me/proxy?server=65.109.15.202&port=443&secret=ee0e0ee0ee0ee0ee0ee0ee0e
 https://t.me/proxy?server=194.5.207.189&port=443&secret=ee9e30b8b8610d80a4280639ff128c7b356a7573746963652e7669632e676f762e6175
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=94.130.136.168&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20
-https://t.me/proxy?server=ir.ibtw3.dynu.rubika.z4.microsoft.whatsapp.co.ik.dynu-shatel.ninja&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=mci.ir.cloudflare.com.eeope-185.pics&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=185.213.164.114&port=1177&secret=eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=victoria.secret.bsr.hshmi2.reward.keyboard.it.hooooole.hovergold.father.satgin.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.varzesh3.ddns.net.dynu.cfeccom.nip.whatsmyip.bye.jokertime.website.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
