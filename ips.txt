@@ -79,6 +79,7 @@ Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 Senator.plus-speed.immo:443:7vQ1mpsyX/HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+Microsoft---com.hostnegar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 134.122.136.155:51878:7gTN2VNxAAAAAAAAAABEVSFiYWlkdS5jb20
 webhostingtalk.ir.webhostingtalk.estate:440:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
