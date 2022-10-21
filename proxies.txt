@@ -4,6 +4,7 @@ https://t.me/proxy?server=mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--c
 https://t.me/proxy?server=Msn.com.khamanei.tires&port=440&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=38.54.2.14&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 https://t.me/proxy?server=Google.com.cloudways.live&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
+https://t.me/proxy?server=94.242.17.243&port=50006&secret=eefa8f19c904d36a8bd25225db2b1f8e397777772e676f6f676c652e636f6d
 https://t.me/proxy?server=31.192.237.84&port=4334&secret=7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 https://t.me/proxy?server=104.149.141.182&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=165.22.68.33&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -12,11 +13,11 @@ https://t.me/proxy?server=146.190.28.144&port=8087&secret=7vykPV79IMWoyk23rDU1rS
 https://t.me/proxy?server=65.109.10.18&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=64.31.55.201&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1tYWlsLmdvb2dsZS5jb20
 https://t.me/proxy?server=5.75.128.195&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
+https://t.me/proxy?server=43.159.32.156&port=443&secret=ee393c1cbec9e3f95c447123870e11a693617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=sardar.padafand.immo&port=90&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
 https://t.me/proxy?server=ir.ibtw3.dynu.rubika.z4.microsoft.whatsapp.co.ik.dynu-shatel.ninja&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=168.119.158.130&port=443&secret=ee0000000000000000000000000000000073616b68612e65706f6c6963652e6972
 https://t.me/proxy?server=185.112.83.79&port=443&secret=eeb6abec5f4e1d1580e28157650172aca17777772e6972616e2e676f762e6972
-https://t.me/proxy?server=45.61.136.209&port=443&secret=ee884db8cd3de521f4c069ccc60b6907e47777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=104.149.158.178&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 https://t.me/proxy?server=152.89.45.129&port=9090&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=49.12.247.197&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
