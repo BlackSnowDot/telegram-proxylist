@@ -67,7 +67,6 @@ Status.letsencryptit.info.:80:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 49.12.102.236:443:7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
-Full.Forall-VP.Asia.:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives:442:7gAAAAAAAAAAAAAAAAAAAAB3d3cuYXJ2YW5jbG91ZC5naXZlcw
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
