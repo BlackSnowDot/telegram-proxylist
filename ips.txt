@@ -11,6 +11,7 @@ cpanel.parvanesham.tk.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvb
 sardar.padafand.immo:90:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
 webhostingtalk.Ir.webhostingtalk.estate:440:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
+185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 185.213.164.114:1177:eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
 Full.Forall-VP.Asia.:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
