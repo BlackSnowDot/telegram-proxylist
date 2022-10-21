@@ -40,6 +40,7 @@ limitedhighspeed.xyz:443:eec7daebbfb50f6f8bbea957fc3f69bfe27777772e636c6f7564666
 167.235.253.142:505:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Full.Forall-VP.Asia.:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 185.226.119.149:444:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
+195.201.238.151:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 94.101.176.118:8080:ee00000000000000000000000000000000736c61636b2e636f6d
 heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5pcmFuY2VsbC5pcg
 Dante.cloudbox.plumbing:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -102,6 +103,7 @@ www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5
 152.89.45.129:9090:ee00000000000000000000000000000000736c61636b2e636f6d
 38.54.2.164:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 garm-garmi-ra-keshid-0-sard-sard.dar-jahan-har-chiz-chizi-jazb-kard.ink:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+65.109.17.186:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 Ara.uruag-flat-lre.lol:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 Sardar.padafand.immo:90:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
