@@ -1,8 +1,8 @@
 Some Proxies
 ---
 - [Proxy 1](https://t.me/proxy?server=5G.option-mode.online&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
-- [Proxy 2](https://t.me/proxy?server=65.108.254.251&port=443&secret=eeee0ee0000000000000000000000ee0ee6170617261742e6d6f7a62616e672e636664)
-- [Proxy 3](https://t.me/proxy?server=88.99.86.66&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t)
+- [Proxy 2](https://t.me/proxy?server=49.12.43.117&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t)
+- [Proxy 3](https://t.me/proxy?server=65.108.254.251&port=443&secret=eeee0ee0000000000000000000000ee0ee6170617261742e6d6f7a62616e672e636664)
 - [Proxy 4](https://t.me/proxy?server=104.149.158.170&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972)
 - [Proxy 5](https://t.me/proxy?server=185.145.245.41&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
 - [Proxy 6](https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
@@ -16,8 +16,8 @@ Copy Paste For Telegram
 ---
 ```
 https://t.me/proxy?server=5G.option-mode.online&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+https://t.me/proxy?server=49.12.43.117&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=65.108.254.251&port=443&secret=eeee0ee0000000000000000000000ee0ee6170617261742e6d6f7a62616e672e636664
-https://t.me/proxy?server=88.99.86.66&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=104.149.158.170&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=185.145.245.41&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
