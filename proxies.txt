@@ -18,7 +18,6 @@ https://t.me/proxy?server=sardar.padafand.immo&port=90&secret=7jK5IN_7UWQwKOL2uH
 https://t.me/proxy?server=ir.ibtw3.dynu.rubika.z4.microsoft.whatsapp.co.ik.dynu-shatel.ninja&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=168.119.158.130&port=443&secret=ee0000000000000000000000000000000073616b68612e65706f6c6963652e6972
 https://t.me/proxy?server=185.112.83.79&port=443&secret=eeb6abec5f4e1d1580e28157650172aca17777772e6972616e2e676f762e6972
-https://t.me/proxy?server=104.149.158.178&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 https://t.me/proxy?server=152.89.45.129&port=9090&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=65.109.15.202&port=443&secret=ee0e0ee0ee0ee0ee0ee0ee0ee0ee0ee0ee7777772e727562696b612e616272696b612e616d726963612e66756e
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
