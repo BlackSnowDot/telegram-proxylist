@@ -45,6 +45,7 @@ https://t.me/proxy?server=snow.lord-stark.faith&port=443&secret=7vQ1mpsyX_HR5QhN
 https://t.me/proxy?server=149.5.173.212&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdxbWIuaXI%3D
 https://t.me/proxy?server=www.digitalresistance.us.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=157.230.122.7&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
+https://t.me/proxy?server=hiva.masterkart.co.uk.&port=7064&secret=7gAAAAAAAAAAAAAAAAAAAABteS5tY2kuaXI
 https://t.me/proxy?server=94.101.176.118&port=8080&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -101,7 +102,6 @@ https://t.me/proxy?server=185.226.119.149&port=444&secret=7vQ1mpsyX_HR5QhN8OD3U3
 https://t.me/proxy?server=167.235.139.231&port=443&secret=ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 https://t.me/proxy?server=5.75.128.164&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=5.75.128.201&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
-https://t.me/proxy?server=msn.com.khamanei.tires&port=440&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=165.22.67.144&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 https://t.me/proxy?server=5.161.77.249&port=443&secret=7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 https://t.me/proxy?server=5.75.156.65&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
