@@ -123,7 +123,6 @@ https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=88.198.115.18&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-https://t.me/proxy?server=79.137.196.42&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=fll2.fulilaidb.vip&port=443&secret=ee0ef68c7609b736a5fea67ee02aac3b2d617a7572652e6d6963726f736f66742e636f6d
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
