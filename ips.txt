@@ -1,8 +1,9 @@
 www.linc.creditcard:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
-89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+zarebin.com.zarebin.guru:88:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 82.115.18.15:6969:e7f6f62a3128d2ef42607d554bce1d76
 Zarebin.com.zarebin.guru:88:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
+89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 193.151.133.88:1234:ee00000000000000000000000000000000736c61636b2e636f6d
 Apps.Asiatech.gifts:8080:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 167.235.255.64:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
@@ -11,7 +12,6 @@ cpanel.parvanesham.tk.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvb
 104.149.129.233:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 sardar.padafand.immo:90:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
 167.235.198.172:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
-5.75.129.15:505:7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 38.54.2.4:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
@@ -26,7 +26,6 @@ irancell.leader.ir.arvancloud.dot.imhere.mci.ir.irmci.ir.sormovie.org:443:ee9884
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 5.75.158.87:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
-5.75.129.18:505:7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 168.119.177.190:443:ee0000000000000000000000000000000073616b68612e65706f6c6963652e6972
 unic.ya-rab-nazari-kon.mom:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -70,7 +69,6 @@ finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb2
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 5.75.158.62:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 142.132.180.253:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
-5.75.129.2:505:7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayob.blackmile.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
@@ -87,7 +85,6 @@ heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5p
 38.54.2.102:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 104.149.129.65:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 5.75.129.103:443:7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
-Darkoob.fendi-berox.monster:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 Host.Microsoft.com.sweden-country.ltd:8080:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 167.235.195.69:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
@@ -118,7 +115,6 @@ speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 www.digitalbuy.tienda:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 142.132.229.78:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 185.213.164.62:100:ee140717a4a3fe952627f2b1855cf5ba6873332e616d617a6f6e6177732e636f6d
-5.75.129.4:505:7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 5G.option-mode.online:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 65.109.17.186:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 104.149.129.235:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
