@@ -62,6 +62,7 @@ https://t.me/proxy?server=Eager.dynu.com&port=443&secret=eeda411655b684fe87abf58
 https://t.me/proxy?server=iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives&port=442&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuYXJ2YW5jbG91ZC5naXZlcw
 https://t.me/proxy?server=142.132.232.177&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
+https://t.me/proxy?server=5.75.129.17&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 https://t.me/proxy?server=95.217.163.198&port=443&secret=dd87c7163c4fd23facac13fdc1551d8b64
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 https://t.me/proxy?server=5.75.129.15&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
