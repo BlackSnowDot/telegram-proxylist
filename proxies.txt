@@ -65,6 +65,7 @@ https://t.me/proxy?server=178.162.201.152&port=443&secret=7tpqp8KsYZwGDzVfPxcyVz
 https://t.me/proxy?server=5.75.129.17&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 https://t.me/proxy?server=5.75.129.4&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 https://t.me/proxy?server=95.217.208.140&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
+https://t.me/proxy?server=5.75.129.14&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 https://t.me/proxy?server=95.217.163.198&port=443&secret=dd87c7163c4fd23facac13fdc1551d8b64
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 https://t.me/proxy?server=5.75.129.15&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
@@ -72,6 +73,7 @@ https://t.me/proxy?server=limitedhighspeed.xyz&port=443&secret=eec7daebbfb50f6f8
 https://t.me/proxy?server=167.235.238.174&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=softwar.google---com.ga&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=Full.Forall-VP.Asia.&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
+https://t.me/proxy?server=5.75.129.2&port=505&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5zaGFwYXJhay5pcg
 https://t.me/proxy?server=speed.globalmine.beauty&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=167.235.195.224&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=5G.option-mode.online&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -121,7 +123,6 @@ https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=88.198.115.18&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-https://t.me/proxy?server=79.137.196.42&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=167.235.198.172&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
