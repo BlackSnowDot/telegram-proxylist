@@ -105,7 +105,6 @@ https://t.me/proxy?server=Verbocan.google.com.arvancloud.rip&port=443&secret=7jK
 https://t.me/proxy?server=165.22.67.144&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 https://t.me/proxy?server=5.161.77.249&port=443&secret=7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 https://t.me/proxy?server=Microsoft.com.www.google.com.bing.com.msn.com.yahoo.com.iranserver.rentals&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
-https://t.me/proxy?server=142.132.229.78&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 https://t.me/proxy?server=104.149.129.67&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=45.76.36.150&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.145.245.41&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
