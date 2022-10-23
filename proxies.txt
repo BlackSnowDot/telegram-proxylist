@@ -83,6 +83,7 @@ https://t.me/proxy?server=104.149.155.58&port=443&secret=7lUPvpErJ3U_pUojxzuoBjR
 https://t.me/proxy?server=finished.blackberry.furniture&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 https://t.me/proxy?server=5.161.124.32&port=8080&secret=7gARIjNEVWZ3iJmqu8zd7v9zb2Z0NzguaXIu
 https://t.me/proxy?server=Blog.iranserver.iranserver.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
+https://t.me/proxy?server=144.76.158.173&port=443&secret=7v__9gT6RUCPHRUmJNO__P9teS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=cpanel.parvanesham.tk.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=Host.Microsoft.com.sweden-country.ltd&port=8080&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 https://t.me/proxy?server=zarebin.com.zarebin.guru&port=88&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
