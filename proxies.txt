@@ -107,7 +107,6 @@ https://t.me/proxy?server=104.149.155.26&port=443&secret=ee550fbe912b27753fa54a2
 https://t.me/proxy?server=38.54.2.4&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 https://t.me/proxy?server=winterhouse-wood.abrarvancloud.foundation&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=5.56.133.106&port=123&secret=ee1c5ecfed863d9268561ce4816715d3f4494e5354414752414d2e464c4c4b312d372e464e412e464243444e2e4e4554
-https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 https://t.me/proxy?server=185.101.96.31&port=443&secret=ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=Microsoft.com.google---com.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=167.235.194.248&port=443&secret=ee13b79558bdca8618289efd1985669f2f756b2e73706f7274732e7961686f6f2e636f6d
