@@ -82,7 +82,6 @@ https://t.me/proxy?server=zarebin.com.zarebin.guru&port=88&secret=7jK5IN_7UWQwKO
 https://t.me/proxy?server=host.microsoft.com.sweden-country.ltd&port=8080&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
 https://t.me/proxy?server=23.88.115.160&port=443&secret=ee1603010200010001fc030386e24c3add6e616d6176612e6972
 https://t.me/proxy?server=www.google.com.best-phonix.gives&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
-https://t.me/proxy?server=65.21.59.44&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=unic.ya-rab-nazari-kon.mom&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=89.38.145.199&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
 https://t.me/proxy?server=49.12.241.237&port=8080&secret=ee00112233445566778899aabbccddeeff6e616d6176612e6972
@@ -113,6 +112,7 @@ https://t.me/proxy?server=5.56.133.106&port=123&secret=ee1c5ecfed863d9268561ce48
 https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 https://t.me/proxy?server=185.101.96.31&port=443&secret=ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=Microsoft.com.google---com.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=167.235.194.248&port=443&secret=ee13b79558bdca8618289efd1985669f2f756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=89.208.106.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=77.73.131.56&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=104.149.129.169&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
