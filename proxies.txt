@@ -111,7 +111,6 @@ https://t.me/proxy?server=49.12.14.208&port=443&secret=ee13b79558bdca8618289efd1
 https://t.me/proxy?server=Apps.asiatech.gifts&port=8080&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
 https://t.me/proxy?server=167.235.135.253&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=38.54.2.204&port=8076&secret=eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
-https://t.me/proxy?server=5.75.156.202&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=193.149.187.58&port=443&secret=7vlBmsBQW5gg-WF5zZOOYuZzZWNoby5nb29nbGUuY29t
 https://t.me/proxy?server=188.121.109.23&port=443&secret=eeb25cdf534b9932f979178225924f9dd27777772e676f6f676cde9e646f6d&bot=@mtpro_xyz_bot
 https://t.me/proxy?server=Zarebin.com.zarebin.guru&port=88&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
@@ -140,6 +139,7 @@ https://t.me/proxy?server=104.149.129.169&port=443&secret=ee00000000000000000000
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+https://t.me/proxy?server=79.137.196.42&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=Nonstop.musicbox.delivery&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.213.164.62&port=100&secret=ee140717a4a3fe952627f2b1855cf5ba6873332e616d617a6f6e6177732e636f6d
