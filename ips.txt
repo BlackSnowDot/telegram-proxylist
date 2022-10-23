@@ -30,7 +30,6 @@ unic.ya-rab-nazari-kon.mom:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZ
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
-79.137.196.42:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
@@ -61,6 +60,7 @@ Verbocan.google.com.arvancloud.rip:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob
 bsr3.bybsr.mybsr.lie.it.hoooooool.boldpoll.cowboyh.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.without.zarfiyat.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 64.31.55.201:443:7hYDAQIAAQAB_AMDhuJMOt10ZWxld2ViaW9uLmNvbQ
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
+178.162.201.152:443:7tpqp8KsYZwGDzVfPxcyVzduYW1hdmEuaXI%3D
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 31.14.116.169:443:eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e636f6d
