@@ -81,6 +81,7 @@ https://t.me/proxy?server=193.151.133.88&port=1234&secret=ee00000000000000000000
 https://t.me/proxy?server=104.149.155.58&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 https://t.me/proxy?server=finished.blackberry.furniture&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 https://t.me/proxy?server=5.161.124.32&port=8080&secret=7gARIjNEVWZ3iJmqu8zd7v9zb2Z0NzguaXIu
+https://t.me/proxy?server=Blog.iranserver.iranserver.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 https://t.me/proxy?server=cpanel.parvanesham.tk.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=Host.Microsoft.com.sweden-country.ltd&port=8080&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 https://t.me/proxy?server=zarebin.com.zarebin.guru&port=88&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
@@ -119,8 +120,8 @@ https://t.me/proxy?server=5.56.133.106&port=123&secret=ee1c5ecfed863d9268561ce48
 https://t.me/proxy?server=185.101.96.31&port=443&secret=ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=Microsoft.com.google---com.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=167.235.194.248&port=443&secret=ee13b79558bdca8618289efd1985669f2f756b2e73706f7274732e7961686f6f2e636f6d
-https://t.me/proxy?server=89.208.106.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=77.73.131.56&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+https://t.me/proxy?server=89.208.106.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=104.149.129.169&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
