@@ -13,7 +13,6 @@ sardar.padafand.immo:90:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbmNsb3VkLmluZm8
 38.54.2.4:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-limitedhighspeed.xyz:443:eec7daebbfb50f6f8bbea957fc3f69bfe27777772e636c6f7564666c6172652e636f6d
 185.213.164.114:1177:eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d
 irancell.leader.ir.arvancloud.dot.imhere.mci.ir.irmci.ir.sormovie.org:443:ee9884b88299d0bcbccdf52eb633358d7f7777772e636c6f7564666c6172652e636f6d
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
