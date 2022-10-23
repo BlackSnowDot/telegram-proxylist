@@ -24,7 +24,6 @@ https://t.me/proxy?server=157.90.28.95&port=443&secret=ee00000000000000000000000
 https://t.me/proxy?server=89.208.106.188&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=89.208.106.173&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABteS5pcmFuY2VsbC5pcg
-https://t.me/proxy?server=31.14.116.169&port=443&secret=eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e636f6d
 https://t.me/proxy?server=data-01-date.cli-bottest.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 https://t.me/proxy?server=185.213.164.114&port=1177&secret=eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=www.linc.creditcard&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
