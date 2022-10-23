@@ -29,7 +29,6 @@ https://t.me/proxy?server=149.5.175.219&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdk
 https://t.me/proxy?server=ventrall21.itsme3ans.org.uk&port=443&secret=EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=74.50.64.2&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 https://t.me/proxy?server=data-01-date.cli-bottest.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
-https://t.me/proxy?server=185.213.164.114&port=1177&secret=eef76c41695b8c41cc3953496bad2917e073332e616d617a6f6e6177732e636f6d
 https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=www.linc.creditcard&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 https://t.me/proxy?server=193.149.180.81&port=443&secret=7sy7jWDJsY7_C_ddmpwmIfJzZWMxaG8uZ29vZ2xlLmNvbQ%3D%3D
@@ -124,6 +123,7 @@ https://t.me/proxy?server=84.234.96.79&port=8443&secret=7lUPvpErJ3U_pUojxzuoBjRt
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+https://t.me/proxy?server=79.137.196.42&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=Nonstop.musicbox.delivery&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.213.164.62&port=100&secret=ee140717a4a3fe952627f2b1855cf5ba6873332e616d617a6f6e6177732e636f6d
