@@ -7,7 +7,7 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 www.historyfact.boston:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 167.235.255.64:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 104.149.129.233:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-38.54.2.4:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
+116.202.118.216:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
 185.227.138.57:3521:7udRhAyX8tER7IM6hnYsL6ZuYW1hdmEuaXI%3D
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
@@ -20,7 +20,6 @@ Trea.har-varaghash-daftarist.shop:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLm
 43.134.182.100:443:ee7ea456813adff9120c4877aad490fc02617a7572652e6d6963726f736f66742e636f6d
 193.149.180.81:443:7sy7jWDJsY7_C_ddmpwmIfJzZWMxaG8uZ29vZ2xlLmNvbQ%3D%3D
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-38.54.2.200:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 nonstop.musicbox.delivery:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -78,7 +77,6 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
 45.87.42.203:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-38.54.2.221:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 38.54.2.238:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 77.73.131.27:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -129,6 +127,7 @@ Ara.uruag-flat-lre.lol:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvb
 89.208.106.173:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 74.63.235.74:443:7hYDAQIAAQAB_AMDhuJMOt10ZWxld2ViaW9uLmNvbQ
 farmandean.inambezanlamasab.co.uk:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
+64.52.80.185:443:ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 65.108.56.142:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 49.12.98.142:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 p2.hshmi3.bybsr.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.team.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
