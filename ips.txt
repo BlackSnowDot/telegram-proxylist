@@ -29,6 +29,7 @@ Microsoft.com.www.google.com.bing.com.msn.com.yahoo.com.iranserver.rentals:443:7
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 185.101.96.31:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
+167.235.135.253:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives:442:7gAAAAAAAAAAAAAAAAAAAAB3d3cuYXJ2YW5jbG91ZC5naXZlcw
 1loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 162.33.179.208:443:eef2d594e524689aabdc1b3f59504e8c626d797765622e64756f6c696e676f2e636f6d
@@ -65,6 +66,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
+5.75.158.62:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 142.132.180.253:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 Nonstop.musicbox.delivery:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 142.132.229.81:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
