@@ -33,6 +33,7 @@ https://t.me/proxy?server=74.50.64.2&port=443&secret=ee1603010200010001fc030386e
 https://t.me/proxy?server=data-01-date.cli-bottest.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=www.linc.creditcard&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
+https://t.me/proxy?server=193.149.180.81&port=443&secret=7sy7jWDJsY7_C_ddmpwmIfJzZWMxaG8uZ29vZ2xlLmNvbQ%3D%3D
 https://t.me/proxy?server=116.202.183.70&port=80&secret=7gAAAAAAAAAAAAAAAAAAAABtYWlsLmdvb2dsZS5jb20=
 https://t.me/proxy?server=Game-tools.emailbox.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=cpr.french-rtao.makeup&port=443&secret=ee757fad3e09a30a39af810111267435c64461726b776f726b2e696f
@@ -81,6 +82,7 @@ https://t.me/proxy?server=5.161.124.32&port=8080&secret=7gARIjNEVWZ3iJmqu8zd7v9z
 https://t.me/proxy?server=Blog.iranserver.iranserver.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 https://t.me/proxy?server=144.76.158.173&port=443&secret=7v__9gT6RUCPHRUmJNO__P9teS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=zarebin.com.zarebin.guru&port=88&secret=7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
+https://t.me/proxy?server=94.130.149.91&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=23.88.115.160&port=443&secret=ee1603010200010001fc030386e24c3add6e616d6176612e6972
 https://t.me/proxy?server=www.google.com.best-phonix.gives&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 https://t.me/proxy?server=unic.ya-rab-nazari-kon.mom&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
