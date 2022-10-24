@@ -9,10 +9,9 @@ Some Proxies
 - [Proxy 7](https://t.me/proxy?server=cpanel.Berlinevent.tk.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
 - [Proxy 8](https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
 - [Proxy 9](https://t.me/proxy?server=104.149.129.233&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
-- [Proxy 10](https://t.me/proxy?server=45.87.42.203&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
-- [Proxy 11](https://t.me/proxy?server=65.108.254.251&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73)
-- [Proxy 12](https://t.me/proxy?server=DarKoob.fendi-berox.monster&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
-- [Proxy 13](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
+- [Proxy 10](https://t.me/proxy?server=65.108.254.251&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73)
+- [Proxy 11](https://t.me/proxy?server=DarKoob.fendi-berox.monster&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
+- [Proxy 12](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 ---
 Copy Paste For Telegram
 ---
@@ -26,7 +25,6 @@ https://t.me/proxy?server=Blog.iranserver.iranserver.cfd&port=443&secret=7jK5IN_
 https://t.me/proxy?server=cpanel.Berlinevent.tk.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=104.149.129.233&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-https://t.me/proxy?server=45.87.42.203&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=65.108.254.251&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 https://t.me/proxy?server=DarKoob.fendi-berox.monster&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
