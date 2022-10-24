@@ -6,7 +6,6 @@ Zarebin.com.zarebin.guru:88:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 193.151.133.88:1234:ee00000000000000000000000000000000736c61636b2e636f6d
 167.235.255.64:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 ventrall21.itsme3ans.org.uk:443:EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
-104.149.155.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 104.149.129.233:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 38.54.2.4:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
@@ -33,6 +32,7 @@ mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda4116
 167.235.135.253:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 iranianproxy.cloudflare---hetzner.hetzner--cloud.shaparak.ir.arvancloud.gives:442:7gAAAAAAAAAAAAAAAAAAAAB3d3cuYXJ2YW5jbG91ZC5naXZlcw
 1loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
+162.33.179.208:443:eef2d594e524689aabdc1b3f59504e8c626d797765622e64756f6c696e676f2e636f6d
 167.235.135.148:8080:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -54,6 +54,7 @@ www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
+193.149.187.60:443:ee440cdd5719fe66d7fe5b7f06f7de758c6d797765622e64756f6c696e676f2e636f6d
 Eager.dynu.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 94.130.226.131:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 bsr3.bybsr.mybsr.lie.it.hoooooool.boldpoll.cowboyh.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.without.zarfiyat.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
@@ -69,6 +70,7 @@ finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb2
 142.132.180.253:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 Nonstop.musicbox.delivery:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 142.132.229.81:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
+168.100.9.66:443:ee360a68938a68f98bda8131449ec059696d797765622e64756f6c696e676f2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayob.blackmile.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 89.38.145.199:8076:eec80ff604fa45408f1d152624d3bffcf27765622e727562696b612e6972
