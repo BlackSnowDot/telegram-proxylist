@@ -5,7 +5,6 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 193.151.133.88:1234:ee00000000000000000000000000000000736c61636b2e636f6d
 45.87.42.194:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 www.historyfact.boston:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-167.235.255.64:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 104.149.129.233:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 116.202.118.216:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayok.koromozom.cfd.:8080:7gAAAAAAAAAAAAAAAAAAAABkYXJvb3lhYi5pcg
@@ -70,7 +69,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
-142.132.180.253:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
+38.54.2.194:8059:7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 142.132.229.81:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 168.100.9.66:443:ee360a68938a68f98bda8131449ec059696d797765622e64756f6c696e676f2e636f6d
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayob.blackmile.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -90,7 +89,6 @@ cpanel.Berlinevent.tk.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvb
 Not.BAKING-PODR.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 193.38.55.175:443:7gAAAAAAAAAAAAAAAAAAAABob2IubW9rb2wuaXI
-167.235.195.69:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 64.31.10.2:443:ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 104.149.138.55:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
@@ -102,8 +100,8 @@ Blog.iranserver.iranserver.cfd:443:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 64.31.24.154:443:7hYDAQIAAQAB_AMDhuJMOt10ZWxld2ViaW9uLmNvbQ
 185.145.245.41:8443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
+64.190.113.185:443:eef724ee318e0a63fa71a6beeca185efc66d797765622e64756f6c696e676f2e636f6d
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
-167.235.195.224:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 95.216.229.225:100:7hQHF6Sj_pUmJ_KxhVz1umhzMy5hbWF6b25hd3MuY29t
@@ -127,8 +125,8 @@ Ara.uruag-flat-lre.lol:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvb
 89.208.106.173:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 74.63.235.74:443:7hYDAQIAAQAB_AMDhuJMOt10ZWxld2ViaW9uLmNvbQ
 farmandean.inambezanlamasab.co.uk:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
+31.7.70.204:433:eef4359a9b325ff1d1e5084df0e0f7537b7777772e6972616e2e676f762e6972
 64.52.80.185:443:ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 65.108.56.142:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
-49.12.98.142:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 p2.hshmi3.bybsr.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.team.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 162.55.42.58:443:7gAAAAAAAAAAAAAAAAAAAAB1ay5zcG9ydHMueWFob28uY29t
