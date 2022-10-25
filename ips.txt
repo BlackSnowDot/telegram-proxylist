@@ -37,6 +37,7 @@ cpr.french-rtao.better-call-iro.boats:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZW
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 104.149.141.182:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 QRG.shadowbox-real.site:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+38.54.2.100:8059:7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
 162.33.179.208:443:eef2d594e524689aabdc1b3f59504e8c626d797765622e64756f6c696e676f2e636f6d
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -68,6 +69,7 @@ bsr3.bybsr.mybsr.lie.it.hoooooool.boldpoll.cowboyh.sagain.qmark.www.sssdigik.sco
 185.226.118.208:443:ee00000000000000000000000000000000617276616e2e6972
 35.158.144.68:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
+farm.Holdingbox.farm:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 38.54.2.43:8059:7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
@@ -98,7 +100,6 @@ bigber.worldmark.fitness:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 104.149.138.55:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 Server.com.www.google.com.host.com.mailyahoo.com.hostiran.solutions:443:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 Blog.iranserver.iranserver.cfd:443:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
-64.31.24.154:443:7hYDAQIAAQAB_AMDhuJMOt10ZWxld2ViaW9uLmNvbQ
 iro.kindme.site:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 185.145.245.41:8443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
@@ -116,9 +117,7 @@ Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.201:8059:7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-01110.Ramico-Jaty.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 Occupy.www.google.com.hostiran.sbs.:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-5G.option-mode.online:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 38.54.2.164:8059:7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 79.137.202.139:443:eeb6abec5f4e1d1580e28157650172aca17777772e6972616e2e676f762e6972
 65.109.17.186:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
