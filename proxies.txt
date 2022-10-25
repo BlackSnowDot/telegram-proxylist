@@ -23,10 +23,10 @@ https://t.me/proxy?server=38.54.2.201&port=8059&secret=7s6kQ8h5fZICXTqzcXO8DVhuY
 https://t.me/proxy?server=157.90.28.95&port=443&secret=ee000000000000000000000000000000006d632e79616e6465782e7275
 https://t.me/proxy?server=64.31.10.18&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
 https://t.me/proxy?server=89.208.106.188&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-https://t.me/proxy?server=38.54.2.32&port=8059&secret=7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
+https://t.me/proxy?server=208.115.202.26&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
 https://t.me/proxy?server=195.211.45.197&port=443&secret=ee00000000000000000000000000000000736c61636b2e636f6d
 https://t.me/proxy?server=heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABteS5pcmFuY2VsbC5pcg
-https://t.me/proxy?server=208.115.202.26&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
+https://t.me/proxy?server=38.54.2.32&port=8059&secret=7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
 https://t.me/proxy?server=sarbaz.nezamvazifeh.voyage&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=ventrall21.itsme3ans.org.uk&port=443&secret=EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=142.132.229.79&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
@@ -45,6 +45,7 @@ https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN
 https://t.me/proxy?server=167.235.196.56&port=8443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=162.55.174.144&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
+https://t.me/proxy?server=38.54.2.144&port=8059&secret=eee722d1951a3d2b798371eba144afca646e616d6176612e6972
 https://t.me/proxy?server=185.145.245.41&port=8443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=116.202.118.216&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI
 https://t.me/proxy?server=Rose.thanks-a-lot.yachts&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
