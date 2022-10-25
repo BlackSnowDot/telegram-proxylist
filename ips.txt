@@ -9,6 +9,7 @@ www.historyfact.boston:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 116.202.118.216:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 185.227.138.57:3521:7udRhAyX8tER7IM6hnYsL6ZuYW1hdmEuaXI%3D
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
+167.235.196.56:8443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 142.132.229.82:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
 208.115.202.26:443:ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
@@ -57,13 +58,13 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 193.149.187.60:443:ee440cdd5719fe66d7fe5b7f06f7de758c6d797765622e64756f6c696e676f2e636f6d
 Eager.dynu.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 94.130.226.131:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
-dash.utc-rest.co.uk:443:EE1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 cpanel.sahmeman.tk.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 bsr3.bybsr.mybsr.lie.it.hoooooool.boldpoll.cowboyh.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.without.zarfiyat.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
-dash.utc-rest.co.uk.:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 185.226.118.208:443:ee00000000000000000000000000000000617276616e2e6972
+35.158.144.68:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 Server.com.www.google.com.host.com.mailyahoo.com.hostiran.solutions:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
+104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 38.54.2.43:8059:7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -110,7 +111,6 @@ musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 167.235.37.219:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-dash.utc-rest.co.uk:443:ee1603010200010001fc030386e24c3add6d792e6972616e636566c6c2e6972
 142.132.229.79:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 38.54.2.201:8059:7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
