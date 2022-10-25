@@ -46,7 +46,6 @@ https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN
 https://t.me/proxy?server=167.235.196.56&port=8443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=162.55.174.144&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
-https://t.me/proxy?server=38.54.2.144&port=8059&secret=eee722d1951a3d2b798371eba144afca646e616d6176612e6972
 https://t.me/proxy?server=185.145.245.41&port=8443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=116.202.118.216&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI
 https://t.me/proxy?server=Rose.thanks-a-lot.yachts&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
