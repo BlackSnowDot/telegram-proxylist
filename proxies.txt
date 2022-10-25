@@ -1,5 +1,5 @@
-https://t.me/proxy?server=45.87.42.194&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1teS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
+https://t.me/proxy?server=45.87.42.194&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1teS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=Farm.Holdingbox.farm&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=Google.com.cloudways.live&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 https://t.me/proxy?server=31.192.237.84&port=4334&secret=7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
@@ -39,6 +39,7 @@ https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzd
 https://t.me/proxy?server=64.52.80.185&port=443&secret=ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=193.149.180.81&port=443&secret=7sy7jWDJsY7_C_ddmpwmIfJzZWMxaG8uZ29vZ2xlLmNvbQ%3D%3D
 https://t.me/proxy?server=Game-tools.emailbox.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=104.149.129.235&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=snow.lord-stark.faith&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 https://t.me/proxy?server=ZZ-Break.Conirservice.tk.&port=443&secret=7qC8rpqlTWDiyAKEkwiZzRRjYWZlYmF6YWFyLmly
