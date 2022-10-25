@@ -32,7 +32,6 @@ https://t.me/proxy?server=sarbaz.nezamvazifeh.voyage&port=443&secret=7jK5IN_7UWQ
 https://t.me/proxy?server=ventrall21.itsme3ans.org.uk&port=443&secret=EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=142.132.229.79&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=data-01-date.cli-bottest.co.uk.&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
-https://t.me/proxy?server=cpr.french-rtao.better-call-iro.boats&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=64.52.80.185&port=443&secret=ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=193.149.180.81&port=443&secret=7sy7jWDJsY7_C_ddmpwmIfJzZWMxaG8uZ29vZ2xlLmNvbQ%3D%3D
