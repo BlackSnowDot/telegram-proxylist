@@ -11,7 +11,6 @@ Some Proxies
 - [Proxy 9](https://t.me/proxy?server=sandbox.multi-plask.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
 - [Proxy 10](https://t.me/proxy?server=193.149.187.60&port=443&secret=ee440cdd5719fe66d7fe5b7f06f7de758c6d797765622e64756f6c696e676f2e636f6d)
 - [Proxy 11](https://t.me/proxy?server=104.149.129.235&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
-- [Proxy 12](https://t.me/proxy?server=64.31.10.18&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d)
 ---
 Copy Paste For Telegram
 ---
@@ -27,5 +26,4 @@ https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee0000000000000000000
 https://t.me/proxy?server=sandbox.multi-plask.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=193.149.187.60&port=443&secret=ee440cdd5719fe66d7fe5b7f06f7de758c6d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=104.149.129.235&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-https://t.me/proxy?server=64.31.10.18&port=443&secret=ee1603010200010001fc030386e24c3add74656c65776562696f6e2e636f6d
 ```
