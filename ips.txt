@@ -29,7 +29,6 @@ nonstop.musicbox.delivery:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Microsoft.com.www.google.com.bing.com.msn.com.yahoo.com.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
 79.137.199.52:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
-cpr.french-rtao.better-call-iro.boats:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 74.222.1.118:443:eedbe29319ffb8a7c8abb38061eae6f3536e616d6176612e6972
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
