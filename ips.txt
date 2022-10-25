@@ -6,6 +6,7 @@ sandbox.multi-plask.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3V
 sarbaz.nezamvazifeh.voyage:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.historyfact.boston:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 ventrall21.itsme3ans.org.uk:443:EE00000000000000000000000000000000756b2e73706f7274732e7961686f6f2e636f6d
+45.87.42.194:443:7hYDAQIAAQAB_AMDhuJMOt1teS5pcmFuY2VsbC5pcg
 104.149.129.233:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 116.202.118.216:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 185.227.138.57:3521:7udRhAyX8tER7IM6hnYsL6ZuYW1hdmEuaXI%3D
@@ -31,6 +32,7 @@ cpr.french-rtao.better-call-iro.boats:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZW
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
+104.149.141.182:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 QRG.shadowbox-real.site:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 38.54.2.100:8059:7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
 162.33.179.208:443:eef2d594e524689aabdc1b3f59504e8c626d797765622e64756f6c696e676f2e636f6d
@@ -136,6 +138,7 @@ Farm.Holdingbox.farm:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 farmandean.inambezanlamasab.co.uk:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 64.52.80.185:443:ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 5.75.128.195:443:7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
+cret.bybsr.hshmi.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.teamrezerf.sparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 5.182.209.160:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 18.197.110.168:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 p2.hshmi3.bybsr.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.team.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
