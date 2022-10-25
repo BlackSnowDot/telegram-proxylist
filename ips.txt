@@ -21,6 +21,7 @@ Trea.har-varaghash-daftarist.shop:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLm
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 nonstop.musicbox.delivery:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Microsoft.com.www.google.com.bing.com.msn.com.yahoo.com.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6sFhcnZhbi5pcg
+79.137.199.52:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 cpr.french-rtao.better-call-iro.boats:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -64,9 +65,11 @@ dash.utc-rest.co.uk.:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6
 Server.com.www.google.com.host.com.mailyahoo.com.hostiran.solutions:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+38.54.2.43:8059:7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
+38.54.2.144:8059:eee722d1951a3d2b798371eba144afca646e616d6176612e6972
 38.54.2.194:8059:7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 142.132.180.253:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 142.132.229.81:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
@@ -83,7 +86,6 @@ heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5p
 38.54.2.102:8076:eec80ff604fa45408f1d152624d3bffcf26d792e6972616e2d63656c6c2e636f6d
 104.149.129.65:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 cpanel.Berlinevent.tk.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-cpr.french-rtao.makeup:443:ee757fad3e09a30a39af810111267435c64461726b776f726b2e696f
 Not.BAKING-PODR.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 193.38.55.175:443:7gAAAAAAAAAAAAAAAAAAAABob2IubW9rb2wuaXI
