@@ -31,6 +31,7 @@ https://t.me/proxy?server=data-01-date.cli-bottest.co.uk.&port=443&secret=7hYDAQ
 https://t.me/proxy?server=142.132.229.82&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=Musking.monitorbox.webcam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=snow.lord-stark.faith&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b202020202020202020202020202020
+https://t.me/proxy?server=5.161.136.111&port=1234&secret=ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 https://t.me/proxy?server=64.52.80.185&port=443&secret=ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=193.149.180.81&port=443&secret=7sy7jWDJsY7_C_ddmpwmIfJzZWMxaG8uZ29vZ2xlLmNvbQ%3D%3D
 https://t.me/proxy?server=Host.www.google.com.hosting-server.stream&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -61,7 +62,6 @@ https://t.me/proxy?server=p2.hshmi3.bybsr.lie.it.beeeaaach.orshould.repeats.saga
 https://t.me/proxy?server=Eager.dynu.com&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 https://t.me/proxy?server=94.130.226.131&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=94.130.105.87&port=543&secret=eecf09e5861586f39dafe5aa1f2ff9f205626c6f672e64756f6c696e676f2e636f6d
-https://t.me/proxy?server=168.119.107.11&port=443&secret=ee00000000000000000000000000000000686f622e6d6f6b6f6c2e6e6574
 https://t.me/proxy?server=116.202.118.216&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=193.149.176.21&port=443&secret=ee05219e1e0dbecf2473e3db1ecd4aaf007777772e636c6f7564666c6172652e636f6d
