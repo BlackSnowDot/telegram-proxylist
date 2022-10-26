@@ -8,9 +8,10 @@ Some Proxies
 - [Proxy 6](https://t.me/proxy?server=Host.www.google.com.hosting-server.stream&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
 - [Proxy 7](https://t.me/proxy?server=70.36.102.103&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D)
 - [Proxy 8](https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg)
-- [Proxy 9](https://t.me/proxy?server=167.235.240.161&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d)
+- [Proxy 9](https://t.me/proxy?server=35.158.144.68&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
 - [Proxy 10](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
-- [Proxy 11](https://t.me/proxy?server=musking.monitorbox.webcam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
+- [Proxy 11](https://t.me/proxy?server=193.149.176.21&port=443&secret=ee05219e1e0dbecf2473e3db1ecd4aaf007777772e636c6f7564666c6172652e636f6d)
+- [Proxy 12](https://t.me/proxy?server=musking.monitorbox.webcam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
 ---
 Copy Paste For Telegram
 ---
@@ -23,7 +24,8 @@ https://t.me/proxy?server=5.182.209.166&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=Host.www.google.com.hosting-server.stream&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=70.36.102.103&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
-https://t.me/proxy?server=167.235.240.161&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
+https://t.me/proxy?server=35.158.144.68&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
+https://t.me/proxy?server=193.149.176.21&port=443&secret=ee05219e1e0dbecf2473e3db1ecd4aaf007777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=musking.monitorbox.webcam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 ```
