@@ -38,7 +38,6 @@ mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda4116
 104.149.141.182:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 cpanel.uraniumi.tk:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 38.54.2.100:8059:7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
-74.222.1.118:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 162.33.179.208:443:eef2d594e524689aabdc1b3f59504e8c626d797765622e64756f6c696e676f2e636f6d
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
