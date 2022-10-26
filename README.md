@@ -3,7 +3,7 @@ Some Proxies
 - [Proxy 1](https://t.me/proxy?server=104.149.138.53&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
 - [Proxy 2](https://t.me/proxy?server=css.faes-mkol.hair&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
 - [Proxy 3](https://t.me/proxy?server=Farm.Holdingbox.farm&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
-- [Proxy 4](https://t.me/proxy?server=iro.kindme.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0&)
+- [Proxy 4](https://t.me/proxy?server=104.149.129.233&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
 - [Proxy 5](https://t.me/proxy?server=70.36.102.103&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D)
 - [Proxy 6](https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574)
 - [Proxy 7](https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg)
@@ -18,7 +18,7 @@ Copy Paste For Telegram
 https://t.me/proxy?server=104.149.138.53&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=css.faes-mkol.hair&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=Farm.Holdingbox.farm&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-https://t.me/proxy?server=iro.kindme.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0&
+https://t.me/proxy?server=104.149.129.233&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=70.36.102.103&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
