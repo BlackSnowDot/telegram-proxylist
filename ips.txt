@@ -1,9 +1,10 @@
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
-sandbox.multi-plask.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+dashh.utc-rest.co.uk:443:ee1603010200010001fc030386e24c3add6d792e6972616e636566c6c2e6972
 116.202.118.216:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI
-38.54.2.10:8059:7iaAdKMN_O1fPVpQOvOVl1huYW1hdmEuaXI%3D
+sandbox.multi-plask.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 167.235.236.168:443:ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+38.54.2.10:8059:7iaAdKMN_O1fPVpQOvOVl1huYW1hdmEuaXI%3D
 45.87.42.194:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 104.149.129.233:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 nolimit.fitness-warrior.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -24,12 +25,12 @@ iro.kindme.site:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-74.222.1.118:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 host.www.google.com.hosting-server.stream:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 Host.www.google.com.hosting-server.stream:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
+38.54.2.141:8059:7j5iMD0uCR_4EQmW0AD4ggluYW1hdmEuaXI%3D
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 104.149.141.182:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
@@ -39,6 +40,7 @@ cpanel.uraniumi.tk:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQub
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 116.202.118.216:443:7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI%3D
+2loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 musking.monitorbox.webcam:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 104.149.129.169:443:ee000000000000000000000000000000006e616d6176612e6972
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -46,6 +48,7 @@ www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZn
 167.235.194.248:443:ee13b79558bdca8618289efd1985669f2f756b2e73706f7274732e7961686f6f2e636f6d
 5.75.132.142:443:7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20=
 load.gg-with-new.info.:88:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
+dashh.utc-rest.co.uk.:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 38.54.2.32:8059:7s6kQ8h5fZICXTqzcXO8DVhuYW1hdmEuaXI%3D
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 157.90.114.28:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
@@ -66,6 +69,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 193.149.187.60:443:ee440cdd5719fe66d7fe5b7f06f7de758c6d797765622e64756f6c696e676f2e636f6d
 Eager.dynu.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 94.130.226.131:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
+bsr3.bybsr.mybsr.lie.it.hoooooool.boldpoll.cowboyh.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.without.zarfiyat.worldsparr.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 35.158.144.68:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 5.182.209.166:443:ee1603010200010001fc030386e24c3add6D792E6972616E63656C6C2E692D72
@@ -100,6 +104,7 @@ microsoft.com.www.google.com.digikala.com.torob.com.bing.comyahoo.com.gmail.comi
 www.heyhowareyou.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 38.54.2.245:8059:7jfG8485-jv0Ywzw1yc7UrBuYW1hdmEuaXI%3D
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+dashh.utc-rest.co.uk:443:EE1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 5.75.132.141:443:7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20=
 heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5pcmFuY2VsbC5pcg
 5.75.132.142:443:7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20%3D
