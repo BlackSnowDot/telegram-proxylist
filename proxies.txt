@@ -15,7 +15,6 @@ https://t.me/proxy?server=35.158.144.68&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=45.142.122.175&port=443&secret=eedea5937dd0b1d42a23e6edbae8cf81b07765622e727072732d63646e2e636f6d
 https://t.me/proxy?server=5.161.127.248&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=185.244.36.211&port=443&secret=ee1603010200010001fc030386e24c3add6D792E6972616E63656C6C2E692D72
-https://t.me/proxy?server=185.73.113.159&port=4856&secret=7gAAAAAAAAAAAAAAAAAAAAAgICAgICAgICAgICA
 https://t.me/proxy?server=5.182.209.166&port=443&secret=ee1603010200010001fc030386e24c3add6D792E6972616E63656C6C2E692D72
 https://t.me/proxy?server=85.192.63.111&port=443&secret=eee56b8daf0135b14c829cba6862babe597765622e727072732d63646e2e636f6d
 https://t.me/proxy?server=104.149.129.65&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
@@ -74,6 +73,7 @@ https://t.me/proxy?server=p2.hshmi3.bybsr.lie.it.beeeaaach.orshould.repeats.saga
 https://t.me/proxy?server=Eager.dynu.com&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 https://t.me/proxy?server=94.130.226.131&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 https://t.me/proxy?server=94.130.105.87&port=543&secret=eecf09e5861586f39dafe5aa1f2ff9f205626c6f672e64756f6c696e676f2e636f6d
+https://t.me/proxy?server=cherchil.tehranclinic.clinic&port=440&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=cpanel.uraniumi.tk&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=116.202.118.216&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABNWS5pUmFuQ2VsbC5LaXI=
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
