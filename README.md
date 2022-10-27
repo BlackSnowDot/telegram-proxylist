@@ -10,7 +10,7 @@ Some Proxies
 - [Proxy 8](https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574)
 - [Proxy 9](https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg)
 - [Proxy 10](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
-- [Proxy 11](https://t.me/proxy?server=musking.monitorbox.webcam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
+- [Proxy 11](https://t.me/proxy?server=www.digitalbuy.tienda&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 12](https://t.me/proxy?server=iro.kindme.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
 - [Proxy 13](https://t.me/proxy?server=Microsoft.com.www.google.com.digikala.com.torob.com.bing.comyahoo.com.gmail.comiranhost.com.iranserver.com.www.google.com.switzerland-countri.sbs&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
 ---
@@ -27,7 +27,7 @@ https://t.me/proxy?server=65.21.180.94&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFte
 https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
-https://t.me/proxy?server=musking.monitorbox.webcam&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=www.digitalbuy.tienda&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=iro.kindme.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=Microsoft.com.www.google.com.digikala.com.torob.com.bing.comyahoo.com.gmail.comiranhost.com.iranserver.com.www.google.com.switzerland-countri.sbs&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 ```
