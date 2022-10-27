@@ -121,6 +121,7 @@ https://t.me/proxy?server=167.235.139.231&port=443&secret=ee00000000000000000000
 https://t.me/proxy?server=Comingsoon.blackbox.homes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=167.235.236.168&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=5.182.209.160&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
+https://t.me/proxy?server=116.202.20.230&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=185.174.137.15&port=443&secret=eef3282952cc2f70c3522957091b09d35d7765622e727072732d63646e2e636f6d
 https://t.me/proxy?server=104.149.138.53&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=5.75.132.141&port=443&secret=7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20%3D
