@@ -105,7 +105,6 @@ google.com.yahoo.com.we-are-here-again.to-asdfghjklpoimytrewq.trying-with-shuuut
 45.87.42.203:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 8.4.4.8.tree-sea-dry.info:443:7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 microsoft.com.www.google.com.digikala.com.torob.com.bing.comyahoo.com.gmail.comiranhost.com.iranserver.com.www.google.com.switzerland-countri.sbs:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-38.54.2.245:8059:7jfG8485-jv0Ywzw1yc7UrBuYW1hdmEuaXI%3D
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 dashh.utc-rest.co.uk:443:EE1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 5.75.132.141:443:7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20=
