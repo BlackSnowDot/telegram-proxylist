@@ -93,6 +93,7 @@ https://t.me/proxy?server=load.gg-with-new.info.&port=88&secret=7lUPvpErJ3U_pUoj
 https://t.me/proxy?server=45.138.74.212&port=443&secret=ee85006d166ae944af9c7d9c03c869fd2e6d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=104.149.128.227&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=104.149.129.233&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
+https://t.me/proxy?server=3.120.177.138&port=443&secret=7nV_rT4Jowo5r4EBESZ0NcZEYXJrd29yay5pbw
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 https://t.me/proxy?server=167.235.197.2&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=193.149.187.60&port=443&secret=ee440cdd5719fe66d7fe5b7f06f7de758c6d797765622e64756f6c696e676f2e636f6d
