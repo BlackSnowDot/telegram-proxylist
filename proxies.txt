@@ -52,8 +52,8 @@ https://t.me/proxy?server=139.144.78.196&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF
 https://t.me/proxy?server=microsoft.com.www.google.com.digikala.com.torob.com.bing.comyahoo.com.gmail.comiranhost.com.iranserver.com.www.google.com.switzerland-countri.sbs&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=64.52.80.185&port=443&secret=ee37bab029ba081259bed92827d15cba0e6d797765622e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=Host.www.google.com.hosting-server.stream&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=Game-tools.emailbox.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=104.149.129.235&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=35.93.22.155&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=snow.lord-stark.faith&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
@@ -69,6 +69,7 @@ https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN
 https://t.me/proxy?server=3.133.107.141&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=162.55.175.66&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
 https://t.me/proxy?server=3.21.44.228&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+https://t.me/proxy?server=167.235.200.13&port=443&secret=eeb19d86fba0585c4aa5509f9f5f1c144d55692e6964656e66792e636f6d
 https://t.me/proxy?server=193.149.176.180&port=443&secret=7o_TEtBgkojWLRESbkKz1yVpc25hLmly
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=ir1.meliserver.xyz&port=6001&secret=eef9a9c7efa93fc016719da6121d710c097777772e676f6f676c652e636f6d
