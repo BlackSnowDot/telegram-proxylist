@@ -1,7 +1,7 @@
 Some Proxies
 ---
 - [Proxy 1](https://t.me/proxy?server=5G.option-mode.online&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
-- [Proxy 2](https://t.me/proxy?server=38.54.2.164&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D)
+- [Proxy 2](https://t.me/proxy?server=38.54.2.194&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D)
 - [Proxy 3](https://t.me/proxy?server=cpanel.uraniumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 4](https://t.me/proxy?server=my.irancell.ir.helpcenter.help.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg==)
 - [Proxy 5](https://t.me/proxy?server=49.12.111.38&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d)
@@ -20,7 +20,7 @@ Copy Paste For Telegram
 ---
 ```
 https://t.me/proxy?server=5G.option-mode.online&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-https://t.me/proxy?server=38.54.2.164&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
+https://t.me/proxy?server=38.54.2.194&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 https://t.me/proxy?server=cpanel.uraniumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=my.irancell.ir.helpcenter.help.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg==
 https://t.me/proxy?server=49.12.111.38&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
