@@ -111,7 +111,6 @@ https://t.me/proxy?server=Ara.uruag-flat-lre.lol&port=443&secret=eef4359a9b325ff
 https://t.me/proxy?server=3.17.157.67&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=load.gg-with-new.info.&port=88&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 https://t.me/proxy?server=45.138.74.212&port=443&secret=ee85006d166ae944af9c7d9c03c869fd2e6d797765622e64756f6c696e676f2e636f6d
-https://t.me/proxy?server=38.54.2.70&port=8059&secret=7ke_kqDeWx-Yt-j_iPVjRLtuYW1hdmEuaXI%3D
 https://t.me/proxy?server=104.149.128.227&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=34.219.142.233&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=104.149.129.233&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
