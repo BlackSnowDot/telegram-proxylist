@@ -13,10 +13,9 @@ Some Proxies
 - [Proxy 11](https://t.me/proxy?server=5.75.132.142&port=443&secret=7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20%3D)
 - [Proxy 12](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 13](https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d)
-- [Proxy 14](https://t.me/proxy?server=cpanel.uraniumi.tk&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
-- [Proxy 15](https://t.me/proxy?server=Comingsoon.blackbox.homes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
-- [Proxy 16](https://t.me/proxy?server=78.47.218.150&port=1234&secret=7gAAAAAAAAAAAAAAAAAAAABtYWlsLmdvb2dsZS5jb20)
-- [Proxy 17](https://t.me/proxy?server=168.119.158.125&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d)
+- [Proxy 14](https://t.me/proxy?server=Comingsoon.blackbox.homes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
+- [Proxy 15](https://t.me/proxy?server=78.47.218.150&port=1234&secret=7gAAAAAAAAAAAAAAAAAAAABtYWlsLmdvb2dsZS5jb20)
+- [Proxy 16](https://t.me/proxy?server=168.119.158.125&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d)
 ---
 Copy Paste For Telegram
 ---
@@ -34,7 +33,6 @@ https://t.me/proxy?server=64.52.80.215&port=443&secret=ee02b3e446e7c766752a48764
 https://t.me/proxy?server=5.75.132.142&port=443&secret=7tvikxn_uKfIq7OAYerm81Nhci5kdW9saW5nby5jb20%3D
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
-https://t.me/proxy?server=cpanel.uraniumi.tk&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=Comingsoon.blackbox.homes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=78.47.218.150&port=1234&secret=7gAAAAAAAAAAAAAAAAAAAABtYWlsLmdvb2dsZS5jb20
 https://t.me/proxy?server=168.119.158.125&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
