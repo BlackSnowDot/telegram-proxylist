@@ -3,8 +3,8 @@ Some Proxies
 - [Proxy 1](https://t.me/proxy?server=38.54.2.194&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D)
 - [Proxy 2](https://t.me/proxy?server=168.119.127.218&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D)
 - [Proxy 3](https://t.me/proxy?server=206.188.197.131&port=443&secret=7nsBExv8CSrqlTlLne90MklraGFtZW5laS5pcg==)
-- [Proxy 4](https://t.me/proxy?server=185.145.245.77&port=443&secret=ee1603010200010001fc030386e24c3add6D792E6972616E63656C6C2E692D72)
-- [Proxy 5](https://t.me/proxy?server=167.235.199.82&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D)
+- [Proxy 4](https://t.me/proxy?server=167.235.199.82&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D)
+- [Proxy 5](https://t.me/proxy?server=85.239.34.192&port=3045&secret=ee63fc678fcec5632e85216cac013208cd7777772e636f7572736572612e636f6d)
 - [Proxy 6](https://t.me/proxy?server=Perfect.com.Radial.watch&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
 - [Proxy 7](https://t.me/proxy?server=8.4.4.8.tree-sea-dry.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0)
 - [Proxy 8](https://t.me/proxy?server=cpanel.sibriumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
@@ -25,8 +25,8 @@ Copy Paste For Telegram
 https://t.me/proxy?server=38.54.2.194&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 https://t.me/proxy?server=168.119.127.218&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D
 https://t.me/proxy?server=206.188.197.131&port=443&secret=7nsBExv8CSrqlTlLne90MklraGFtZW5laS5pcg==
-https://t.me/proxy?server=185.145.245.77&port=443&secret=ee1603010200010001fc030386e24c3add6D792E6972616E63656C6C2E692D72
 https://t.me/proxy?server=167.235.199.82&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D
+https://t.me/proxy?server=85.239.34.192&port=3045&secret=ee63fc678fcec5632e85216cac013208cd7777772e636f7572736572612e636f6d
 https://t.me/proxy?server=Perfect.com.Radial.watch&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=8.4.4.8.tree-sea-dry.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=cpanel.sibriumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
