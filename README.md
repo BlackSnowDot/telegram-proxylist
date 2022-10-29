@@ -1,9 +1,9 @@
 Some Proxies
 ---
-- [Proxy 1](https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574)
-- [Proxy 2](https://t.me/proxy?server=Perfect.com.radial.watch&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
-- [Proxy 3](https://t.me/proxy?server=95.217.213.192&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg)
-- [Proxy 4](https://t.me/proxy?server=38.54.2.70&port=8059&secret=7ke_kqDeWx-Yt-j_iPVjRLtuYW1hdmEuaXI%3D)
+- [Proxy 1](https://t.me/proxy?server=38.54.2.194&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D)
+- [Proxy 2](https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574)
+- [Proxy 3](https://t.me/proxy?server=Perfect.com.radial.watch&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
+- [Proxy 4](https://t.me/proxy?server=95.217.213.192&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg)
 - [Proxy 5](https://t.me/proxy?server=cpanel.sibriumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 6](https://t.me/proxy?server=91.206.178.82&port=8443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D)
 - [Proxy 7](https://t.me/proxy?server=104.149.179.130&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73)
@@ -23,10 +23,10 @@ Some Proxies
 Copy Paste For Telegram
 ---
 ```
+https://t.me/proxy?server=38.54.2.194&port=8059&secret=7ur32amBqtY_P7DwJz1bRO1uYW1hdmEuaXI%3D
 https://t.me/proxy?server=135.181.127.79&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=Perfect.com.radial.watch&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=95.217.213.192&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
-https://t.me/proxy?server=38.54.2.70&port=8059&secret=7ke_kqDeWx-Yt-j_iPVjRLtuYW1hdmEuaXI%3D
 https://t.me/proxy?server=cpanel.sibriumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=91.206.178.82&port=8443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 https://t.me/proxy?server=104.149.179.130&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
