@@ -74,6 +74,7 @@ https://t.me/proxy?server=Rose.thanks-a-lot.yachts&port=443&secret=7vQ1mpsyX_HR5
 https://t.me/proxy?server=3.15.1.227&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=188.34.186.21&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
 https://t.me/proxy?server=ComingSoon.Blackbox.homes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=103.105.48.22&port=443&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=50.16.153.168&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=8.4.4.8.tree-sea-dry.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 https://t.me/proxy?server=p1.yareoo.bybsr.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom.iranservers.com.bing.com.gmail.scoms.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.withoudanti.teamwork.redsparr.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
@@ -86,6 +87,7 @@ https://t.me/proxy?server=142.132.229.81&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzd
 https://t.me/proxy?server=136.243.252.178&port=443&secret=ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 https://t.me/proxy?server=13.59.214.47&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=167.235.199.82&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D
+https://t.me/proxy?server=85.239.34.192&port=3045&secret=ee63fc678fcec5632e85216cac013208cd7777772e636f7572736572612e636f6d
 https://t.me/proxy?server=54.185.21.247&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=ComingSoon.blackbox.homes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
@@ -99,7 +101,6 @@ https://t.me/proxy?server=88.99.120.213&port=1234&secret=7gAAAAAAAAAAAAAAAAAAAAB
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 https://t.me/proxy?server=74.222.1.210&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 https://t.me/proxy?server=167.235.199.8&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
-https://t.me/proxy?server=104.149.179.130&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=softwar.google---com.ga&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=206.188.197.131&port=443&secret=7nsBExv8CSrqlTlLne90MklraGFtZW5laS5pcg==
 https://t.me/proxy?server=142.132.229.79&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
