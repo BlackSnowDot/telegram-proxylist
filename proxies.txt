@@ -14,6 +14,7 @@ https://t.me/proxy?server=95.216.215.156&port=443&secret=ee00112233445566778899a
 https://t.me/proxy?server=18.116.81.128&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=45.87.42.203&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=Perfect.Com.Radial.watch&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=192.99.145.35&port=443&secret=dd8d6ab375709ab8f2a18d5602df229602732e636f6d
 https://t.me/proxy?server=168.119.127.218&port=443&secret=7pf-z_7P_s_-z_7P_s_-z_5kaWdpa2FsYS5jb20%3D
 https://t.me/proxy?server=Bermodawest.cloudmob.tattoo&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -78,7 +79,6 @@ https://t.me/proxy?server=104.149.157.26&port=443&secret=ee1603010200010001fc030
 https://t.me/proxy?server=3.133.107.141&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=3.21.44.228&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=45.87.43.187&port=443&secret=ee2f865dd0de9fbad5ee045bc8dcaf7b497777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=193.149.176.180&port=443&secret=7o_TEtBgkojWLRESbkKz1yVpc25hLmly
 https://t.me/proxy?server=64.52.80.215&port=443&secret=ee02b3e446e7c766752a48764509a1fc187777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=65.109.17.186&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=162.55.174.144&port=443&secret=ee56c61135a40dbf23b74ee384218db26a756b2e73706f7274732e7961686f6f2e636f6d
