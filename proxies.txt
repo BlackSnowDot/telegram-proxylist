@@ -169,3 +169,4 @@ https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJ
 https://t.me/proxy?server=193.149.185.62&port=443&secret=7qnZzdiyXD7ablde68rKIRl0ZWxld2ViaW9uLmly
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=cpanel.uraniumi.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=cpanel.dornaray.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
