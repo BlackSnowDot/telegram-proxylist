@@ -39,6 +39,7 @@ https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211e
 https://t.me/proxy?server=Lortmond.mobilecountry.mobi&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=Gortmond.mobilecountry.mobi&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=54.203.129.57&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+https://t.me/proxy?server=FalconHeavy.ddns.net.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=185.173.129.139&port=443&secret=7titKzDEQ_ckBQpJ-x8tqLd3d3cuaXJhbi5pcg
 https://t.me/proxy?server=104.149.179.132&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt1teS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=70.36.112.18&port=443&secret=ee1603010200010001fc030386e24c3add206972616e20
