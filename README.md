@@ -20,6 +20,7 @@ Some Proxies
 - [Proxy 18](https://t.me/proxy?server=104.149.141.182&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D)
 - [Proxy 19](https://t.me/proxy?server=3.138.174.26&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d)
 - [Proxy 20](https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d)
+- [Proxy 21](https://t.me/proxy?server=18.135.114.21&port=7390&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA%3D%3D)
 ---
 Copy Paste For Telegram
 ---
@@ -44,4 +45,5 @@ https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc03
 https://t.me/proxy?server=104.149.141.182&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 https://t.me/proxy?server=3.138.174.26&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+https://t.me/proxy?server=18.135.114.21&port=7390&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA%3D%3D
 ```
