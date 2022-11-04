@@ -11,11 +11,11 @@ Some Proxies
 - [Proxy 9](https://t.me/proxy?server=cpanel.Alllow--Deny.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 - [Proxy 10](https://t.me/proxy?server=45.87.42.203&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
 - [Proxy 11](https://t.me/proxy?server=Wortmond.mobilecountry.mobi&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
-- [Proxy 12](https://t.me/proxy?server=8.4.4.8.tree-sea-dry.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
-- [Proxy 13](https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20)
+- [Proxy 12](https://t.me/proxy?server=expanders.ddns.net&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 13](https://t.me/proxy?server=8.4.4.8.tree-sea-dry.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 - [Proxy 14](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 15](https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d)
-- [Proxy 16](https://t.me/proxy?server=expanders.ddns.net&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 16](https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20)
 - [Proxy 17](https://t.me/proxy?server=38.54.2.121&port=5089&secret=7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D)
 ---
 Copy Paste For Telegram
@@ -32,10 +32,10 @@ https://t.me/proxy?server=sofaaa.ddns.net.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6
 https://t.me/proxy?server=cpanel.Alllow--Deny.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=45.87.42.203&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=Wortmond.mobilecountry.mobi&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+https://t.me/proxy?server=expanders.ddns.net&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=8.4.4.8.tree-sea-dry.info&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=3.15.137.12&port=2358&secret=eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
-https://t.me/proxy?server=expanders.ddns.net&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=38.54.2.121&port=5089&secret=7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
 ```
