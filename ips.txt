@@ -8,6 +8,7 @@ Wortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 xn--mgbab1b2gc_xn--mgbab1b2gc.Golnaz.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 38.54.2.155:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
 45.87.42.194:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
+35.176.211.201:11087:7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA%3D%3D
 cpanel.dornaray.tk:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 91.197.2.135:443:eeb19d86fba0585c4aa5509f9f5f1c144d756b2e73706f7274732e7961686f6f2e636f6d
 104.149.154.146:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
@@ -24,12 +25,13 @@ Lortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 powershow4u.ir:443:ee75c831b3e15fa6d0dac18a3d6c0f06866361666562617a6161722e6972
 104.149.169.196:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 35.89.249.89:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
-iran77proxybig.servebeer.com:443:7rp1FwoD1v2sQFqD42aWmsVzMy5hbWF6b25hd3MuY29t
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
+38.54.2.67:5089:7kjCr9M0Qkjp08GzxuOkLjRzbGFjay5jb20%3D
 Berak.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.233:3512:7peMg-Lf8SsrLrvu9hmhUGJzbGFjay5jb20%3D
 38.54.2.112:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
 185.226.119.149:444:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
+185.173.129.139:443:7titKzDEQ_ckBQpJ-x8tqLd3d3cuaXJhbi5pcg
 iro.kindme.site:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 Fonza.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -44,6 +46,7 @@ prx.internetazad.pro:443:7rxHX90eh-ahBfmWf-nUBlFteS5pcmFuY2VsbC5pcg
 notimetodie.bpnbb.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 168.119.36.104:443:ee1603010200010001fc030386e24c3add74776974636863646e2e6e6574
 T3e3h3r3a3n.roo3beh.info.:443:7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
+Sortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 18.116.81.128:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 Dekrot.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 3.133.107.141:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
@@ -93,10 +96,11 @@ ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb
 bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhdsiflflfdfdiro.shetabanhost.fyi.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 helyter.numbereu.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
-104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Golnaz.dynu.com.:443:ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Golnaz.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 50.16.153.168:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
@@ -107,10 +111,12 @@ review.for.hydri2.to.analogs.mouse.it.beeeaaach.orshould.repeats.sagain.qmark.ww
 70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 45.87.42.203:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 38.54.2.245:8059:7jfG8485-jv0Ywzw1yc7UrBuYW1hdmEuaXI%3D
+Gortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 13.37.35.204:443:7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA
 Mostang.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5pcmFuY2VsbC5pcg
+185.145.245.122:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 35.93.32.254:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 185.104.48.59:443:ee13b79558bdca8618289efd1985669f2f6d792e6972616e63656c6c2e6972
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -121,7 +127,6 @@ tv3.irib.pics:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 41.77.143.31:6623:ee97cb6aebf46930e5946cfd2fab6285cf736166696e612e73746f7265
 104.149.169.194:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 52.90.248.187:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
-Danger.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Berakjni.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 208.115.202.72:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 38.54.2.75:3512:7oOPkfKOOUqiDBGEZaCBFGVzbGFjay5jb20%3D
@@ -149,10 +154,11 @@ Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.213.164.214:100:7mkTx0IogQI3huvBL5xsrhVzMy5hbWF6b25hd3MuY29t
 116.203.5.110:443:ee1603010200010001fc030386e24c3add206972616e20
 135.181.90.135:443:7gAAAAAAAAAAAAAAAAAAAABpcmFuYWlyaG9tYS5jZmQ
-3.89.145.29:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+38.54.4.111:3512:7hE9lk_TFhdM-i9DxcVON4lzbGFjay5jb20%3D
 70.36.102.103:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20%3D
 185.145.245.93:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 13.59.214.47:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+3.89.145.29:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.104.48.215:443:eecf09e5861586f39dafe5aa1f2ff9f2056d792e6972616e63656c6c2e6972
@@ -163,7 +169,6 @@ Kenchor.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 54.245.182.189:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 70.36.112.18:443:ee1603010200010001fc030386e24c3add206972616e20
 116.202.189.140:443:ee1603010200010001fc030386e24c3add206972616e20
-Fekrot.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 cpanel.uraniumi.tk:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Fenchor.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 104.149.179.130:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
