@@ -15,10 +15,10 @@ Some Proxies
 - [Proxy 13](https://t.me/proxy?server=sofaaa.ddns.net.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 14](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 15](https://t.me/proxy?server=208.115.202.72&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
-- [Proxy 16](https://t.me/proxy?server=63.32.117.169&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
-- [Proxy 17](https://t.me/proxy?server=188.42.166.155&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20)
-- [Proxy 18](https://t.me/proxy?server=travel.arvancloud.tech&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
-- [Proxy 19](https://t.me/proxy?server=wood.marigang.wiki&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 16](https://t.me/proxy?server=188.42.166.155&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20)
+- [Proxy 17](https://t.me/proxy?server=travel.arvancloud.tech&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 18](https://t.me/proxy?server=wood.marigang.wiki&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 19](https://t.me/proxy?server=18.202.167.41&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
 ---
 Copy Paste For Telegram
 ---
@@ -38,8 +38,8 @@ https://t.me/proxy?server=ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-teh
 https://t.me/proxy?server=sofaaa.ddns.net.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=208.115.202.72&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
-https://t.me/proxy?server=63.32.117.169&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=188.42.166.155&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=travel.arvancloud.tech&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=wood.marigang.wiki&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=18.202.167.41&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 ```
