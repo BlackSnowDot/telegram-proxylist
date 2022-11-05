@@ -1,4 +1,3 @@
-Beraking.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 38.54.2.211:5089:7j7ca6sbIH_BFU5LoiE4jStzbGFjay5jb20%3D
@@ -40,9 +39,8 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.84:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
 prx.internetazad.pro:443:7rxHX90eh-ahBfmWf-nUBlFteS5pcmFuY2VsbC5pcg
 notimetodie.bpnbb.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
-T3e3h3r3a3n.roo3beh.info.:443:7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
-Sortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 18.116.81.128:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+Sortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 3.133.107.141:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -50,7 +48,6 @@ Sortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 expanders.ddns.net:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-cpanel.doshantappe.tk.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 7700.0770.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
@@ -76,6 +73,7 @@ www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5
 3.138.174.26:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 38.54.2.71:3512:7nm-7YCqZ7m4mxPlYkAwFkJzbGFjay5jb20%3D
+1-86.numberfa.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 38.54.2.121:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
 185.145.245.141:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 FalconHeavy.ddns.net.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -90,8 +88,9 @@ ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb
 bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhdsiflflfdfdiro.shetabanhost.fyi.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 helyter.numbereu.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
-104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Golnaz.dynu.com.:443:ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.179.132:443:7hYDAQIAAQAB_AMDhuJMOt1teS5pcmFuY2VsbC5pcg
 50.16.153.168:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
@@ -119,7 +118,6 @@ pp.yareoo.bybsr.lie.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.scom
 34.219.142.233:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 104.251.122.223:443:ee1603010200010001fc030386e24c3add206972616e20
 Fortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-tv3.irib.pics:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 104.149.169.194:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 52.90.248.187:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
@@ -154,6 +152,7 @@ m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Borsia.dynu.com.:443:7jK5IN_7
 13.59.214.47:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+84.22.98.101:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 89.41.177.206:443:eecf09e5861586f39dafe5aa1f2ff9f2056d792e6972616e63656c6c2e6972
 Kenchor.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 31.192.104.198:443:7nc4Mv8uMaivjGY5XWkgZhh3d3cuY2xvdWRmbGFyZS5jb20
