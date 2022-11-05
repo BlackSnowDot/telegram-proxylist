@@ -5,6 +5,7 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 Total.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Wortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.irancellserviceandcommunicationcompany.pro.:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+3.249.230.220:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 35.176.211.201:11087:7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA%3D%3D
 45.87.42.194:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 cpanel.dornaray.tk:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -71,7 +72,6 @@ Externalium.ddns.net.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 3.138.174.26:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 Rantom.dramaticmod.review:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-3.252.59.92:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 38.54.2.71:3512:7nm-7YCqZ7m4mxPlYkAwFkJzbGFjay5jb20%3D
 1-86.numberfa.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 38.54.2.121:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
@@ -91,6 +91,7 @@ ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb
 bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhdsiflflfdfdiro.shetabanhost.fyi.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 helyter.numbereu.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
+70.36.112.22:443:ee1603010200010001fc030386e24c3add206D636920
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Golnaz.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -136,9 +137,11 @@ barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.co
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
+136.175.9.243:443:ee1603010200010001fc030386e24c3add207370647920
 38.54.2.85:5089:7pw5qX2c1WfI8glkLfx-1OdzbGFjay5jb20%3D
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.95:5089:7h5gLWYNZhYNBDB_WXcjTiNzbGFjay5jb20%3D
+18.202.30.83:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Borsia.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 3.89.145.29:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 38.54.4.111:3512:7hE9lk_TFhdM-i9DxcVON4lzbGFjay5jb20%3D
@@ -160,7 +163,6 @@ travel.arvancloud.tech:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 70.36.112.18:443:ee1603010200010001fc030386e24c3add206972616e20
 54.245.182.189:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 172.107.198.33:8888:ee1603010200010001fc030386e24c3add202a20
-34.255.183.203:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 104.149.169.197:443:ee1603010200010001fc030386e24c3add2068616a6920
 35.162.179.245:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 Kotal.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
