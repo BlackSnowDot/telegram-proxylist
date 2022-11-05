@@ -72,6 +72,7 @@ https://t.me/proxy?server=m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Gol
 https://t.me/proxy?server=104.149.179.133&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=38.54.2.90&port=3512&secret=7g2r3irzypvHtstjoMqBUlRzbGFjay5jb20%3D
 https://t.me/proxy?server=172.107.196.247&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
+https://t.me/proxy?server=185.145.245.125&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=38.54.2.211&port=5089&secret=7j7ca6sbIH_BFU5LoiE4jStzbGFjay5jb20%3D
 https://t.me/proxy?server=iro.kindme.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=84.22.98.101&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
@@ -99,7 +100,6 @@ https://t.me/proxy?server=65.108.154.216&port=443&secret=7lUPvpErJ3U_pUojxzuoBjR
 https://t.me/proxy?server=techno.talktome.tokyo&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=70.36.102.103&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 https://t.me/proxy?server=Mostang.penthouse.repair&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-https://t.me/proxy?server=54.216.239.172&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=38.54.4.111&port=3512&secret=7hE9lk_TFhdM-i9DxcVON4lzbGFjay5jb20%3D
 https://t.me/proxy?server=www.irancellserviceandcommunicationcompany.pro.&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=Kotal.com.www.google.com.digikala.com.www.digikala.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -165,6 +165,7 @@ https://t.me/proxy?server=89.208.106.58&port=443&secret=ee0000000000000000000000
 https://t.me/proxy?server=77.73.131.56&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=www.heyhowareyou.co.uk&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+https://t.me/proxy?server=54.78.113.19&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=104.251.122.223&port=443&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
