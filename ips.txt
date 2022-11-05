@@ -13,6 +13,7 @@ cpanel.dornaray.tk:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 techno.talktome.tokyo:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Drive.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 104.149.166.170:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
+52.50.205.20:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 xn--mgbab1b2gc_xn--mgbab1b2gc.Borsia.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 Dortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -37,6 +38,7 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.145.245.126:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 38.54.2.84:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
+prx.internetazad.pro:443:7rxHX90eh-ahBfmWf-nUBlFteS5pcmFuY2VsbC5pcg
 notimetodie.bpnbb.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 18.116.81.128:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 Sortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -85,6 +87,7 @@ ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb
 185.21.217.80:8444:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 3.15.137.12:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhdsiflflfdfdiro.shetabanhost.fyi.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+helyter.numbereu.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -128,6 +131,7 @@ data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 74.222.1.157:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 54.225.61.47:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
+34.245.230.44:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 Fomzhin.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -152,10 +156,9 @@ m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Borsia.dynu.com.:443:7jK5IN_7
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 84.22.98.101:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
 89.41.177.206:443:eecf09e5861586f39dafe5aa1f2ff9f2056d792e6972616e63656c6c2e6972
-Kenchor.penthouse.repair:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-31.192.104.198:443:7nc4Mv8uMaivjGY5XWkgZhh3d3cuY2xvdWRmbGFyZS5jb20
 168.119.158.125:443:ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
-3.15.1.227:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+31.192.104.198:443:7nc4Mv8uMaivjGY5XWkgZhh3d3cuY2xvdWRmbGFyZS5jb20
+70.36.102.127:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 104.149.161.245:443:ee1603010200010001fc030386e24c3add2068616a6920
 70.36.112.18:443:ee1603010200010001fc030386e24c3add206972616e20
 54.245.182.189:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
