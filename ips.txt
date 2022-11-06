@@ -5,16 +5,16 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 Total.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Wortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.irancellserviceandcommunicationcompany.pro.:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+54.78.10.51:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 35.176.211.201:11087:7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA%3D%3D
 45.87.42.194:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-cpanel.dornaray.tk:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 5.75.159.104:443:7jK5IN_7UWQwKOL2uHjU6sFteS5tY2kubm9yd2F5
 52.30.162.215:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 104.149.166.45:443:ee1603010200010001fc030386e24c3add2068616a6920
+104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 techno.talktome.tokyo:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Drive.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.hateme--kindme.website:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
-104.149.166.170:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 xn--mgbab1b2gc_xn--mgbab1b2gc.Borsia.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Dortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
@@ -64,7 +64,6 @@ Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 35.93.22.155:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 172.107.196.247:443:ee1603010200010001fc030386e24c3add2068616a6920
-3.21.44.228:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 5.75.159.107:443:7jK5IN_7UWQwKOL2uHjU6sFteS5tY2kubm9yd2F5
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 Tortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
