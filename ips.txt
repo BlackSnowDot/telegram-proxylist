@@ -71,6 +71,7 @@ Tortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 Externalium.ddns.net.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 3.138.174.26:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
+54.74.9.225:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 Rantom.dramaticmod.review:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 38.54.2.71:3512:7nm-7YCqZ7m4mxPlYkAwFkJzbGFjay5jb20%3D
@@ -93,13 +94,13 @@ helyter.numbereu.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 70.36.112.22:443:ee1603010200010001fc030386e24c3add206D636920
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+63.33.45.238:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Golnaz.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.179.132:443:7hYDAQIAAQAB_AMDhuJMOt1teS5pcmFuY2VsbC5pcg
-3.252.236.213:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
+50.16.153.168:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
-50.16.153.168:2358:eec311a1b1f0121ac1ff1211eef8e112e4636f64652e676f6f676c652e636f6d
 34.243.41.201:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 185.145.245.125:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 Dotal.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
