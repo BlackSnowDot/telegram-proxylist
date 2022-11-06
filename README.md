@@ -2,11 +2,11 @@ Some Proxies
 ---
 - [Proxy 1](https://t.me/proxy?server=Sotal.com.www.google.com.digikala.com.www.digikala.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
 - [Proxy 2](https://t.me/proxy?server=www.hoya-texy.Textbook.dynu.com&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
-- [Proxy 3](https://t.me/proxy?server=52.212.159.164&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
-- [Proxy 4](https://t.me/proxy?server=185.145.245.50&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65)
-- [Proxy 5](https://t.me/proxy?server=ir12.ir.ftk2.xyz.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
-- [Proxy 6](https://t.me/proxy?server=136.175.9.243&port=443&secret=ee1603010200010001fc030386e24c3add207370647920)
-- [Proxy 7](https://t.me/proxy?server=208.115.202.51&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
+- [Proxy 3](https://t.me/proxy?server=185.145.245.50&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65)
+- [Proxy 4](https://t.me/proxy?server=ir12.ir.ftk2.xyz.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 5](https://t.me/proxy?server=136.175.9.243&port=443&secret=ee1603010200010001fc030386e24c3add207370647920)
+- [Proxy 6](https://t.me/proxy?server=208.115.202.51&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
+- [Proxy 7](https://t.me/proxy?server=54.216.221.34&port=2358&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
 - [Proxy 8](https://t.me/proxy?server=172.107.196.247&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
 - [Proxy 9](https://t.me/proxy?server=vinchester.Dramaticmod.review&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A)
 - [Proxy 10](https://t.me/proxy?server=Torento.subsection.deals&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
@@ -19,18 +19,18 @@ Some Proxies
 - [Proxy 17](https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw)
 - [Proxy 18](https://t.me/proxy?server=wood.marigang.wiki&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 19](https://t.me/proxy?server=closeall.badproxy.site.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
-- [Proxy 20](https://t.me/proxy?server=52.212.159.164&port=20807&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
+- [Proxy 20](https://t.me/proxy?server=52.211.244.81&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
 ---
 Copy Paste For Telegram
 ---
 ```
 https://t.me/proxy?server=Sotal.com.www.google.com.digikala.com.www.digikala.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=www.hoya-texy.Textbook.dynu.com&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-https://t.me/proxy?server=52.212.159.164&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=185.145.245.50&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=ir12.ir.ftk2.xyz.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=136.175.9.243&port=443&secret=ee1603010200010001fc030386e24c3add207370647920
 https://t.me/proxy?server=208.115.202.51&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
+https://t.me/proxy?server=54.216.221.34&port=2358&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=172.107.196.247&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=vinchester.Dramaticmod.review&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=Torento.subsection.deals&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -43,5 +43,5 @@ https://t.me/proxy?server=70.36.112.22&port=443&secret=ee1603010200010001fc03038
 https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 https://t.me/proxy?server=wood.marigang.wiki&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=closeall.badproxy.site.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
-https://t.me/proxy?server=52.212.159.164&port=20807&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
+https://t.me/proxy?server=52.211.244.81&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 ```
