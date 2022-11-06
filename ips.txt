@@ -16,6 +16,7 @@ techno.talktome.tokyo:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Drive.com.www.google.com.digikala.com.www.digikala.cfd:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.hateme--kindme.website:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 xn--mgbab1b2gc_xn--mgbab1b2gc.Borsia.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+18.203.137.81:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 Dortmond.mobilecountry.mobi:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 167.235.96.199:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
@@ -135,7 +136,6 @@ xn--mgbab1b2gc_xn--mgbab1b2gc.Darise.dynu.com.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgI
 data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 74.222.1.157:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
-54.75.47.179:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
