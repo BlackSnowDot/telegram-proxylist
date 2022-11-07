@@ -63,6 +63,7 @@ www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZn
 172.107.196.247:443:ee1603010200010001fc030386e24c3add2068616a6920
 bing.com.google.com.digikala.com.myket.com.divar.ir.varzesh3.pw.aparat.com.torojoonemadaretkarkonkhasteshodamdigeenqadtestzadam.filterchipedaramodarovordibekeshbiroon.aparat.comgoogle.com.hsb.commopo.jdfigfjdsfhfdjhfdhfhdhd.soltane-tel-injas-heh.digital.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
+54.229.61.212:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 185.145.245.159:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 57.128.68.228:443:7rxHX90eh-ahBfmWf-nUBlFtYWlsLmdvb2xlLnRva2htZQ
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add206972616e20
@@ -99,7 +100,6 @@ winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaX
 104.149.142.191:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
-34.245.128.84:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 34.254.99.220:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 136.175.9.246:443:ee1603010200010001fc030386e24c3add206D636920
 185.145.245.93:443:ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
@@ -128,7 +128,6 @@ heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5p
 45.89.55.140:443:eea93c297d237f4756c1a01ffa9b2debb87777772e6d792e6972616e63656c6c2e6972
 83.229.84.207:443:7g2wYUPu7EzjB522ZOeRUmN3d3cuY2xvdWRmbGFyZS5jb20
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-54.170.65.1:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 mahsaamini.nika.hadis.mehrshad.erfan.zendansharif.Khomeini.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 daily-trends.my-loliitta.website:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 www.hoya-texy.Textbook.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
