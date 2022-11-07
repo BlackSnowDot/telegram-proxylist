@@ -20,6 +20,7 @@ https://t.me/proxy?server=45.87.42.203&port=443&secret=ee1603010200010001fc03038
 https://t.me/proxy?server=159.69.248.204&port=443&secret=7ofHFjxP0j-srBP9wVUdi2RhcGFyYXQuY29t
 https://t.me/proxy?server=cupel.ddns.net&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=54.229.254.221&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
+https://t.me/proxy?server=34.245.105.197&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=3.64.24.242&port=48605&secret=7tZ6GhCQ1NhzkrwgjJgGlPAgICAgIA%3D%3D
 https://t.me/proxy?server=Torento.subsection.deals&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=m%C3%A8gbab1b%C3%A0%C3%A02%C3%A0g%C3%A2c_xn-%C3%A7.Borsia.dynu.com.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -120,7 +121,6 @@ https://t.me/proxy?server=3.250.84.214&port=443&secret=eec123a2b7f3080ac6ff9565e
 https://t.me/proxy?server=Torento.Subsection.deals&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=speed.globalmine.beauty&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=45.87.42.194&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
-https://t.me/proxy?server=34.255.87.51&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=travel.arvancloud.tech&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=wood.marigang.wiki&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=finished.blackberry.furniture&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
