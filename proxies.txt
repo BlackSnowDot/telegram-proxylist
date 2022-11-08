@@ -123,7 +123,6 @@ https://t.me/proxy?server=5.161.124.32&port=8080&secret=7gARIjNEVWZ3iJmqu8zd7v9z
 https://t.me/proxy?server=52.17.171.124&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=34.254.159.237&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=www.bencer.co.uk&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-https://t.me/proxy?server=torento.Subsection.Deals&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=45.87.43.211&port=443&secret=eee751840c97f2d111ec833a86762c2fa6736869722e616c692e696f
 https://t.me/proxy?server=23.88.115.160&port=443&secret=ee1603010200010001fc030386e24c3add6e616d6176612e6972
 https://t.me/proxy?server=www.google.com.best-phonix.gives&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
@@ -166,7 +165,6 @@ https://t.me/proxy?server=5.75.159.104&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFte
 https://t.me/proxy?server=web-music.fcesteghlal.careers&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=leader.ir.leader.com.digikala.com.soft98.ir.downloadha.com.download.ir.carouselart.ir&port=443&secret=ee8b987e444750b30aa21ca96e92b4b8f37777772e636c6f7564666c6172652e636f6d
-https://t.me/proxy?server=certainly.ddns.net&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=45.83.41.59&port=443&secret=7gS0J5S6QaCAADFGhCccKr53d3cuY2xvdWRmbGFyZS5jb20
 https://t.me/proxy?server=185.145.245.93&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
