@@ -47,6 +47,7 @@ Torento.Subsection.Deals:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 34.245.73.167:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
+1loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 188.42.166.155:8888:ee1603010200010001fc030386e24c3add206972616e20
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 46.165.206.53:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
@@ -79,7 +80,6 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
 172.107.228.61:80:ee1603010200010001fc030386e24c3add2068616a6920
 136.175.9.243:443:ee1603010200010001fc030386e24c3add2068616a6920
-159.69.248.204:443:7ofHFjxP0j-srBP9wVUdi2RhcGFyYXQuY29t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 www-parsonline-com.Parsonline.tours:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -89,12 +89,11 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 172.107.222.134:80:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-185.145.245.160:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 136.175.9.244:443:ee1603010200010001fc030386e24c3add6D6369
+104.149.142.191:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
-104.149.142.191:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 136.175.9.246:443:ee1603010200010001fc030386e24c3add206D636920
 review.for.hydri2.to.analogs.mouse.it.beeeaaach.orshould.repeats.sagain.qmark.www.sssdigik.iranservers.com.bing.com.gmail.jacket.gnic.ir.thisisme.ir.mihanwebhost.sejhost.udfuk.986.entekhab.ddns.net.dynu.cfeccom.noip.withoutip.whithout.jokertime.website.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 54.194.135.203:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
@@ -149,9 +148,9 @@ country.stockholm.institute:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 185.145.245.93:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 34.245.176.187:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 naband-nakon.boldmine.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
+185.145.245.151:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-185.145.245.151:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 104.149.169.181:443:ee1603010200010001fc030386e24c3add2068616a6920
 www.gen0r-e.co.uk.:443:7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
 168.119.158.125:443:ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
