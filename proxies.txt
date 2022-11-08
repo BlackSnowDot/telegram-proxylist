@@ -29,7 +29,6 @@ https://t.me/proxy?server=70.36.112.21&port=8888&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=3.252.224.242&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=57.128.68.228&port=443&secret=7rxHX90eh-ahBfmWf-nUBlFtYWlsLmdvb2xlLnRva2htZQ
 https://t.me/proxy?server=3.249.253.25&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
-https://t.me/proxy?server=3.249.231.113&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=188.42.166.155&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=79.137.202.83&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -98,6 +97,7 @@ https://t.me/proxy?server=daily-trends.my-loliitta.website&port=443&secret=7gAAA
 https://t.me/proxy?server=3.249.252.238&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=104.149.166.45&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=jone.madaret.filter.nakon-kharkose.Filterchi.dynu.com&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=34.250.136.160&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=74.222.1.212&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 https://t.me/proxy?server=104.149.143.118&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=136.175.9.246&port=443&secret=ee1603010200010001fc030386e24c3add206D636920
