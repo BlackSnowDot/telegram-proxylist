@@ -63,10 +63,13 @@ https://t.me/proxy?server=104.149.179.133&port=443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=38.54.2.90&port=3512&secret=7g2r3irzypvHtstjoMqBUlRzbGFjay5jb20%3D
 https://t.me/proxy?server=172.107.196.247&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=185.145.245.125&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+https://t.me/proxy?server=38.54.2.211&port=5089&secret=7j7ca6sbIH_BFU5LoiE4jStzbGFjay5jb20%3D
 https://t.me/proxy?server=iro.kindme.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
+https://t.me/proxy?server=172.107.222.132&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=185.145.245.122&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=musicplayer.minepiiiroksi.pics&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=mediacenter.domonicsales.co.uk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+https://t.me/proxy?server=172.107.228.62&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=185.145.245.151&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=104.149.146.6&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=172.107.228.62&port=80&secret=ee1603010200010001fc030386e24c3add206D636920
@@ -166,3 +169,4 @@ https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJ
 https://t.me/proxy?server=45.83.41.59&port=443&secret=7gS0J5S6QaCAADFGhCccKr53d3cuY2xvdWRmbGFyZS5jb20
 https://t.me/proxy?server=185.145.245.93&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
+https://t.me/proxy?server=3.249.118.160&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
