@@ -14,10 +14,9 @@ Some Proxies
 - [Proxy 12](https://t.me/proxy?server=www.bencer.co.uk&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 - [Proxy 13](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 14](https://t.me/proxy?server=172.107.228.61&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
-- [Proxy 15](https://t.me/proxy?server=34.244.224.206&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
-- [Proxy 16](https://t.me/proxy?server=45.61.136.33&port=443&secret=ee75b9f5b6e98d8d9e454790023d7c6d3c7777772e636c6f7564666c6172652e636f6d)
-- [Proxy 17](https://t.me/proxy?server=52.209.244.105&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
-- [Proxy 18](https://t.me/proxy?server=daily-trends.my-loliitta.website&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
+- [Proxy 15](https://t.me/proxy?server=45.61.136.33&port=443&secret=ee75b9f5b6e98d8d9e454790023d7c6d3c7777772e636c6f7564666c6172652e636f6d)
+- [Proxy 16](https://t.me/proxy?server=52.209.244.105&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b)
+- [Proxy 17](https://t.me/proxy?server=daily-trends.my-loliitta.website&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
 ---
 Copy Paste For Telegram
 ---
@@ -36,7 +35,6 @@ https://t.me/proxy?server=www.baharvip2.xyz.&port=443&secret=7jK5IN_7UWQwKOL2uHj
 https://t.me/proxy?server=www.bencer.co.uk&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=172.107.228.61&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
-https://t.me/proxy?server=34.244.224.206&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=45.61.136.33&port=443&secret=ee75b9f5b6e98d8d9e454790023d7c6d3c7777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=52.209.244.105&port=443&secret=eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 https://t.me/proxy?server=daily-trends.my-loliitta.website&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
