@@ -15,10 +15,10 @@ Some Proxies
 - [Proxy 13](https://t.me/proxy?server=3.249.166.192&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
 - [Proxy 14](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 15](https://t.me/proxy?server=74.222.1.158&port=443&secret=eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d)
-- [Proxy 16](https://t.me/proxy?server=fake-3g-4g-5g.motorcycles&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
-- [Proxy 17](https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw)
-- [Proxy 18](https://t.me/proxy?server=notimetodie.bpnbb.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
-- [Proxy 19](https://t.me/proxy?server=www.parsonline.one.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D)
+- [Proxy 16](https://t.me/proxy?server=168.119.158.125&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d)
+- [Proxy 17](https://t.me/proxy?server=fake-3g-4g-5g.motorcycles&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
+- [Proxy 18](https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw)
+- [Proxy 19](https://t.me/proxy?server=notimetodie.bpnbb.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
 ---
 Copy Paste For Telegram
 ---
@@ -38,8 +38,8 @@ https://t.me/proxy?server=haromzade-inghaD-beband-ta-pare-shi.berembocar.cfd&por
 https://t.me/proxy?server=3.249.166.192&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=74.222.1.158&port=443&secret=eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
+https://t.me/proxy?server=168.119.158.125&port=443&secret=ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
 https://t.me/proxy?server=fake-3g-4g-5g.motorcycles&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 https://t.me/proxy?server=notimetodie.bpnbb.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
-https://t.me/proxy?server=www.parsonline.one.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 ```
