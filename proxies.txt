@@ -22,6 +22,7 @@ https://t.me/proxy?server=ssss.ir.hotspotproxy.co&port=443&secret=7jK5IN_7UWQwKO
 https://t.me/proxy?server=45.61.136.33&port=443&secret=ee9b0200e60efbe56b75570fd453993e877777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=pub.daneshbonyan.daneshboyan.recipes&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=70.36.112.21&port=8888&secret=ee1603010200010001fc030386e24c3add206D636920
+https://t.me/proxy?server=34.247.54.149&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=57.128.68.228&port=443&secret=7rxHX90eh-ahBfmWf-nUBlFtYWlsLmdvb2xlLnRva2htZQ
 https://t.me/proxy?server=naband-nakon.boldmine.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
