@@ -29,6 +29,7 @@ www.bencer.co.uk:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 38.54.2.233:3512:7peMg-Lf8SsrLrvu9hmhUGJzbGFjay5jb20%3D
 185.226.119.149:444:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
 38.54.2.112:5089:7p-on-gXaaQjINRnSef2Ce9uYW1hdmEuaXI%3D
+18.202.179.235:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 104.149.166.44:443:ee1603010200010001fc030386e24c3add2068616a6920
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -59,8 +60,8 @@ mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda4116
 1loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 188.42.166.155:8888:ee1603010200010001fc030386e24c3add206972616e20
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
-Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 46.165.206.53:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 172.107.222.132:443:ee1603010200010001fc030386e24c3add206D636920
 172.107.196.247:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -134,7 +135,6 @@ Pub.daneshbonyan.daneshboyan.recipes:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICA
 www.gg-with-new.info.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20
 34.255.194.223:443:eec123a2b7f3080ac6ff9565eef8e625e47777772e6265796f7572776e2e636f2e756b
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
-34.245.52.193:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 mahsaamini.nika.hadis.mehrshad.erfan.zendansharif.Khomeini.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 daily-trends.my-loliitta.website:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 www.hoya-texy.Textbook.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
