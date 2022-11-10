@@ -1,8 +1,8 @@
 Some Proxies
 ---
 - [Proxy 1](https://t.me/proxy?server=pro.prallel.plus&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
-- [Proxy 2](https://t.me/proxy?server=18.203.185.190&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
-- [Proxy 3](https://t.me/proxy?server=Google.com.nuremberg-city.kaufen&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
+- [Proxy 2](https://t.me/proxy?server=Google.com.nuremberg-city.kaufen&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
+- [Proxy 3](https://t.me/proxy?server=34.250.213.250&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
 - [Proxy 4](https://t.me/proxy?server=jone.madaret.filter.nakon-kharkose.Filterchi.dynu.com&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 5](https://t.me/proxy?server=solar.afterparty.skin&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 6](https://t.me/proxy?server=74.222.1.212&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73)
@@ -22,8 +22,8 @@ Copy Paste For Telegram
 ---
 ```
 https://t.me/proxy?server=pro.prallel.plus&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-https://t.me/proxy?server=18.203.185.190&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=Google.com.nuremberg-city.kaufen&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+https://t.me/proxy?server=34.250.213.250&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=jone.madaret.filter.nakon-kharkose.Filterchi.dynu.com&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=solar.afterparty.skin&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=74.222.1.212&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
