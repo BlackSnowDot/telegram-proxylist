@@ -13,11 +13,10 @@ Some Proxies
 - [Proxy 11](https://t.me/proxy?server=172.107.228.62&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
 - [Proxy 12](https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 13](https://t.me/proxy?server=www.parsonline.one.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D)
-- [Proxy 14](https://t.me/proxy?server=52.17.209.108&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
-- [Proxy 15](https://t.me/proxy?server=my-loliita.website.iroea.yachts&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
-- [Proxy 16](https://t.me/proxy?server=naband-nakon.boldmine.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
-- [Proxy 17](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
-- [Proxy 18](https://t.me/proxy?server=74.222.1.155&port=443&secret=eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d)
+- [Proxy 14](https://t.me/proxy?server=34.245.95.65&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
+- [Proxy 15](https://t.me/proxy?server=naband-nakon.boldmine.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
+- [Proxy 16](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
+- [Proxy 17](https://t.me/proxy?server=74.222.1.155&port=443&secret=eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d)
 ---
 Copy Paste For Telegram
 ---
@@ -35,8 +34,7 @@ https://t.me/proxy?server=54.155.218.86&port=443&secret=eec123a2b7f2070ac6ff9565
 https://t.me/proxy?server=172.107.228.62&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=www.parsonline.one.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
-https://t.me/proxy?server=52.17.209.108&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
-https://t.me/proxy?server=my-loliita.website.iroea.yachts&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
+https://t.me/proxy?server=34.245.95.65&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=naband-nakon.boldmine.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=74.222.1.155&port=443&secret=eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
