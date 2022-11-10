@@ -20,7 +20,6 @@ jone.madaret.filter.nakon-kharkose.Filterchi.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6s
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayokb.tavalodi.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.143.159:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
-185.226.119.149:444:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20
 Kashki-bejaye-bastano-kharab-kardan-abad-konim.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 yerooze-khob-miad-ke-ma-hamo-nakoshim.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -56,6 +55,7 @@ man-jaddaro-barat-saf-mikonam-bia-berim.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2u
 46.165.206.53:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 52.215.38.54:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+daily-trends.my-loliitta.art:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 www-parsonline77.ddns.net:100:7lRzNTgLb7NY_OuCHhCglsRzMy5hbWF6b25hd3MuY29t
 185.145.245.159:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
@@ -127,12 +127,10 @@ host.arvancloud.capital:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 116.203.3.122:1234:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 daily-trends.my-loliitta.website:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 dubai.afterparty.skin:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-www.hoya-texy.Textbook.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 54.195.19.183:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 208.115.202.72:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 5.252.118.53:443:ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
 haromzade-inghad-beband-ta-pare-shi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-data-01-date.cli-bottest.co.uk.:443:7hYDAQIAAQAB_AMDhuJMOt1uYW1hdmEuaXI
 kimia.kaktoos.kitchen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 172.107.228.58:443:ee1603010200010001fc030386e24c3add2068616a6920
 chon-migozarad-ghami-nist-belakhare-maham-khodaei-darim.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -163,6 +161,7 @@ speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 fake-3g-4g-5g.motorcycles:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoz.blackmile.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 2.nicer.lol:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+104.149.169.181:443:ee1603010200010001fc030386e24c3add2068616a6920
 168.119.158.125:443:ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
 54.155.194.59:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 www.irancell-service.co.uk.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
@@ -172,5 +171,6 @@ www.irancell-service.co.uk.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%
 13.42.2.131:443:ee1603010200010001fc030386e24c3add206972616e20
 63.32.71.158:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 34.244.121.193:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
+52.211.175.49:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 daily-trends.my-loliitta.online:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 104.149.169.180:443:ee1603010200010001fc030386e24c3add2068616a6920
