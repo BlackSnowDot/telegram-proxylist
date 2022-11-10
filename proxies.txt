@@ -97,6 +97,7 @@ https://t.me/proxy?server=70.36.102.103&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZ
 https://t.me/proxy?server=172.107.222.134&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=46.165.206.53&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+https://t.me/proxy?server=34.244.106.191&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=haromzade-Inghad-Beband-ta-pare-shi.berembocar.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=www.khodro--bus.co.uk.&port=443&secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f
 https://t.me/proxy?server=daily-trends.my-loliitta.website&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
