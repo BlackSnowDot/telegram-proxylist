@@ -14,9 +14,9 @@ Some Proxies
 - [Proxy 12](https://t.me/proxy?server=amazon.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
 - [Proxy 13](https://t.me/proxy?server=lamasab-nazan.tokhmemorgh.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
 - [Proxy 14](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
-- [Proxy 15](https://t.me/proxy?server=54.229.46.64&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
-- [Proxy 16](https://t.me/proxy?server=70.36.112.22&port=443&secret=ee1603010200010001fc030386e24c3add206D636920)
-- [Proxy 17](https://t.me/proxy?server=168.119.111.222&port=443&secret=eee2c75673146f4db70cdb39bd4499223b7777772e6972616e2e676f762e6972)
+- [Proxy 15](https://t.me/proxy?server=70.36.112.22&port=443&secret=ee1603010200010001fc030386e24c3add206D636920)
+- [Proxy 16](https://t.me/proxy?server=168.119.111.222&port=443&secret=eee2c75673146f4db70cdb39bd4499223b7777772e6972616e2e676f762e6972)
+- [Proxy 17](https://t.me/proxy?server=52.51.29.219&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
 ---
 Copy Paste For Telegram
 ---
@@ -35,7 +35,7 @@ https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_wit
 https://t.me/proxy?server=amazon.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=lamasab-nazan.tokhmemorgh.cfd.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
-https://t.me/proxy?server=54.229.46.64&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=70.36.112.22&port=443&secret=ee1603010200010001fc030386e24c3add206D636920
 https://t.me/proxy?server=168.119.111.222&port=443&secret=eee2c75673146f4db70cdb39bd4499223b7777772e6972616e2e676f762e6972
+https://t.me/proxy?server=52.51.29.219&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 ```
