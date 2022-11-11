@@ -84,6 +84,7 @@ daily-trends.my-loliitta.autos:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 77.73.67.172:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 ta-bode-hamin-bode-baraye-azadi-bayad-jangid.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 185.145.245.141:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+3.253.9.57:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 bade-ma-baroon-mibare-atre-azadi.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI=
@@ -187,7 +188,6 @@ amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there
 lope-kalam.mashrooti.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 63.32.71.158:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 34.244.121.193:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
-54.78.167.212:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 Amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 daily-trends.my-loliitta.online:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 amazon.com.nokia.com.co.uk.do_yo.want.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
