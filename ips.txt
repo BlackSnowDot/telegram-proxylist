@@ -1,4 +1,5 @@
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
+rastgar.contact:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 microsoft.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 daily-trends.my-loliitta.cfd:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
@@ -23,6 +24,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_With.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+104.149.169.178:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 104.149.179.133:443:ee1603010200010001fc030386e24c3add2068616a6920
 46.165.206.7:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 jone.madaret.filter.nakon-kharkose.Filterchi.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -47,6 +49,7 @@ Hameye-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6
 Azadi-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 donya-Hame-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 www.baharvip2.xyz.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+gd4.selfip.com:444:eefde5f5c1eea0d01cb286633b709005857777772e636c6f7564666c6172652e636f6d
 185.174.137.133:1400:7gARIjNEVWZ3iJmqu8zd7v9uYW1hdmEuaXI
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 tornoment.arvancloud.builders:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -190,8 +193,8 @@ amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there
 34.240.12.67:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.:444:7gAAAAAAAAAAAAAAAAAAAABhcmUuaW5tLmNvcHkua29uLm1hZGFyLmphbmRlLmR1b2xpbmdvLmNvbQ
 70.36.102.127:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
-3.249.224.96:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 ncpa.cpl.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+94.242.60.200:443:7jK5IN/7UWQwKOL2uHjU6sFtYWlsLmdvb2xlLnRva2htZQ
 104.149.161.245:443:ee1603010200010001fc030386e24c3add2068616a6920
 13.42.2.131:443:ee1603010200010001fc030386e24c3add206972616e20
 lope-kalam.mashrooti.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
