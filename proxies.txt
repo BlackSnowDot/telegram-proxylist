@@ -69,6 +69,7 @@ https://t.me/proxy?server=157.230.122.7&port=443&secret=eef4359a9b325ff1d1e5084d
 https://t.me/proxy?server=13.42.2.131&port=443&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=185.145.245.125&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=pirozo-mardane.bekob.TKY.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+https://t.me/proxy?server=94.242.60.200&port=443&secret=7jK5IN/7UWQwKOL2uHjU6sFtYWlsLmdvb2xlLnRva2htZQ
 https://t.me/proxy?server=rastgar.contact&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=3.249.130.112&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=172.107.222.132&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
@@ -141,7 +142,6 @@ https://t.me/proxy?server=fake-3g-4g-5g.motorcycles&port=443&secret=7gAAAAAAAAAA
 https://t.me/proxy?server=amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.col.www.google.com.sarzamindownload.download.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=finished.blackberry.furniture&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 https://t.me/proxy?server=5.161.124.32&port=8080&secret=7gARIjNEVWZ3iJmqu8zd7v9zb2Z0NzguaXIu
-https://t.me/proxy?server=34.242.99.248&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=34.243.68.212&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=chon-migozarad-ghami-nist-belakhare-maham-khodaei-darim.www.berembocar.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=DGP.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
