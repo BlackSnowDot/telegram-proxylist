@@ -1,7 +1,7 @@
 Some Proxies
 ---
-- [Proxy 1](https://t.me/proxy?server=54.77.58.2&port=443&secret=eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b)
-- [Proxy 2](https://t.me/proxy?server=104.149.166.45&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
+- [Proxy 1](https://t.me/proxy?server=104.149.166.45&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
+- [Proxy 2](https://t.me/proxy?server=34.240.12.67&port=443&secret=eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b)
 - [Proxy 3](https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw)
 - [Proxy 4](https://t.me/proxy?server=www.eager.beauty.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D)
 - [Proxy 5](https://t.me/proxy?server=43.154.198.57&port=566&secret=ee7fa5e5988b66221d41c9e1ba2a677169617a7572652e6d6963726f736f66742e636f6d)
@@ -22,8 +22,8 @@ Some Proxies
 Copy Paste For Telegram
 ---
 ```
-https://t.me/proxy?server=54.77.58.2&port=443&secret=eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 https://t.me/proxy?server=104.149.166.45&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
+https://t.me/proxy?server=34.240.12.67&port=443&secret=eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 https://t.me/proxy?server=www.eager.beauty.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 https://t.me/proxy?server=43.154.198.57&port=566&secret=ee7fa5e5988b66221d41c9e1ba2a677169617a7572652e6d6963726f736f66742e636f6d
