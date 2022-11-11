@@ -15,9 +15,8 @@ Some Proxies
 - [Proxy 13](https://t.me/proxy?server=daily-trends.my-loliitta.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
 - [Proxy 14](https://t.me/proxy?server=amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fightono.www.google.com.sarzamindownload.download.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
 - [Proxy 15](https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20)
-- [Proxy 16](https://t.me/proxy?server=54.78.167.212&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b)
-- [Proxy 17](https://t.me/proxy?server=185.145.245.41&port=8443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
-- [Proxy 18](https://t.me/proxy?server=fds.ALW.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
+- [Proxy 16](https://t.me/proxy?server=185.145.245.41&port=8443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
+- [Proxy 17](https://t.me/proxy?server=fds.ALW.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 ---
 Copy Paste For Telegram
 ---
@@ -37,7 +36,6 @@ https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee0000000000000000000
 https://t.me/proxy?server=daily-trends.my-loliitta.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fightono.www.google.com.sarzamindownload.download.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
-https://t.me/proxy?server=54.78.167.212&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=185.145.245.41&port=8443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=fds.ALW.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 ```
