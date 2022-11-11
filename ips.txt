@@ -11,6 +11,7 @@ JKL.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.143.118:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+blue.blacksnow.international:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 kolah-kaj.webmine.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.speca.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -74,6 +75,7 @@ www-parsonline77.ddns.net:100:7lRzNTgLb7NY_OuCHhCglsRzMy5hbWF6b25hd3MuY29t
 57.128.68.228:443:7rxHX90eh-ahBfmWf-nUBlFtYWlsLmdvb2xlLnRva2htZQ
 5.161.124.32:8080:7gARIjNEVWZ3iJmqu8zd7v9zb2Z0NzguaXIu
 www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
+34.241.243.54:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 54.74.17.90:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 yavash-baba.portmine.space.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 104.149.152.12:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -98,7 +100,6 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.:443:eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
 3.252.236.187:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
-54.194.192.32:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 storage.gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
@@ -111,7 +112,6 @@ amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there
 104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
-34.244.155.248:58135:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 104.149.152.31:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg
@@ -123,6 +123,7 @@ mashti-bash.kheilisarde.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 3.9.226.2:443:ee1603010200010001fc030386e24c3add206972616e20
 54.74.75.20:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
+63.32.96.2:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 45.87.42.203:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 188.42.166.156:8888:7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
 www.heyhowareyou.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -165,7 +166,6 @@ musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 www.imtproto.moda:443:ee1603010200010001fc030386e24c3add206972616e20
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_hetz.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 QWS.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-pro.prallel.plus:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.142.191:443:ee56c61135a40dbf23b74ee384218db26a6d792e6972616e63656c6c2e6972
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
