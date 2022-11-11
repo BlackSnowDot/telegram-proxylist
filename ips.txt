@@ -20,10 +20,8 @@ jone.madaret.filter.nakon-kharkose.Filterchi.dynu.com:443:7jK5IN_7UWQwKOL2uHjU6s
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayokb.tavalodi.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.143.159:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
-Kashki-bejaye-bastano-kharab-kardan-abad-konim.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 yerooze-khob-miad-ke-ma-hamo-nakoshim.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
-payane-shabe-siah-sepid-ast-beomide-hagh.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 74.222.1.158:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.166.44:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -31,9 +29,12 @@ payane-shabe-siah-sepid-ast-beomide-hagh.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 172.107.222.134:443:ee1603010200010001fc030386e24c3add2068616a6920
-94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+Hameye-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 haromzade-Inghad-Beband-ta-pare-shi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+Azadi-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 Man-Mikham-bedonam-ta-key-mikhay-bebandi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+donya-Hame-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 www.baharvip2.xyz.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 gd4.selfip.com:444:eefde5f5c1eea0d01cb286633b709005857777772e636c6f7564666c6172652e636f6d
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -46,7 +47,6 @@ www.mihan--server.lol.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
-Baham-bashim-mitavanim-donyara-fath-konim-rozaye-roshan.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 185.145.245.50:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 52.17.209.108:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
@@ -55,6 +55,9 @@ man-jaddaro-barat-saf-mikonam-bia-berim.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2u
 46.165.206.53:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 52.215.38.54:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
+Hame-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+52.16.14.11:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
+34.255.160.128:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 daily-trends.my-loliitta.art:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 34.243.16.67:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
@@ -80,7 +83,6 @@ bade-ma-baroon-mibare-atre-azadi.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEg
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI=
 snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
-tamitavani-dasti-begir-nainke-tishe-be-rishe-bezani.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
 haromzade-inghaD-beband-ta-pare-shi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
