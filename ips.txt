@@ -11,6 +11,7 @@ man-Mikham-bedonam-ta-key-mikhay-bebandi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU
 3.249.130.112:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
+104.149.143.118:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 kolah-kaj.webmine.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.speca.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -97,6 +98,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
 ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.:443:eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
+3.252.236.187:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 70.36.102.124:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
@@ -118,6 +120,7 @@ mashti-bash.kheilisarde.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 3.9.226.2:443:ee1603010200010001fc030386e24c3add206972616e20
 54.74.75.20:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
+45.87.42.203:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 188.42.166.156:8888:7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
 104.149.143.157:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
@@ -134,6 +137,7 @@ cloudflare77-com.servebeer.com:443:7vg246Ct-qITbtoSMKQC5uBzMy5hbWF6b25hd3MuY29t
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 104.149.145.174:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 54.78.94.93:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
+bar.tabl-shadane-bekoob.ZADW.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 172.107.198.33:443:ee1603010200010001fc030386e24c3add2068616a6920
 185.145.245.142:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
@@ -166,7 +170,6 @@ Man-mikham-bedonam-ta-key-mikhay-bebandi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU
 74.222.1.155:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.212.202.238:443:ee90317626421f7cd362f8176270fb717b7777772e636c6f7564666c6172652e636f6d
-34.243.11.146:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 63.33.203.186:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 77.73.67.167:443:ee3cd376e8086feec9b5ad950f6725abde7777772e636c6f7564666c6172652e636f6d
 185.145.245.93:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
