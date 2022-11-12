@@ -36,6 +36,7 @@ bang.astonmartin.singles:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 38.54.2.67:5089:7kjCr9M0Qkjp08GzxuOkLjRzbGFjay5jb20%3D
 195.189.96.167:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
+3.252.130.123:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 lamasab-nazan.tokhmemorgh.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 104.149.166.44:443:ee1603010200010001fc030386e24c3add2068616a6920
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -185,7 +186,6 @@ country.stockholm.institute:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_f.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 speed.globalmine.beauty:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.30.233.183:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubXNuLmNvbQ==
-54.155.198.162:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 5.252.118.96:443:ee000000000000000000000000000000006e616d6176612e6972
 104.149.169.181:443:ee1603010200010001fc030386e24c3add2068616a6920
 95.217.24.189:1234:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
@@ -196,6 +196,7 @@ amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there
 34.240.12.67:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_inter_net.special_way.kyoosho-off.science.:444:7gAAAAAAAAAAAAAAAAAAAABhcmUuaW5tLmNvcHkua29uLm1hZGFyLmphbmRlLmR1b2xpbmdvLmNvbQ
 70.36.102.127:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+63.33.207.16:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 ncpa.cpl.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 94.242.60.200:443:7jK5IN/7UWQwKOL2uHjU6sFtYWlsLmdvb2xlLnRva2htZQ
 104.149.161.245:443:ee1603010200010001fc030386e24c3add2068616a6920
