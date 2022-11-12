@@ -6,7 +6,6 @@ daily-trends.my-loliitta.cfd:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaab.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 52.51.29.219:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
-JKL.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 3.249.130.112:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 fds.ALW.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -84,7 +83,6 @@ fho.Rahj.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.152.12:443:ee1603010200010001fc030386e24c3add2068616a6920
 18.202.242.161:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 amazon.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-74.222.1.118:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 63.33.203.193:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
@@ -108,10 +106,9 @@ Tewq.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 70.36.112.22:443:ee1603010200010001fc030386e24c3add206D636920
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-46.165.206.54:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fightono.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-104.149.141.182:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
@@ -159,7 +156,6 @@ MAN-mikham-bedonam-ta-key-mikhay-bebandi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU
 core.amdgroup.healthcare:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_hetz.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-74.222.1.157:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 34.248.138.139:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 www.imtproto.moda:443:ee1603010200010001fc030386e24c3add206972616e20
