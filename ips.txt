@@ -21,6 +21,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_tofight.with_everyone.im_the_internet.special_way.nic-works.mom.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 3.249.230.236:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 172.107.222.131:443:ee1603010200010001fc030386e24c3add2068616a6920
+Parsserver.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 185.73.113.159:4856:7gAAAAAAAAAAAAAAAAAAAAAgICAgICAgICAgICA
 104.149.169.178:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
@@ -60,6 +61,7 @@ www.mihan--server.lol.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
+hi-bch-hi-boi.lol-244bg.one.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 kolbeye-darvishi.clickforus.fun.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 418db.www.google.com.alphard.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.145.245.50:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
@@ -82,7 +84,6 @@ yeah.Variousoptions.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 fho.Rahj.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.152.12:443:ee1603010200010001fc030386e24c3add2068616a6920
-amazon.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 63.33.203.193:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
@@ -91,7 +92,6 @@ Parsserver.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com
 185.145.245.141:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
-84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI=
 snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
 45.14.50.42:30132:ee000000000000000000000000000000007777772e6e616d6176612e6972
