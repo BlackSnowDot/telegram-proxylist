@@ -10,6 +10,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 fds.ALW.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
+172.107.228.59:443:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.166.45:443:ee1603010200010001fc030386e24c3add2068616a6920
 blue.blacksnow.international:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
@@ -33,8 +34,8 @@ bang.astonmartin.singles:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 hostserver.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 195.189.96.167:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
-lamasab-nazan.tokhmemorgh.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 104.149.166.44:443:ee1603010200010001fc030386e24c3add2068616a6920
+lamasab-nazan.tokhmemorgh.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 74.222.1.158:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 185.145.245.126:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
@@ -72,7 +73,6 @@ Hame-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU6sE
 34.245.70.165:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 daily-trends.my-loliitta.art:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
-103.105.48.22:443:7gAAAAAAAAAAAAAAAAAAAABteXNvbi5kdW9saW5nby5jb20
 168.119.111.222:443:eee2c75673146f4db70cdb39bd4499223b7777772e6972616e2e676f762e6972
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add206972616e20
@@ -89,6 +89,7 @@ amazon.Com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there
 38.54.2.71:3512:7nm-7YCqZ7m4mxPlYkAwFkJzbGFjay5jb20%3D
 77.73.67.172:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 185.145.245.141:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+54.78.107.76:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI=
@@ -118,7 +119,6 @@ people.iranian.baby.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.145.245.125:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 3.9.226.2:443:ee1603010200010001fc030386e24c3add206972616e20
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
-45.87.42.203:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 yare-dasbestaniye-man-bamano-hamrahe-mani.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 188.42.166.156:8888:7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
 www.heyhowareyou.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -127,12 +127,11 @@ www.heyhowareyou.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 31.222.229.213:8443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 plus.prallel.plus:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-43.154.198.57:566:ee7fa5e5988b66221d41c9e1ba2a677169617a7572652e6d6963726f736f66742e636f6d
-3.249.229.50:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 heykhoda-khaste-az-in-vaziat.minepiiiroksi.pics:443:7gAAAAAAAAAAAAAAAAAAAABteS5pcmFuY2VsbC5pcg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specialll.amir.tavalodi.cfd.:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 70.36.112.21:8888:ee1603010200010001fc030386e24c3add206D636920
+34.254.195.228:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 cloudflare77-com.servebeer.com:443:7vg246Ct-qITbtoSMKQC5uBzMy5hbWF6b25hd3MuY29t
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 pirozo-mardane.bekob.TKY.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
@@ -180,7 +179,6 @@ www.gen0r-e.co.uk.:443:7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fig.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 168.119.158.125:443:ee56c61135a40dbf23b74ee384218db26a5b756b2e73706f7274732e7961686f6f2e636f6d5d
 34.240.12.67:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
-34.245.66.139:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 70.36.102.127:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 34.244.136.111:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 ncpa.cpl.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
