@@ -202,6 +202,7 @@ ncpa.cpl.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.161.245:443:ee1603010200010001fc030386e24c3add2068616a6920
 13.42.2.131:443:ee1603010200010001fc030386e24c3add206972616e20
 lope-kalam.mashrooti.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
+3.249.187.197:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 104.149.169.197:443:ee1603010200010001fc030386e24c3add2068616a6920
 Amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 daily-trends.my-loliitta.online:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
