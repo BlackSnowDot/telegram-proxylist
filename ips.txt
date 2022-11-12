@@ -50,13 +50,12 @@ www.baharvip2.xyz.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.col.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-www.mihan--server.lol.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 wood.marigang.wiki:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+www.mihan--server.lol.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 18.202.24.121:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 34.243.68.212:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 5.161.77.249:443:7gP1Jv21DIPcpWRB8UPOtO9z5Lmluc3RhZ3JhbS5jb20
-CCA.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 kolbeye-darvishi.clickforus.fun.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
@@ -108,6 +107,7 @@ amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fightono.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+74.222.1.211:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 finished.blackberry.furniture:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 136.175.9.246:443:ee1603010200010001fc030386e24c3add206D636920
