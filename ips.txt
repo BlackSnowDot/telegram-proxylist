@@ -7,7 +7,6 @@ daily-trends.my-loliitta.cfd:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaab.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 52.51.29.219:443:eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 84.19.27.150:443:7udRhAyX8tER7IM6hnYsL6ZwcmF5LmZvci5pbw
-172.107.228.62:443:ee1603010200010001fc030386e24c3add206D636920
 gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 fds.ALW.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -66,7 +65,6 @@ Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 84.32.129.11:443:ee1603010200010001fc030386e24c3add2068616a6920
 46.165.206.53:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-Google.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 52.213.160.36:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 34.245.70.165:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
@@ -174,6 +172,7 @@ amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there
 34.240.12.67:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 70.36.102.127:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 34.244.136.111:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
+78.140.141.98:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg==
 ncpa.cpl.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 54.72.118.137:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 104.149.161.245:443:ee1603010200010001fc030386e24c3add2068616a6920
