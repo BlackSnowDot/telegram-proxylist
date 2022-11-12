@@ -97,7 +97,6 @@ https://t.me/proxy?server=208.115.202.114&port=443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=Hameye-baraye-yeki-yeki-baraye-hame.www.berembocar.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=104.149.147.26&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=172.107.222.134&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
-https://t.me/proxy?server=46.137.136.19&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=54.229.46.64&port=443&secret=eec123a2b7f2070ac6ff9565eef8e625e47777772e6d6f6e657275696c2e636f2e756b
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=46.165.206.53&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
