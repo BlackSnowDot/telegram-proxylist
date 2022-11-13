@@ -3,6 +3,7 @@ microsoft.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
+54.73.151.144:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaab.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 84.19.27.150:443:7udRhAyX8tER7IM6hnYsL6ZwcmF5LmZvci5pbw
 gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -11,6 +12,7 @@ gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 172.107.228.59:443:ee1603010200010001fc030386e24c3add2068616a6920
 Persian.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 104.149.166.45:443:ee1603010200010001fc030386e24c3add2068616a6920
+34.244.155.39:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 blue.blacksnow.international:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 3.249.230.236:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 34.253.48.76:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
@@ -18,7 +20,6 @@ blue.blacksnow.international:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Parsserver.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 77.73.67.155:443:eea8515c3f8cf78da73551dc9a185a3ba77777772e636c6f7564666c6172652e636f6d
 172.107.222.131:443:ee1603010200010001fc030386e24c3add2068616a6920
-185.145.245.41:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 46.165.206.7:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaaf.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
@@ -68,7 +69,6 @@ Chanel.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.s
 www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-63.33.203.193:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
 Parsserver.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
@@ -82,14 +82,12 @@ ofcourse.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
 34.242.37.144:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 Solozoom.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-54.78.17.203:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 storage.gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 www-parsonline-com.Parsonline.tours:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 70.36.112.22:443:ee1603010200010001fc030386e24c3add206D636920
 74.222.1.211:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
-amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -100,6 +98,7 @@ people.iranian.baby.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 3.9.226.2:443:ee1603010200010001fc030386e24c3add206972616e20
 185.145.245.125:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
+st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 http.mailsgmail.info.:443:7mvQen9JHkuHkUgFBSUOXxVtYWlsLmdvb2dsZS5jb20%3D
 yare-dasbestaniye-man-bamano-hamrahe-mani.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 www.heyhowareyou.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -121,13 +120,14 @@ vsp8.selfip.com:443:7hrrDXO3IBm9FvH3n520wWt3d3cuY2xvdWRmbGFyZS5jb20
 185.145.245.142:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 Doorbin.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
+34.247.68.107:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 daily-trends.my-loliitta.website:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 dubai.afterparty.skin:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 50.7.6.146:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
-34.255.4.33:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 207.180.206.250:2083:eedd1733acb0210882c034f0f76af83e11736572766572322e626f726e61686f7374696e672e636f6d
 208.115.202.72:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 5.252.118.53:443:ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
+52.31.151.218:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 3.249.7.119:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 185.145.245.41:8443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 GFS.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
@@ -138,6 +138,7 @@ MAN-mikham-bedonam-ta-key-mikhay-bebandi.berembocar.cfd:443:7jK5IN_7UWQwKOL2uHjU
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_hetz.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 34.248.138.139:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
+yahoo.com-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk80.sbs.blueboombox.catering:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 104.149.142.191:443:ee56c61135a40dbf23b74ee384218db26a6d792e6972616e63656c6c2e6972
@@ -146,7 +147,6 @@ musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 daily-trends.android-tv-plus.site:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 52.19.132.105:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
-94.130.226.131:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 185.145.245.93:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 104.149.144.27:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg%3D%3D
