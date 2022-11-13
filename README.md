@@ -14,10 +14,10 @@ Some Proxies
 - [Proxy 12](https://t.me/proxy?server=208.115.202.72&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
 - [Proxy 13](https://t.me/proxy?server=Trytry.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 - [Proxy 14](https://t.me/proxy?server=172.107.222.130&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
-- [Proxy 15](https://t.me/proxy?server=34.245.186.248&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b)
-- [Proxy 16](https://t.me/proxy?server=daily-trends.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
-- [Proxy 17](https://t.me/proxy?server=207.180.206.250&port=2083&secret=eedd1733acb0210882c034f0f76af83e11736572766572322e626f726e61686f7374696e672e636f6d)
-- [Proxy 18](https://t.me/proxy?server=418db.www.google.com.alphard.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 15](https://t.me/proxy?server=daily-trends.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
+- [Proxy 16](https://t.me/proxy?server=207.180.206.250&port=2083&secret=eedd1733acb0210882c034f0f76af83e11736572766572322e626f726e61686f7374696e672e636f6d)
+- [Proxy 17](https://t.me/proxy?server=418db.www.google.com.alphard.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
+- [Proxy 18](https://t.me/proxy?server=54.73.218.107&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b)
 ---
 Copy Paste For Telegram
 ---
@@ -36,8 +36,8 @@ https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee0000000000000000000
 https://t.me/proxy?server=208.115.202.72&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=Trytry.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=172.107.222.130&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
-https://t.me/proxy?server=34.245.186.248&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 https://t.me/proxy?server=daily-trends.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=207.180.206.250&port=2083&secret=eedd1733acb0210882c034f0f76af83e11736572766572322e626f726e61686f7374696e672e636f6d
 https://t.me/proxy?server=418db.www.google.com.alphard.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=54.73.218.107&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 ```
