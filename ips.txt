@@ -79,6 +79,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 34.247.27.159:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 iro.roo3beh.bond.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 ofcourse.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+52.18.103.23:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
 34.242.37.144:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 Solozoom.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -89,6 +90,7 @@ web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 amazon.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.Com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.www.google.com.sarzamindownload.download.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+3.249.7.156:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 Microsoft.com-Dabestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 mashti-bash.kheilisarde.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
@@ -97,8 +99,6 @@ people.iranian.baby.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 3.9.226.2:443:ee1603010200010001fc030386e24c3add206972616e20
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 104.149.152.31:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg%3D%3D
-52.208.106.223:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
-34.244.239.160:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 yare-dasbestaniye-man-bamano-hamrahe-mani.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 188.42.166.156:8888:7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
 www.heyhowareyou.co.uk:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -145,7 +145,6 @@ daily-trends.android-tv-plus.site:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 104.149.144.27:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg%3D%3D
 Perfect.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-104.149.169.181:443:ee1603010200010001fc030386e24c3add2068616a6920
 95.217.24.189:1234:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 www.gen0r-e.co.uk.:443:7gAAAAAAAAAAAAAAAAAAAABzMy5hbWF6b25hd3MuY29t
 34.240.12.67:443:eec123a2b7f1010ac6ff9565eef8e625e477777767697a6c657267682e636f2e756b
