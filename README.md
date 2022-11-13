@@ -1,10 +1,10 @@
 Some Proxies
 ---
 - [Proxy 1](https://t.me/proxy?server=Perfect.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
-- [Proxy 2](https://t.me/proxy?server=54.220.78.89&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b)
+- [Proxy 2](https://t.me/proxy?server=3.249.120.83&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b)
 - [Proxy 3](https://t.me/proxy?server=195.189.98.71&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972)
 - [Proxy 4](https://t.me/proxy?server=185.8.106.233&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
-- [Proxy 5](https://t.me/proxy?server=3.249.164.175&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b)
+- [Proxy 5](https://t.me/proxy?server=54.246.225.46&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b)
 - [Proxy 6](https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 7](https://t.me/proxy?server=ncpa.cpl.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 - [Proxy 8](https://t.me/proxy?server=50.7.6.146&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
@@ -22,10 +22,10 @@ Copy Paste For Telegram
 ---
 ```
 https://t.me/proxy?server=Perfect.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-https://t.me/proxy?server=54.220.78.89&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
+https://t.me/proxy?server=3.249.120.83&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 https://t.me/proxy?server=195.189.98.71&port=443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=185.8.106.233&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
-https://t.me/proxy?server=3.249.164.175&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
+https://t.me/proxy?server=54.246.225.46&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=ncpa.cpl.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=50.7.6.146&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
