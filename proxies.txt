@@ -23,7 +23,6 @@ https://t.me/proxy?server=104.149.166.171&port=443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=imdb.com-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk80.sbs.blueboombox.catering&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 https://t.me/proxy?server=Full.fre.gerdoo.cyou.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-https://t.me/proxy?server=63.32.96.216&port=13091&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.speca.onetop.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=52.19.132.105&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 https://t.me/proxy?server=baraye.iraneman.foundation.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -56,7 +55,6 @@ https://t.me/proxy?server=94.242.60.200&port=443&secret=Ee32b920dffb51643028e2f6
 https://t.me/proxy?server=104.149.152.12&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=iro.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=snow.lord-stark.faith&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
-https://t.me/proxy?server=54.76.5.101&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 https://t.me/proxy?server=3.9.226.2&port=443&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaaf.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=www.digitalresistance.us.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
@@ -80,8 +78,10 @@ https://t.me/proxy?server=AVDS.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sg
 https://t.me/proxy?server=74.222.1.211&port=443&secret=ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 https://t.me/proxy?server=microsoft.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=13.42.2.131&port=443&secret=7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
+https://t.me/proxy?server=188.42.166.156&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20&
 https://t.me/proxy?server=daily-trends.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=34.245.110.32&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
+https://t.me/proxy?server=185.145.245.41&port=8443&secret=ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=www.ipify.one.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 https://t.me/proxy?server=54.73.151.144&port=443&secret=eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 https://t.me/proxy?server=Rose.thanks-a-lot.yachts&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
@@ -125,6 +125,7 @@ https://t.me/proxy?server=18.203.68.169&port=443&secret=eec121a2b7f2021ac6ff8565
 https://t.me/proxy?server=172.106.6.213&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specb.onetop.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=94.130.136.168&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20
+https://t.me/proxy?server=34.254.19.83&port=2358&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 https://t.me/proxy?server=207.180.206.250&port=2083&secret=eedd1733acb0210882c034f0f76af83e11736572766572322e626f726e61686f7374696e672e636f6d
 https://t.me/proxy?server=78.140.141.98&port=14527&secret=7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg==
 https://t.me/proxy?server=Perfect.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
