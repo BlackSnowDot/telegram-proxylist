@@ -72,6 +72,7 @@ baraye.iraneman.foundation.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.152.12:443:ee1603010200010001fc030386e24c3add2068616a6920
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spece.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 Rayan.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
