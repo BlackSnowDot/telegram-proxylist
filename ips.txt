@@ -34,8 +34,8 @@ topol-mesle.golabighermez.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 88.85.75.50:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
-195.189.98.71:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specd.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+195.189.98.71:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 172.107.222.134:443:ee1603010200010001fc030386e24c3add2068616a6920
 54.194.39.34:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 Fasuo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
@@ -90,10 +90,10 @@ Solozoom.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 Moka.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-70.36.112.22:443:ee1603010200010001fc030386e24c3add206D636920
+104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 74.222.1.211:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
-104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+70.36.112.22:443:ee1603010200010001fc030386e24c3add206D636920
 52.50.149.113:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 Barak-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -124,6 +124,7 @@ lianaTurbo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 Gerchin-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
+34.254.60.120:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 logicalunit.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 34.247.68.107:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 50.7.6.146:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -134,8 +135,8 @@ digikala2.ddns.net:443:eebda6fd79e04cb9caa8abbdaa746953ed6177732e616d617a6f6e2e6
 104.149.153.57:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 3.249.7.119:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 GFS.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-185.8.106.233:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.107.228.58:443:ee1603010200010001fc030386e24c3add2068616a6920
+185.8.106.233:443:ee1603010200010001fc030386e24c3add2068616a6920
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_hetz.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
