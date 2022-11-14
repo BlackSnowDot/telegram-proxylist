@@ -53,6 +53,7 @@ www.ipify.one.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 78.140.141.98:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 Rakora-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+34.242.75.217:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 Varzhin-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 418db.www.google.com.alphard.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
