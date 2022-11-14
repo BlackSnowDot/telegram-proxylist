@@ -15,7 +15,8 @@ Some Proxies
 - [Proxy 13](https://t.me/proxy?server=www.wiley.wiki.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D)
 - [Proxy 14](https://t.me/proxy?server=172.107.222.130&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920)
 - [Proxy 15](https://t.me/proxy?server=daily-trends.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
-- [Proxy 16](https://t.me/proxy?server=77.73.67.155&port=443&secret=eea8515c3f8cf78da73551dc9a185a3ba77777772e636c6f7564666c6172652e636f6d)
+- [Proxy 16](https://t.me/proxy?server=54.78.60.236&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b)
+- [Proxy 17](https://t.me/proxy?server=77.73.67.155&port=443&secret=eea8515c3f8cf78da73551dc9a185a3ba77777772e636c6f7564666c6172652e636f6d)
 ---
 Copy Paste For Telegram
 ---
@@ -35,5 +36,6 @@ https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee0000000000000000000
 https://t.me/proxy?server=www.wiley.wiki.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 https://t.me/proxy?server=172.107.222.130&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=daily-trends.android-tv-plus.site&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
+https://t.me/proxy?server=54.78.60.236&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 https://t.me/proxy?server=77.73.67.155&port=443&secret=eea8515c3f8cf78da73551dc9a185a3ba77777772e636c6f7564666c6172652e636f6d
 ```
