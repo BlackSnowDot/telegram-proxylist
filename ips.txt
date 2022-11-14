@@ -8,8 +8,8 @@ microsoft.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.
 AVDS.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaab.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 84.19.27.150:443:7udRhAyX8tER7IM6hnYsL6ZwcmF5LmZvci5pbw
-46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add6170706c652e636f6d
+46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -51,6 +51,7 @@ Fasuo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 iro.android-tv-plus.site:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 iro.my-loliitta.art:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
+34.245.106.214:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 Sardoma-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.ipify.one.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
@@ -69,6 +70,7 @@ Trytry.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add206972616e20
+3.250.59.57:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 5.161.124.32:8080:7gARIjNEVWZ3iJmqu8zd7v9zb2Z0NzguaXIu
 Chanel.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 www.google.com.best-phonix.gives:443:7jK5IN_7UWQwKOL2uHjU6sFteXdlYi5kdW9saW5nby5jb20
@@ -96,7 +98,6 @@ ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
 185.21.217.80:8444:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 52.18.103.23:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
-54.229.227.28:2358:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 Moka.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -131,6 +132,7 @@ Vayigan-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5I
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 94.242.60.187:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 104.149.145.174:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+185.145.245.77:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 Doorbin.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 lianaTurbo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 Gerchin-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
