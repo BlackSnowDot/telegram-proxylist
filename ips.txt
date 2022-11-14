@@ -9,8 +9,8 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
+104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 AmerinAlasko.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 172.107.228.59:443:ee1603010200010001fc030386e24c3add2068616a6920
 13.42.2.131:443:7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
@@ -38,6 +38,7 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 50.7.46.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 Coverme.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+3.249.23.105:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 104.149.169.180:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -46,7 +47,6 @@ iro.my-loliitta.art:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
 Sardoma-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-3.249.3.30:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 78.140.141.98:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 www.cloddns.ink.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
@@ -75,6 +75,7 @@ bio-Tech.paeez-ashegh-ast.vin.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 34.243.32.26:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+54.194.178.92:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 185.145.245.141:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spece.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
@@ -135,8 +136,9 @@ close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 5.252.118.53:443:ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
 52.48.72.61:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 104.149.153.57:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
-mci.Full.Forall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+mci.Full.torall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web.www.google.com.iranserver.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+mci.Full.Forall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 172.107.228.58:443:ee1603010200010001fc030386e24c3add2068616a6920
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
@@ -151,6 +153,7 @@ amazon.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-t
 104.149.166.43:443:ee1603010200010001fc030386e24c3add2068616a6920
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 95.216.177.44:1234:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
+daily-trends.android-tv-plus.site:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 104.149.144.27:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg%3D%3D
 mci.ir.mci.ir.mci.ir.mci.ir.mci.ir.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -158,11 +161,11 @@ mci.ir.mci.ir.mci.ir.mci.ir.mci.ir.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6s
 imdb.com-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk80.sbs.blueboombox.catering:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Nokia.com.jorgiaa.berlin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 babu.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+78.140.141.98:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg==
 ncpa.cpl.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 mci.Full.me.gerdooo.cyou.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 Difender-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Renoos.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 3.252.99.117:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 apple.com.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.geography.team.:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-34.247.188.71:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 kalafe-shodim.lowbatman.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
