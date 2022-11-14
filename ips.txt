@@ -1,8 +1,7 @@
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
-54.170.64.16:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
+52.50.25.238:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 microsoft.com-dasbestaniye-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 54.216.37.189:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
-52.50.25.238:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 blackfriday.com-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk80.sbs.blueboombox.catering:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
