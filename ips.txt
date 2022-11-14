@@ -24,6 +24,7 @@ Parsserver.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.c
 77.73.67.155:443:eea8515c3f8cf78da73551dc9a185a3ba77777772e636c6f7564666c6172652e636f6d
 104.149.179.133:443:ee1603010200010001fc030386e24c3add2068616a6920
 46.165.206.7:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+3.249.0.203:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaaf.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
 104.149.143.159:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
