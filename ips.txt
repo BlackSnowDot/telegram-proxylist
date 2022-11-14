@@ -22,9 +22,9 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 Berke.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 54.229.227.28:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 104.149.138.190:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
-172.107.222.131:443:ee1603010200010001fc030386e24c3add2068616a6920
-Parsserver.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+104.149.143.122:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg==
 77.73.67.155:443:eea8515c3f8cf78da73551dc9a185a3ba77777772e636c6f7564666c6172652e636f6d
+172.107.222.131:443:ee1603010200010001fc030386e24c3add2068616a6920
 RaKora-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 104.149.179.133:443:ee1603010200010001fc030386e24c3add2068616a6920
 46.165.206.7:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
@@ -66,7 +66,6 @@ Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 2loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 Trytry.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-195.189.96.165:443:ee1603010200010001fc030386e24c3add6d792e6972616e63656c6c2e6972
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add206972616e20
@@ -88,7 +87,6 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 Rayan.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
-34.247.27.159:443:eec121a2b7f2010ac6ff8565eef8e625e47777772e67687a6962656667742e636f2e756b
 104.149.166.171:443:ee1603010200010001fc030386e24c3add2068616a6920
 94.130.136.168:543:7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20
 104.149.169.195:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -96,6 +94,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.:443:eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
 185.21.217.80:8444:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+54.229.227.28:2358:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayi.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 Moka.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -107,16 +106,17 @@ winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaX
 Barak-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.87.154.39:443:7lIs14nDvRU6uQZdOXwY-XB3ZWIuaWdhcC5uZXQ
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
+Msn.com.verakrooz.police.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 people.iranian.baby.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 iro.my-loliitta.autos:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 3.9.226.2:443:ee1603010200010001fc030386e24c3add206972616e20
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
+77.73.70.137:443:ee32b920dffb51643028e2f6b878d4eac14d6f2e676f6f6c652e746f6b686d65
 google.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk22.live-69istanbul.cloud.bluenight.bingo:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-84.32.129.9:443:ee1603010200010001fc030386e24c3add2068616a6920
-104.149.154.147:443:ee1603010200010001fc030386e24c3add2068616a6920
 www.I2N1cmlvdXMAAAA.icu.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
+104.149.154.147:443:ee1603010200010001fc030386e24c3add2068616a6920
 best.com-mact-reciver.www.microsoft.com.nuremberg-city.kaufen:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 54.76.176.144:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
@@ -127,6 +127,7 @@ Vayigan-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5I
 3.71.125.156:443:7rxHX90eh-ahBfmWf-nUBlF5YWhvby5jby51aw
 34.250.183.224:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
+94.242.60.187:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 104.149.145.174:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 Doorbin.com-man-bamano-hamrahe-mani.wwe.microsoft.com.aparat.com.www.google.com.sarzamindownload.download:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 lianaTurbo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
