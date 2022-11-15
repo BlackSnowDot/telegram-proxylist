@@ -156,6 +156,7 @@ https://t.me/proxy?server=www.cloddns.ink.&port=443&secret=7gAAAAAAAAAAAAAAAAAAA
 https://t.me/proxy?server=45.76.36.150&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=mci.Full.Forall.gerdoo.cyou.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=104.149.138.190&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
+https://t.me/proxy?server=52.16.72.90&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 https://t.me/proxy?server=winterhouse-wood.abrarvancloud.foundation&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 https://t.me/proxy?server=208.115.202.72&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=Varzhin-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
