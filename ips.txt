@@ -13,6 +13,7 @@ gerdoo.me.temp.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 AmerinAlasko.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 172.107.228.59:443:ee1603010200010001fc030386e24c3add2068616a6920
+104.149.143.118:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 13.42.2.131:443:7hYDAQIAAQAB_AMDhuJMOt0gaXJhbiA
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.speca.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 54.229.227.28:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
@@ -24,6 +25,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 46.165.206.7:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 172.107.222.132:443:ee1603010200010001fc030386e24c3add2068616a6920
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
+70.36.102.125:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 Toshiba.com.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.geography.team.:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Full.fre.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 208.115.202.51:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -54,6 +56,7 @@ www.cloddns.ink.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 54.194.146.55:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 Rakora-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 Varzhin-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+Full.floe.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 418db.www.google.com.alphard.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 23.88.115.160:443:ee1603010200010001fc030386e24c3add6e616d6176612e6972
 46.165.206.53:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
@@ -88,6 +91,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
 104.149.166.171:443:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.169.195:443:ee1603010200010001fc030386e24c3add2068616a6920
+mci.Full.Qorall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Fonazh-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.:443:eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
 172.107.222.130:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -105,6 +109,7 @@ winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaX
 172.107.222.133:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 Msn.com.verakrooz.police.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 www.linc.beauty.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
+78.140.245.38:3053:ee0000000000000000000000000000000073617469642d676f622e6d78
 iro.my-loliitta.autos:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 185.145.245.125:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -113,8 +118,8 @@ people.iranian.baby.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Mehsar.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 77.73.70.137:443:ee32b920dffb51643028e2f6b878d4eac14d6f2e676f6f6c652e746f6b686d65
 google.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk22.live-69istanbul.cloud.bluenight.bingo:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 104.149.154.147:443:ee1603010200010001fc030386e24c3add2068616a6920
 Samsung.com.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.geography.team.:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
@@ -122,13 +127,16 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 54.76.176.144:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 Full.fre.gerdooo.cyou.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 Vayigan-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-3.71.125.156:443:7rxHX90eh-ahBfmWf-nUBlF5YWhvby5jby51aw
+77.73.70.13:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 Demenicporsel.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 185.145.245.122:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
-77.73.70.13:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
+3.71.125.156:443:7rxHX90eh-ahBfmWf-nUBlF5YWhvby5jby51aw
+Full.free.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 34.250.183.224:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
+mci.Full.rorall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.145.245.77:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
+185.145.245.142:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 lianaTurbo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 Gerchin-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
