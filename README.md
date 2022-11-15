@@ -14,8 +14,7 @@ Some Proxies
 - [Proxy 12](https://t.me/proxy?server=www.linc.beauty.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D)
 - [Proxy 13](https://t.me/proxy?server=iro.my-loliitta.autos&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
 - [Proxy 14](https://t.me/proxy?server=AmerinAlasko.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
-- [Proxy 15](https://t.me/proxy?server=54.229.217.197&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b)
-- [Proxy 16](https://t.me/proxy?server=52.215.224.185&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b)
+- [Proxy 15](https://t.me/proxy?server=52.215.224.185&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b)
 ---
 Copy Paste For Telegram
 ---
@@ -34,6 +33,5 @@ https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee0000000000000000000
 https://t.me/proxy?server=www.linc.beauty.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 https://t.me/proxy?server=iro.my-loliitta.autos&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=AmerinAlasko.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-https://t.me/proxy?server=54.229.217.197&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 https://t.me/proxy?server=52.215.224.185&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 ```
