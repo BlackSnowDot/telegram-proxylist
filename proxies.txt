@@ -105,6 +105,7 @@ https://t.me/proxy?server=172.106.6.213&port=443&secret=ee1603010200010001fc0303
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specb.onetop.monaserver.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=54.154.232.70&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=44.192.55.188&port=443&secret=eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
+https://t.me/proxy?server=44.202.209.20&port=443&secret=eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 https://t.me/proxy?server=3.250.131.180&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=FREE------------------------LoL-------------------IS.B------------------FT.BOOK-------------------------CO.us.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 https://t.me/proxy?server=www.linc.beauty.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
@@ -136,7 +137,6 @@ https://t.me/proxy?server=winterhouse-wood.abrarvancloud.foundation&port=443&sec
 https://t.me/proxy?server=3.129.42.160&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=208.115.202.72&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=188.42.166.156&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
-https://t.me/proxy?server=3.145.102.40&port=443&secret=eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 https://t.me/proxy?server=Microsoft.com.google---com.tk&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=89.208.106.58&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
 https://t.me/proxy?server=77.73.131.56&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -153,3 +153,4 @@ https://t.me/proxy?server=45.76.42.84&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJte
 https://t.me/proxy?server=irancell.ir.irancell.ir.irancell.ir.irancell.ir.iranserver.cfd&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
+https://t.me/proxy?server=18.216.156.166&port=443&secret=eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
