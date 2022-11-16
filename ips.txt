@@ -47,7 +47,6 @@ www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZn
 54.170.255.253:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 irancell.ir.irancell.ir.irancell.ir.irancell.ir.iranserver.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 Loonamar.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
-54.195.40.112:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add206972616e20
@@ -61,6 +60,7 @@ bio-Tech.paeez-ashegh-ast.vin.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 siaho-sefid.videokolooche.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+rms.www.google.com.pridest18.click:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spece.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 Dasrete.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
@@ -98,6 +98,7 @@ shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 77.73.70.137:443:ee32b920dffb51643028e2f6b878d4eac14d6f2e676f6f6c652e746f6b686d65
 34.247.84.210:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 3.250.133.35:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
+mci.Full.ihvorall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 mci.Full.xorxdsdsgbgyall.Goal-Golden.Cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 3737.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.n0.babavelkonah.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
@@ -134,6 +135,7 @@ amazon.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-t
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 52.213.162.253:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+95.216.177.44:1234:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
 104.149.144.27:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg%3D%3D
