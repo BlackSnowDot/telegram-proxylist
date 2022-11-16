@@ -25,7 +25,6 @@ my.irancell.ir.my.irancell.nl.:443:eee1dc5066d0bba16e988b78b672a474976d792e69726
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-185.145.245.126:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 88.85.75.50:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 50.7.46.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -68,7 +67,6 @@ bio-Tech.paeez-ashegh-ast.vin.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 siaho-sefid.videokolooche.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-103.105.48.22:43584:7gAAAAAAAAAAAAAAAAAAAABteXNvbi5kdW9saW5nby5jb20
 185.145.245.141:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spece.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
