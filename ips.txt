@@ -35,6 +35,7 @@ opensare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
+52.209.109.161:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 78.140.141.98:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 54.194.146.55:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
@@ -90,6 +91,7 @@ web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 104.149.147.26:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 46.165.206.54:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
+3.250.131.180:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 45.87.154.39:443:7lIs14nDvRU6uQZdOXwY-XB3ZWIuaWdhcC5uZXQ
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
@@ -106,7 +108,6 @@ shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 37.32.28.31:8080:7pf-z_7P_s_-z_7P_s_-z_5zbGFjay5jb20%3D
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
-34.255.160.30:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 Samsung.com.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.geography.team.:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specb.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
