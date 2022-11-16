@@ -13,7 +13,6 @@ https://t.me/proxy?server=5.252.118.53&port=443&secret=ee41c5f68a6b91456ee26fa83
 https://t.me/proxy?server=146.190.28.144&port=8087&secret=7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI&@ProxyVpn11
 https://t.me/proxy?server=95.216.177.44&port=1234&secret=ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
 https://t.me/proxy?server=208.115.202.51&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
-https://t.me/proxy?server=mci.Full.eorall.gerdoo.cyou.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=34.250.70.151&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=92.205.111.198&port=444&secret=eea9d75341148c15b44e49cfc3a87351c37777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
@@ -49,6 +48,7 @@ https://t.me/proxy?server=50.7.46.42&port=443&secret=ee1603010200010001fc030386e
 https://t.me/proxy?server=45.34.4.182&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=Game-tools.emailbox.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=84.234.96.42&port=14987&secret=7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
+https://t.me/proxy?server=20.223.150.121&port=443&secret=eef0912426e90160d3d2cbb387eafeeeae706172732d636c6f75642e6972
 https://t.me/proxy?server=104.149.143.159&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=181.215.69.124&port=4178&secret=d53c21d6552233138f2d7b6b2b65103a
 https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -128,6 +128,7 @@ https://t.me/proxy?server=5.161.124.32&port=8080&secret=7gARIjNEVWZ3iJmqu8zd7v9z
 https://t.me/proxy?server=babu.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=92.205.105.183&port=444&secret=ee22beb4dc87b0b413eb560fd1832035837777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=bio-Tech.paeez-ashegh-ast.vin.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=koolare.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=92.205.107.205&port=444&secret=ee22beb4dc87b0b413eb560fd1832035837777772e636c6f7564666c6172652e636f6d
 https://t.me/proxy?server=Rakora-bokamin-Atonmin.www.google.com.arvancloud.com.arvancloud.gifts&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=63.35.177.194&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
