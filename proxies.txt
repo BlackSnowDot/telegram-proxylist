@@ -28,7 +28,6 @@ https://t.me/proxy?server=188.42.166.154&port=8888&secret=ee1603010200010001fc03
 https://t.me/proxy?server=wapershow.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=157.90.28.95&port=443&secret=ee000000000000000000000000000000006d632e79616e6465782e7275
 https://t.me/proxy?server=89.208.106.188&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
-https://t.me/proxy?server=162.250.120.14&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=80.87.206.95&port=14452&secret=7uqMa0c0YmjZKPJOIy8wiqBpcmlubi5pcg==
 https://t.me/proxy?server=185.226.118.80&port=8080&secret=7pf-z_7P_s_-z_7P_s_-z_5zbGFjay5jb20%3D
 https://t.me/proxy?server=34.248.108.68&port=443&secret=eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
@@ -110,6 +109,7 @@ https://t.me/proxy?server=52.213.162.253&port=443&secret=eec121a2b7f2022ac1ff856
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specialll.amir.tavalodi.cfd.&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 https://t.me/proxy?server=418db.www.google.com.alphard.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+https://t.me/proxy?server=34.255.1.166&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=34.244.209.217&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=softwar.google---com.ga&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=104.149.169.180&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
