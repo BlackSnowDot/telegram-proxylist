@@ -1,5 +1,6 @@
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 blackfriday.com-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk80.sbs.blueboombox.catering:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+Rookia.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.158.178:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
@@ -28,7 +29,7 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.145.245.126:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 50.7.46.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
-34.254.199.152:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
+176.34.166.95:2358:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 52.213.47.199:443:eec121a2b7f2021ac6ff8565eef8e625e47777772e6c6f6f7065726674672e636f2e756b
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 opensare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
@@ -65,7 +66,6 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 bio-Tech.paeez-ashegh-ast.vin.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.152.12:443:ee1603010200010001fc030386e24c3add2068616a6920
 54.154.232.70:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
-wondersek.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 siaho-sefid.videokolooche.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -113,11 +113,11 @@ shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 34.247.84.210:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 37.32.28.31:8080:7pf-z_7P_s_-z_7P_s_-z_5zbGFjay5jb20%3D
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-Samsung.com.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.geography.team.:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specb.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 www.motors.pics.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 34.251.70.218:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
+176.34.166.95:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 lapss.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specialll.amir.tavalodi.cfd.:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 3.71.125.156:443:7rxHX90eh-ahBfmWf-nUBlF5YWhvby5jby51aw
@@ -139,14 +139,14 @@ close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 208.115.202.72:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 5.252.118.53:443:ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
 3.252.218.69:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
-persianserver7777.ddns.net.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
+mci.Full.torall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web.www.google.com.iranserver.cfd:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+persianserver7777.ddns.net.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 172.107.228.58:443:ee1603010200010001fc030386e24c3add2068616a6920
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 amazon.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk22.live-69istanbul.cloud.bluenight.bingo:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-103.105.50.202:443:ee000000000000000000000000000000006d797765622e64756f6c696e676f2e636f6d
 104.149.142.191:443:ee56c61135a40dbf23b74ee384218db26a6d792e6972616e63656c6c2e6972
 89.208.106.188:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
