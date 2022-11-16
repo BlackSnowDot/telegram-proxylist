@@ -14,8 +14,7 @@ Some Proxies
 - [Proxy 12](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
 - [Proxy 13](https://t.me/proxy?server=twitter.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk22.live-69istanbul.cloud.bluenight.bingo&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 14](https://t.me/proxy?server=185.145.245.125&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65)
-- [Proxy 15](https://t.me/proxy?server=34.240.161.167&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b)
-- [Proxy 16](https://t.me/proxy?server=34.244.209.217&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b)
+- [Proxy 15](https://t.me/proxy?server=34.244.209.217&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b)
 ---
 Copy Paste For Telegram
 ---
@@ -34,6 +33,5 @@ https://t.me/proxy?server=shaparak.ir.pep-shaparak.cyou&port=443&secret=7jK5IN_7
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=twitter.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk22.live-69istanbul.cloud.bluenight.bingo&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=185.145.245.125&port=443&secret=Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
-https://t.me/proxy?server=34.240.161.167&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 https://t.me/proxy?server=34.244.209.217&port=443&secret=eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 ```
