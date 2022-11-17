@@ -49,7 +49,6 @@ Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 2loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 181.215.69.124:4178:d53c21d6552233138f2d7b6b2b65103a
 3.145.36.149:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
-3.231.204.196:443:eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 mci.Full.xsdfghjkmppsskkbgyall.Goal-Golden.Cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
@@ -64,6 +63,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 bio-Tech.paeez-ashegh-ast.vin.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 104.149.152.12:443:ee1603010200010001fc030386e24c3add2068616a6920
 195.201.46.165:1234:ee000000000000000000000000000000006d61696c2e676f6f676c652e636f6d
+44.200.62.132:443:eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
 172.106.6.213:8443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 208.115.202.114:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 77.73.131.56:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
@@ -74,6 +74,7 @@ irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru:443:7jK5IN_7UW
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spece.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
+speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgIC
 www.sshroot.cloud.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 89.208.106.58:443:ee000000000000000000000000000000006e616d6176612e6972
@@ -124,6 +125,8 @@ close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 104.149.158.170:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 208.115.202.72:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 5.252.118.53:443:ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
+104.149.153.57:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
+18.188.228.119:443:eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 forever.active.jomanji.hair:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
