@@ -1,6 +1,6 @@
 Some Proxies
 ---
-- [Proxy 1](https://t.me/proxy?server=3.91.173.28&port=443&secret=eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b)
+- [Proxy 1](https://t.me/proxy?server=18.117.92.136&port=443&secret=eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b)
 - [Proxy 2](https://t.me/proxy?server=50.7.192.26&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
 - [Proxy 3](https://t.me/proxy?server=172.106.6.213&port=8443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
 - [Proxy 4](https://t.me/proxy?server=speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
@@ -20,7 +20,7 @@ Some Proxies
 Copy Paste For Telegram
 ---
 ```
-https://t.me/proxy?server=3.91.173.28&port=443&secret=eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
+https://t.me/proxy?server=18.117.92.136&port=443&secret=eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
 https://t.me/proxy?server=50.7.192.26&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=172.106.6.213&port=8443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
