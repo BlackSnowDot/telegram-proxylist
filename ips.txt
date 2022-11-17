@@ -3,7 +3,6 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
 blackfriday.com-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk80.sbs.blueboombox.catering:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 cloudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.specwa.awspro--isback.agency.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
-92.205.107.205:444:ee22beb4dc87b0b413eb560fd1832035837777772e636c6f7564666c6172652e636f6d
 46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 3.249.217.100:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
@@ -22,11 +21,12 @@ FREE------------------------LoL-------------------IS.B------------------FT.BOOK-
 74.222.1.158:443:eeda6aa7c2ac619c060f355f3f1732573764756f6c696e676f2e636f6d
 79.137.202.83:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 3.15.214.216:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
+3.235.134.0:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 185.145.245.126:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
-88.85.75.50:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+88.85.75.50:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 50.7.46.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 www.nyc.com-salar.com.1-2-3.ir.nagahan-1997-eshgh.ink.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
@@ -96,14 +96,12 @@ www.linc.beauty.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 iro.my-loliitta.autos:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 185.145.245.125:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-34.254.238.149:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 212.64.223.79:1358:7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 77.73.70.137:443:ee32b920dffb51643028e2f6b878d4eac14d6f2e676f6f6c652e746f6b686d65
 34.247.84.210:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 3.250.133.35:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-mci.Full.xorxdsdsgbgyall.Goal-Golden.Cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 3737.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.n0.babavelkonah.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 koolare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
@@ -112,7 +110,9 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 176.34.166.95:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 lapss.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specialll.amir.tavalodi.cfd.:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
+77.73.70.13:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 3.71.125.156:443:7rxHX90eh-ahBfmWf-nUBlF5YWhvby5jby51aw
+18.191.73.58:3725:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 165.22.67.144:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 94.242.60.187:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 104.149.145.174:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
@@ -127,7 +127,6 @@ close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 5.252.118.53:443:ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
 104.149.153.57:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 3.252.218.69:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
-mci.Full.torall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 103.105.50.140:34570:ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 forever.active.jomanji.hair:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -138,9 +137,9 @@ amazon.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-t
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 52.213.162.253:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
-44.195.45.121:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
+wapershow.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 104.149.144.27:443:7uHcUGbQu6FumIt4tnKkdJdteS5pcmFuY2VsbC5pcg%3D%3D
 mci.ir.mci.ir.mci.ir.mci.ir.mci.ir.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 3.129.42.160:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
