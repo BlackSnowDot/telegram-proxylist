@@ -29,6 +29,7 @@ softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 50.7.46.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 www.nyc.com-salar.com.1-2-3.ir.nagahan-1997-eshgh.ink.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 157.230.122.7:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
+opensare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 Forever.active.jomanji.hair:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -67,7 +68,6 @@ siaho-sefid.videokolooche.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 rms.www.google.com.pridest18.click:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spece.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-Dasrete.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 188.42.166.156:8888:ee1603010200010001fc030386e24c3add206972616e20
 167.235.139.231:443:ee0000000000000000000000000000000075612e79656b74616e65742e636f6d
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI=
@@ -100,8 +100,9 @@ shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 3.250.133.35:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 70.36.102.103:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 st18.www.google.com.pridest18.cfd:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
-3737.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.n0.babavelkonah.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
+Mci.ir.mci.ir.mci.ir.mci.ir.mci.ir.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 koolare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+3737.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.n0.babavelkonah.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 45.76.36.150:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specb.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 34.251.70.218:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
