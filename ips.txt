@@ -114,6 +114,7 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 94.242.60.187:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 104.149.145.174:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 ddyvhffff.co.uk:443:7jK5IN_7UWQwKOL2uHjU6sFteS5pcmFuY2VsbC5pcg
+sabzi-polo-ba-maahi-ko3e-nanat-sepahi.arvincloud.lol.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 lianaTurbo.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 45.76.42.84:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
