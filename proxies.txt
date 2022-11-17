@@ -11,7 +11,6 @@ https://t.me/proxy?server=mci.Full.uorall.gerdoo.cyou.&port=443&secret=7jK5IN_7U
 https://t.me/proxy?server=104.149.147.26&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg
 https://t.me/proxy?server=104.149.158.170&port=443&secret=7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 https://t.me/proxy?server=5.252.118.53&port=443&secret=ee41c5f68a6b91456ee26fa83de1b3ee7f6d797765622e64756f6c696e676f2e636f6d
-https://t.me/proxy?server=sabzi-polo-ba-maahi-ko3e-nanat-sepahi.arvincloud.lol.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=146.190.28.144&port=8087&secret=7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI&@ProxyVpn11
 https://t.me/proxy?server=208.115.202.51&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=Irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -78,6 +77,7 @@ https://t.me/proxy?server=44.192.127.143&port=443&secret=eec121a1b7f1022ac1ff856
 https://t.me/proxy?server=172.106.6.213&port=8443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 https://t.me/proxy?server=94.130.136.168&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
+https://t.me/proxy?server=MSAK.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=50.7.4.154&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 https://t.me/proxy?server=104.149.145.174&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
