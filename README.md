@@ -16,7 +16,8 @@ Some Proxies
 - [Proxy 14](https://t.me/proxy?server=divoone-shodim.numbermorgh.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
 - [Proxy 15](https://t.me/proxy?server=188.42.166.155&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20)
 - [Proxy 16](https://t.me/proxy?server=104.149.169.197&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
-- [Proxy 17](https://t.me/proxy?server=opensare.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
+- [Proxy 17](https://t.me/proxy?server=3.215.184.54&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b)
+- [Proxy 18](https://t.me/proxy?server=opensare.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA)
 ---
 Copy Paste For Telegram
 ---
@@ -37,5 +38,6 @@ https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee0000000000000000000
 https://t.me/proxy?server=divoone-shodim.numbermorgh.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=188.42.166.155&port=8888&secret=ee1603010200010001fc030386e24c3add206972616e20
 https://t.me/proxy?server=104.149.169.197&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
+https://t.me/proxy?server=3.215.184.54&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 https://t.me/proxy?server=opensare.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 ```
