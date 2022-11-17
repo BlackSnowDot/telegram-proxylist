@@ -1,6 +1,7 @@
 Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 Rookia.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaab.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 cloudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.specwa.awspro--isback.agency.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
@@ -33,10 +34,12 @@ www.nyc.com-salar.com.1-2-3.ir.nagahan-1997-eshgh.ink.:443:7jK5IN_7UWQwKOL2uHjU6
 opensare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 165.22.68.33:443:eef4359a9b325ff1d1e5084df0e0f7537b736c61636b2e636f6d
 49.12.74.166:443:7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
+104.149.161.244:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 3.144.10.140:443:eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
 Forever.active.jomanji.hair:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
+104.149.169.181:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 185.213.164.41:100:7uNjlX8_5SLZKww-gQfqm9xzMy5hbWF6b25hd3MuY29t
 44.202.209.20:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 135.181.203.167:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgIA
@@ -48,6 +51,7 @@ Microsoft.com.google---com.tk:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 2loudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_likeeeee.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.spec_w.soft--5000-ir.mylftv.com.:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ%3D%3D
 181.215.69.124:4178:d53c21d6552233138f2d7b6b2b65103a
 3.145.36.149:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
+104.149.169.197:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 mci.Full.xsdfghjkmppsskkbgyall.Goal-Golden.Cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 78.140.245.103:443:ee00000000000000000000000000000000696d616765732e6170706c652e636f6d
@@ -139,6 +143,7 @@ musicplayer.minepiiiroksi.pics:2310:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 185.174.136.97:443:ee000000000000000000000000000000006e616d6176612e6972
 94.158.219.191:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 104.149.143.122:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
+104.149.157.29:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 Game-tools.emailbox.lol:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-know-thisismysite.us-cloudflare.com-or-maybe-apple.com-netwerk90.party.cameron.vacations:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 146.190.28.144:8087:7vykPV79IMWoyk23rDU1rSF3d3cuaXJhbi1tb2JpbGUuaXI
