@@ -5,7 +5,6 @@ cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.t
 cloudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.specwa.awspro--isback.agency.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 3.249.217.100:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
-104.149.166.172:443:ee1603010200010001fc030386e24c3add2068616a6920
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
 my.irancell.ir.my.irancell.nl.:443:eee1dc5066d0bba16e988b78b672a474976d792e6972616e63656c6c2e6972
 77.73.67.20:443:ee32b920dffb51643028e2f6b878d4eac14d61696c2e676f6f6c652e746f6b686d65
@@ -23,6 +22,7 @@ FREE------------------------LoL-------------------IS.B------------------FT.BOOK-
 3.235.134.0:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 31.192.237.84:4334:7maYzDXaoVDW4NCQ4pb2oPVjLmFsYm9yei5pcg
 softwar.google---com.ga:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
+Irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 94.242.60.200:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 88.85.75.50:14527:7h7a1u7gMA_dBlEKl7-ibn5pcmlubi5pcg%3D%3D
 50.7.46.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -34,7 +34,6 @@ opensare.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 Forever.active.jomanji.hair:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 74.222.1.212:443:ee1603010200010001fc030386e24c3add4d592e6952616e43656c6c2e4b6f73
-52.209.109.161:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 44.202.204.44:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 185.213.164.41:100:7uNjlX8_5SLZKww-gQfqm9xzMy5hbWF6b25hd3MuY29t
@@ -78,6 +77,7 @@ snow.lord-stark.faith:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA%3D
 vaciok.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 mci.Full.Qorall.gerdoo.cyou.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 ronaskadeh.ir.aqc.ir.mehdimardani.com.98mall.ir.to-tehran.ir.ruzbazaar.ir.sh-chb.ir.mr-nano.ir.ayatfestival.ir.sarabravansar.ir.falahatkar.ir.bakala.ir.behanpolymer.ir.mtes-chemical.ir.upstaka.ir.maskancto.com.bouldering.ir.toggery.ir.ziraatbankasi.pics.:443:eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+mci.Full.xqexdeeddpeuorxgyall.Goal-Golden.Cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 34.250.70.151:443:eec121a2b7f2022ac1ff8565eef8e625e47777772e6d696765726f706c692e636f2e756b
 50.7.4.154:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
