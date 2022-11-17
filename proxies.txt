@@ -74,6 +74,7 @@ https://t.me/proxy?server=46.165.206.7&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZW
 https://t.me/proxy?server=94.130.136.168&port=543&secret=7tpqp8KsYZwGDzVfPxcyVzdkdW9saW5nby5jb20=
 https://t.me/proxy?server=50.7.4.154&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=barayeazadi.cloudflare--aws-cloudflare.aws--cloudflare.cloudflare--com.mylftv.com.&port=443&secret=eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
+https://t.me/proxy?server=mci.Full.Qorall.gerdoo.cyou.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=104.149.145.174&port=443&secret=ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 https://t.me/proxy?server=77.73.70.13&port=443&secret=ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
 https://t.me/proxy?server=104.149.166.172&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
