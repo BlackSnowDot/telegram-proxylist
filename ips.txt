@@ -7,7 +7,6 @@ cloudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_i
 46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
-3.238.34.101:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 server-netmeli55.ddns.net:443:7vg246Ct-qITbtoSMKQC5uBzMy5hbWF6b25hd3MuY29t
 104.149.138.190:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 50.7.192.26:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -164,3 +163,4 @@ Sand-Bad.bella-alamenda.codes.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 172.107.228.61:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 2loudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.specwa.awspro--isback.agency.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 44.192.127.143:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
+44.200.55.227:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
