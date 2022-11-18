@@ -48,6 +48,7 @@ https://t.me/proxy?server=185.213.164.60&port=100&secret=7qPfHc1_0ibZXI8awWDmiCF
 https://t.me/proxy?server=Game-tools.emailbox.lol&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
 https://t.me/proxy?server=84.234.96.42&port=14987&secret=7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 https://t.me/proxy?server=181.215.69.124&port=4178&secret=d53c21d6552233138f2d7b6b2b65103a
+https://t.me/proxy?server=avancloudfood.ddns.net.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 https://t.me/proxy?server=104.149.169.197&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=104.149.152.12&port=443&secret=ee1603010200010001fc030386e24c3add2068616a6920
 https://t.me/proxy?server=44.200.62.132&port=443&secret=eec122a1b7f1122ac1ff8565eef8e625e47777772e6774726f6b696c2e636f2e756b
@@ -97,6 +98,7 @@ https://t.me/proxy?server=3.235.134.0&port=443&secret=eec121a1b7f1022ac1ff8565ee
 https://t.me/proxy?server=74.63.233.50&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=byby.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=50.7.6.146&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
+https://t.me/proxy?server=snapparvancloud.ddns.net.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 https://t.me/proxy?server=st18.www.google.com.pridest18.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=49.12.74.166&port=443&secret=7s8J5YYVhvOdr-WqHy_58gV1ay5zcG9ydHMueWFob28uY29t
 https://t.me/proxy?server=46.165.206.53&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
@@ -106,7 +108,6 @@ https://t.me/proxy?server=18.224.31.207&port=443&secret=eec122a1b7f1111ac1ff8465
 https://t.me/proxy?server=forever.active.jomanji.hair&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 https://t.me/proxy?server=mci.Full.me.gerdooo.cyou.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
-https://t.me/proxy?server=44.199.233.112&port=443&secret=eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 https://t.me/proxy?server=418db.www.google.com.alphard.cfd&port=2310&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=Sand-Bad.bella-alamenda.codes.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=softwar.google---com.ga&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sF3d3cuZ29vZ2xlLnNob3A
@@ -169,3 +170,4 @@ https://t.me/proxy?server=104.149.161.244&port=443&secret=ee1603010200010001fc03
 https://t.me/proxy?server=104.149.157.29&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=89.38.145.188&port=8076&secret=7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 https://t.me/proxy?server=185.174.136.97&port=443&secret=ee000000000000000000000000000000006e616d6176612e6972
+https://t.me/proxy?server=44.201.55.17&port=3725&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
