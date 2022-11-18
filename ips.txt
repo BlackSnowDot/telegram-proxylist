@@ -61,7 +61,6 @@ www.digitalresistance.us.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZn
 8-4-4-3-2-6-6-668-88-8-8-9-99-0-0-0-9-9-88-7-55-iraq-56-9-9-7.arvincloud.shop.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 www.eager.beauty.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 Rose.thanks-a-lot.yachts:443:7vQ1mpsyX_HR5QhN8OD3U3tzbGFjay5jb20%3D
-3.143.0.147:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 188.42.166.154:8888:ee1603010200010001fc030386e24c3add206972616e20
 singka.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 5.161.124.32:8080:7gARIjNEVWZ3iJmqu8zd7v9zb2Z0NzguaXIu
@@ -100,8 +99,8 @@ web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 46.165.206.54:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
+3.128.94.231:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 45.87.154.39:443:7lIs14nDvRU6uQZdOXwY-XB3ZWIuaWdhcC5uZXQ
-44.201.55.17:3725:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 blackfriday.love-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk88.net.cleanup.tips:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 172.107.222.133:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -137,6 +136,7 @@ close-all.upperopen.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 3.145.71.52:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 50.7.6.146:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 217.182.170.180:3782:0eb6c4bad3c2dabc300f854c4574ef76
+3.128.94.231:2358:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 68.178.160.38:444:eecdeaa3ef541bab7be0b34b99d52714a57777772e636c6f7564666c6172652e636f6d
 104.149.158.170:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
 208.115.202.72:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
@@ -159,6 +159,7 @@ speedtest.com-tell.me-how-are-you-babe-newplan.forsale-700port-everybody-gonna-k
 avancloudfood.ddns.net.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 MSAK.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 mci.ir.mci.ir.mci.ir.mci.ir.mci.ir.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
+XAkaria.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 VsCode.cloudflare.com.1.1.1.1.cloudwns.fun.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 babu.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 70.36.102.127:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
