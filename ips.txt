@@ -2,12 +2,12 @@ Google.com.cloudways.live:443:7gAAAAAAAAAAAAAAAAAAAAB3d3cuZ29vZ2xlLmNvbQ
 89.38.145.188:8076:7sgP9gT6RUCPHRUmJNO__PJteS5pcmFuLWNlbGwuY29t
 Rookia.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 172.107.228.61:443:ee1603010200010001fc030386e24c3add2068616a6920
-3.15.31.50:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_aaab.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 cloudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.specwa.awspro--isback.agency.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 46.165.206.56:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 172.106.6.213:443:ee1603010200010001fc030386e24c3add2068616a6920
 104.149.143.118:443:7lUPvpErJ3U_pUojxzuoBjRteS5pcmFuY2VsbC5pcg%3D%3D
+18.218.145.106:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 server-netmeli55.ddns.net:443:7vg246Ct-qITbtoSMKQC5uBzMy5hbWF6b25hd3MuY29t
 104.149.138.190:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 50.7.192.26:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
