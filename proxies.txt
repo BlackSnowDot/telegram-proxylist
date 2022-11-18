@@ -100,7 +100,6 @@ https://t.me/proxy?server=70.36.102.127&port=88&secret=7tpqp8KsYZwGDzVfPxcyVzdzZ
 https://t.me/proxy?server=server-netmeli55.ddns.net&port=443&secret=7vg246Ct-qITbtoSMKQC5uBzMy5hbWF6b25hd3MuY29t
 https://t.me/proxy?server=rechade.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 https://t.me/proxy?server=forever.active.jomanji.hair&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
-https://t.me/proxy?server=3.138.113.197&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 https://t.me/proxy?server=mci.Full.me.gerdooo.cyou.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 https://t.me/proxy?server=212.64.223.79&port=1358&secret=7tYSIYgkjFyTmy5C4STsXh93d3cuc2hhcGFyYWsuaXI
 https://t.me/proxy?server=44.199.233.112&port=443&secret=eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
