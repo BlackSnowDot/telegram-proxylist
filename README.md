@@ -11,13 +11,12 @@ Some Proxies
 - [Proxy 9](https://t.me/proxy?server=50.7.46.42&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
 - [Proxy 10](https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special.nick.blackmile.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA)
 - [Proxy 11](https://t.me/proxy?server=iro.my-loliitta.autos&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI)
-- [Proxy 12](https://t.me/proxy?server=18.221.212.104&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b)
-- [Proxy 13](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
-- [Proxy 14](https://t.me/proxy?server=divoone-shodim.numbermorgh.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
-- [Proxy 15](https://t.me/proxy?server=avancloudfood.ddns.net.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D)
-- [Proxy 16](https://t.me/proxy?server=104.149.169.197&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
-- [Proxy 17](https://t.me/proxy?server=3.91.45.40&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b)
-- [Proxy 18](https://t.me/proxy?server=irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
+- [Proxy 12](https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d)
+- [Proxy 13](https://t.me/proxy?server=divoone-shodim.numbermorgh.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ)
+- [Proxy 14](https://t.me/proxy?server=avancloudfood.ddns.net.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D)
+- [Proxy 15](https://t.me/proxy?server=104.149.169.197&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d)
+- [Proxy 16](https://t.me/proxy?server=3.91.45.40&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b)
+- [Proxy 17](https://t.me/proxy?server=irancell.ir.irancell.ir.irancell.ir.irancell.ir.eghtesadnews.guru&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg)
 ---
 Copy Paste For Telegram
 ---
@@ -33,7 +32,6 @@ https://t.me/proxy?server=XAkaria.dynu.com&port=443&secret=7vQ1mpsyX_HR5QhN8OD3U
 https://t.me/proxy?server=50.7.46.42&port=443&secret=ee1603010200010001fc030386e24c3add6170706c652e636f6d
 https://t.me/proxy?server=cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special.nick.blackmile.cfd.&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 https://t.me/proxy?server=iro.my-loliitta.autos&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
-https://t.me/proxy?server=18.221.212.104&port=443&secret=eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 https://t.me/proxy?server=103.105.50.140&port=34570&secret=ee000000000000000000000000000000006d79736f6e2e64756f6c696e676f2e636f6d
 https://t.me/proxy?server=divoone-shodim.numbermorgh.cfd&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABjLnJwcnMtY2RuLmNvbQ
 https://t.me/proxy?server=avancloudfood.ddns.net.&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
