@@ -11,7 +11,6 @@ server-netmeli55.ddns.net:443:7vg246Ct-qITbtoSMKQC5uBzMy5hbWF6b25hd3MuY29t
 104.149.138.190:443:ee550fbe912b27753fa54a23c73ba806346d792e6972616e63656c6c2e6972
 50.7.192.26:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 44.199.233.112:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
-18.209.230.197:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 46.165.206.7:88:7tpqp8KsYZwGDzVfPxcyVzdzZWdtZW50LnByb2QuYmlkci5pbw
 18.221.97.217:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 157.90.28.95:443:ee000000000000000000000000000000006d632e79616e6465782e7275
@@ -43,6 +42,7 @@ Forever.active.jomanji.hair:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
 84.234.96.42:14987:7gZ6AVAeiFe5Bjc6tMS-7vdsZWFkZXIuaXI%3D
 mahsamini.cloudflare--aws.aws-cloudflare.cloudflare--com.mylftv.com:443:eeda411655b684fe87abf58ec2235e28166478736865796b687a616569642e636c6f756466726f6e742e6e6574
 104.149.169.181:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
+185.213.164.41:100:7uNjlX8_5SLZKww-gQfqm9xzMy5hbWF6b25hd3MuY29t
 44.202.209.20:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
 135.181.203.167:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgIA
 188.42.166.155:8888:ee1603010200010001fc030386e24c3add206972616e20
@@ -96,10 +96,12 @@ web-music.fcesteghlal.careers:443:7jK5IN_7UWQwKOL2uHjU6sF3d3cubm9raWEubmV0
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.special_wayoka.tavalodi.cfd.:443:7gAAAAAAAAAAAAAAAAAAAABkeHNoZXlraHphZWlkLmNsb3VkZnJvbnQubmV0
 winterhouse-wood.abrarvancloud.foundation:443:7jK5IN_7UWQwKOL2uHjU6sFuYW1hdmEuaXI
 45.87.154.39:443:7lIs14nDvRU6uQZdOXwY-XB3ZWIuaWdhcC5uZXQ
+blackfriday.love-tell.me-what-should-i-do-newplan.forsale-443port-nobody-gonna-know-thisismysite.me-microsoft.com-or-maybe-apple.com-netwerk88.net.cleanup.tips:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 49.12.241.237:8080:ee00112233445566778899aabbccddeeff6e616d6176612e6972
 172.107.222.133:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 www.linc.beauty.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 rechade.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
+3.239.52.128:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 iro.my-loliitta.autos:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 185.145.245.125:443:Ee32b920dffb51643028e2f6b878d4eac16d61696c2e676f6f6c652e746f6b686d65
 shaparak.ir.pep-shaparak.cyou:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
@@ -114,6 +116,7 @@ Mci.ir.mci.ir.mci.ir.mci.ir.mci.ir.iranserver.rentals:443:7jK5IN_7UWQwKOL2uHjU6s
 152.89.45.142:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
 cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.specb.onetop.monaserver.cfd.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 www.motors.pics.:443:7gAAAAAAAAAAAAAAAAAAAABsaWIuYXJ2YW5jbG91ZC5jb20%3D
+18.224.31.207:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 lapss.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 85.208.253.148:100:7uj2t9p7ICPGNMcPKS2KaiVzMy5hbWF6b25hd3MuY29t
 77.73.70.13:443:ee32b920dffb51643028e2f6b878d4eac14172612e676f6f6c652e746f6b686d65
@@ -161,6 +164,5 @@ mci.Full.me.gerdooo.cyou.:443:7gAAAAAAAAAAAAAAAAAAAABuYW1hdmEuaXI
 byby.dynu.com:443:7vQ1mpsyX_HR5QhN8OD3U3sgICAgICAgICAgICAgICA
 Sand-Bad.bella-alamenda.codes.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 172.107.228.61:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
-3.15.149.30:443:eec122a1b7f1111ac1ff8465eef8e625e47777772e6772747467646572642e636f2e756b
 2loudflare.com.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.with_everyone.i_am.the_internet.specwa.awspro--isback.agency.:443:7gAAAAAAAAAAAAAAAAAAAAB3ZWIuYmFsZS5pbw%3D%3D
 44.192.127.143:443:eec121a1b7f1022ac1ff8565eef8e625e47777772e6b6f6f6c706572672e636f2e756b
