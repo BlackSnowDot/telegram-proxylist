@@ -12,7 +12,6 @@ zara.com-excuse.me-what-should-i-do-newplan.forsale-81port-nobody-gonna-know-thi
 34.200.221.20:443:eec212a2b2f1112ac1ff8465eef8e625e47777772e6466666464662e636f2e756b
 195.181.165.216:443:ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
 185.59.221.146:443:ee32b920dffb51643028e2f6b878d4eac16170706c652e636f6d
-cloudflare.com.nokia.com.co.uk.do_yo.want_to.clash_with.this.www.microsoft.com.there_is_no.place_like.localhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_internet.speci.amir.homaairline.tech.:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA
 50.7.38.42:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 64.31.10.149:443:ee1603010200010001fc030386e24c3add6170706c652e636f6d
 dantono.wercall.boerall.perfect-artors.boats:443:7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICAg
